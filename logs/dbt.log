@@ -1,0 +1,44 @@
+[0m16:17:30.683307 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd61924e940>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd61932fd30>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd619347cd0>]}
+
+
+============================== 16:17:30.701417 | b460dd46-298c-419c-8e9e-a128d21e5f8f ==============================
+[0m16:17:30.701417 [info ] [MainThread]: Running with dbt=1.7.1
+[0m16:17:30.701935 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'profiles_dir': '/Users/bijil/.dbt', 'log_path': 'logs', 'fail_fast': 'False', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'invocation_command': 'dbt init', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m16:17:43.858470 [debug] [MainThread]: Starter project path: /Users/bijil/Library/Caches/pypoetry/virtualenvs/dbt-soda-project-mCLih4Yu-py3.8/lib/python3.8/site-packages/dbt/include/starter_project
+[0m16:17:43.878458 [info ] [MainThread]: 
+Your new dbt project "dbt_soda_project" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m16:17:43.879560 [info ] [MainThread]: Setting up your profile.
+[0m16:18:19.870023 [info ] [MainThread]: Profile dbt_soda_project written to /Users/bijil/.dbt/profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m16:18:19.981199 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 49.35634, "process_user_time": 3.401701, "process_kernel_time": 0.630046, "process_mem_max_rss": "127008768", "process_in_blocks": "0", "process_out_blocks": "0"}
+[0m16:18:19.982573 [debug] [MainThread]: Command `dbt init` succeeded at 16:18:19.982030 after 49.36 seconds
+[0m16:18:19.983257 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd61924e940>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd6095cda00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd61a108fa0>]}
+[0m16:18:19.983892 [debug] [MainThread]: Flushing usage events
+[0m16:19:51.894742 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fc5e0977430>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fc61223e760>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fc612285100>]}
+
+
+============================== 16:19:51.898988 | e109e1ac-2a2d-4bdb-9ae0-2b45bc9f5cf5 ==============================
+[0m16:19:51.898988 [info ] [MainThread]: Running with dbt=1.7.1
+[0m16:19:51.899516 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/Users/bijil/repositories/dbt-soda-ci-cd/dbt_soda_project', 'debug': 'False', 'version_check': 'True', 'log_path': 'logs', 'fail_fast': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'invocation_command': 'dbt run', 'introspect': 'True', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m16:19:51.900021 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path /Users/bijil/repositories/dbt-soda-ci-cd/dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m16:19:51.902890 [debug] [MainThread]: Resource report: {"command_name": "run", "command_wall_clock_time": 0.060074333, "process_user_time": 1.954381, "process_kernel_time": 0.313638, "process_mem_max_rss": "98906112", "command_success": false, "process_in_blocks": "0", "process_out_blocks": "0"}
+[0m16:19:51.903741 [debug] [MainThread]: Command `dbt run` failed at 16:19:51.903369 after 0.06 seconds
+[0m16:19:51.904090 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fc5e0977430>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fc612285ac0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fc6122858b0>]}
+[0m16:19:51.904418 [debug] [MainThread]: Flushing usage events
