@@ -4,7 +4,7 @@
     "allowJaggedRows": false,
     "allowQuotedNewlines": false,
     "encoding": "UTF-8",
-    "fieldDelimiter": ",",
+    "fieldDelimiter": "U+002C",
     "preserveAsciiControlCharacters": false,
     "quote": "\"",
     "skipLeadingRows": 1
