@@ -25,3 +25,9 @@ jobs:
       with:
         path: 'sample_data.csv'
         destination: ${{ secrets.GCS_LOCATION }} 
+
+    - id: 'Set up Cloud SDK'
+      uses: 'google-github-actions/setup-gcloud@v1'
+
+    - id: 'Use gcloud CLI'
+      run: 'gcloud info'
