@@ -1,14 +1,5 @@
 {
   "autodetect": true,
-  "csvOptions": {
-    "allowJaggedRows": false,
-    "allowQuotedNewlines": false,
-    "encoding": "ISO-8859–1",
-    "fieldDelimiter": "|",
-    "preserveAsciiControlCharacters": false,
-    "quote": "\"",
-    "skipLeadingRows": 1
-  },
   "sourceFormat": "CSV",
   "sourceUris": [
     "gs://dbt-soda-ci-cd-ops/sample_data/sample_data.csv"
