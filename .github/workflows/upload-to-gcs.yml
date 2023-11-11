@@ -37,5 +37,5 @@ jobs:
         fi
         echo "Creating table..."
         bq mk \
-            --external_table_definition=CSV:sample_data.json@gs://dbt-soda-ci-cd/sample_data/sample_data.csv \
+            --external_table_definition=CSV:gs://dbt-soda-ci-cd/sample_data/sample_data.json@gs://dbt-soda-ci-cd/sample_data/sample_data.csv \
             dbt-ci-cd:external_tables.employees
