@@ -29,3 +29,9 @@ jobs:
     - name: 'Set up Cloud SDK'
       uses: 'google-github-actions/setup-gcloud@v1'
 
+    - name: Create BigQuery External Table
+      run: |
+        bq mk \
+        --external_table_definition=CSV:sample_data.json@gs://dbt-soda-ci-cd/sample_data/sample_data.csv \
+        dbt-ci-cd:external_tables.employees
+
