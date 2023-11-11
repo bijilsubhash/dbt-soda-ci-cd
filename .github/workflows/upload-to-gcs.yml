@@ -25,10 +25,4 @@ jobs:
       uses: 'google-github-actions/upload-cloud-storage@v1'
       with:
         path: 'sample_data.csv'
-        destination: 'gs://dbt-soda-ci-cd'
-
-    # Example of using the output
-    - id: 'uploaded-files'
-      uses: 'foo/bar@main'
-      env:
-        files: '${{ steps.upload-folder.outputs.uploaded }}'
+        destination: 'dbt-soda-ci-cd'
