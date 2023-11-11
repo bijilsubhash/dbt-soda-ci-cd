@@ -34,7 +34,7 @@ jobs:
         if bq show --format=prettyjson dbt-ci-cd:external_tables.employees; then
           echo "Table exists. Dropping table..."
           bq rm -f dbt-ci-cd:external_tables.employees
-          
+
         fi
 
         echo "Creating table..."
@@ -46,4 +46,5 @@ jobs:
 
         bq mk --table \
           --external_table_definition=gs://dbt-soda-ci-cd-ops/sample_data/sample_data_def.json \
-          dbt-ci-cd:external_tables.employees
+          dbt-ci-cd:external_tables.employees \
+          gs://dbt-soda-ci-cd-ops/sample_data/sample_data_schema.json
