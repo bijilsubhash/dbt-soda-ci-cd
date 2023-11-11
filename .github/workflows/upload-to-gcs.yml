@@ -36,6 +36,4 @@ jobs:
           bq rm -f dbt-ci-cd:external_tables.employees
         fi
         echo "Creating table..."
-        bq mk \
-            --external_table_definition=CSV:gs://dbt-soda-ci-cd/sample_data/sample_data.json@gs://dbt-soda-ci-cd/sample_data/sample_data.csv \
-            dbt-ci-cd:external_tables.employees
+        bq mk --external_table_definition=gs://dbt-soda-ci-cd/sample_data/sample_data.json@gs://dbt-soda-ci-cd/sample_data/sample_data.csv dbt-ci-cd:external_tables.employees
