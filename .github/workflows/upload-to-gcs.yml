@@ -38,11 +38,11 @@ jobs:
         fi
 
         echo "Creating table..."
-        
+
         bq mkdef --source_format=CSV --autodetect=true \
           gs://dbt-soda-ci-cd/sample_data/sample_data.csv > sample_data_def.json
 
-        gsutil cp sample_data_schema.json gs://dbt-soda-ci-cd/sample_data/
+        gsutil cp sample_data_def.json gs://dbt-soda-ci-cd/sample_data/
 
         bq mk --table \
           --external_table_definition=gs://dbt-soda-ci-cd/sample_data/sample_data_def.json \
