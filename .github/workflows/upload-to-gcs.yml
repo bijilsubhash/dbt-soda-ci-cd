@@ -40,10 +40,10 @@ jobs:
         echo "Creating table..."
 
         bq mkdef --source_format=CSV --autodetect=true \
-          gs://dbt-soda-ci-cd/sample_data/sample_data.csv > sample_data_def.json
+          gs://dbt-soda-ci-cd-ops/sample_data/sample_data.csv > sample_data_def.json
 
-        gsutil cp sample_data_def.json gs://dbt-soda-ci-cd/sample_data/
+        gsutil cp sample_data_def.json gs://dbt-soda-ci-cd-ops/sample_data/
 
         bq mk --table \
-          --external_table_definition=gs://dbt-soda-ci-cd/sample_data/sample_data_def.json \
+          --external_table_definition=gs://dbt-soda-ci-c-ops/sample_data/sample_data_def.json \
           dbt-ci-cd:external_tables.employees
