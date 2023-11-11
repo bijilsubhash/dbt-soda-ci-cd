@@ -39,7 +39,7 @@ jobs:
 
         echo "Creating table..."
 
-        bq mkdef --source_format=CSV --autodetect=true \
+        bq mkdef --source_format=CSV \
           gs://dbt-soda-ci-cd-ops/sample_data/sample_data.csv > sample_data_def.json
 
         gsutil cp sample_data_def.json gs://dbt-soda-ci-cd-ops/sample_data/
