@@ -1,4 +1,5 @@
 {
+  "autodetect": true,
   "csvOptions": {
     "allowJaggedRows": false,
     "allowQuotedNewlines": false,
