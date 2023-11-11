@@ -1,7 +1,0 @@
-{
-  "autodetect": true,
-  "sourceFormat": "CSV",
-  "sourceUris": [
-    "gs://dbt-soda-ci-cd-ops/sample_data/sample_data.csv"
-  ]
-}
