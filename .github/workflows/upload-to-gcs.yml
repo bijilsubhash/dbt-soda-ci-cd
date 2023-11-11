@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'sample_data.csv'
+      - 'sample_data/'
 
 jobs:
   upload-to-gcs:
@@ -23,11 +23,9 @@ jobs:
     - id: 'upload-folder'
       uses: 'google-github-actions/upload-cloud-storage@v1'
       with:
-        path: 'sample_data.csv'
+        path: 'sample_data/'
         destination: ${{ secrets.GCS_LOCATION }} 
 
     - name: 'Set up Cloud SDK'
       uses: 'google-github-actions/setup-gcloud@v1'
 
-    - name: 'Use gcloud CLI'
-      run: 'gcloud info'
