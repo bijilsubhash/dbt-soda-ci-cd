@@ -31,15 +31,11 @@ jobs:
 
     - name: Create or Replace BigQuery External Table
       run: |
-        if bq ls --format=prettyjson your-project-id:your_dataset | grep -q '"id": "your-project-id:your_dataset.your_table_name"'; then
-          echo "Table exists. Updating..."
-          bq update \
-            --external_table_definition=CSV:sample_data.json@gs://dbt-soda-ci-cd/sample_data/sample_data.csv \
-            dbt-ci-cd:external_tables.employees
-        else
-          echo "Table does not exist. Creating..."
-          bq mk \
-            --external_table_definition=CSV:sample_data.json@gs://dbt-soda-ci-cd/sample_data/sample_data.csv \
-            dbt-ci-cd:external_tables.employees
+        if bq show --format=prettyjson dbt-ci-cd:external_tables.employees; then
+          echo "Table exists. Dropping table..."
+          bq rm -f dbt-ci-cd:external_tables.employees
         fi
-
+        echo "Creating table..."
+        bq mk \
+            --external_table_definition=CSV:sample_data.json@gs://dbt-soda-ci-cd/sample_data/sample_data.csv \
+            dbt-ci-cd:external_tables.employees
