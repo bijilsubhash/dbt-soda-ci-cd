@@ -15,11 +15,10 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Set up Cloud SDK
-      uses: google-github-actions/setup-gcloud@master
+      uses: google-github-actions/setup-gcloud@main
       with:
         service_account_key: ${{ secrets.GCP_SA_KEY }}
         project_id: ${{ secrets.PROJECT_ID }}
 
     - name: Upload file to Google Cloud Storage
       run: gsutil cp ./sample_data.csv gs://dbt-soda-ci-cd
-      
