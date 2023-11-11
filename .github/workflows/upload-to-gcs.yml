@@ -18,7 +18,17 @@ jobs:
       name: 'Authenticate to Google Cloud'
       uses: 'google-github-actions/auth@v0.4.0'
       with:
-        credentials_json: '${{ secrets.GCP_SA_KEY }}'
+        credentials_json: $GCP_SA_KEY
 
-    - name: Upload file to Google Cloud Storage
-      run: gsutil cp ./sample_data.csv gs://dbt-soda-ci-cd
+
+    - id: 'upload-folder'
+      uses: 'google-github-actions/upload-cloud-storage@v1'
+      with:
+        path: 'sample_data.csv'
+        destination: 'gs://dbt-soda-ci-cd'
+
+    # Example of using the output
+    - id: 'uploaded-files'
+      uses: 'foo/bar@main'
+      env:
+        files: '${{ steps.upload-folder.outputs.uploaded }}'
