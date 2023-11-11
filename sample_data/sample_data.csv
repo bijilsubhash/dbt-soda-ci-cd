@@ -1,501 +1,501 @@
-employee_id,first_name,last_name,department_id,position,email,phone_number,salary,hire_date,total_years_as_employee,leave_remaining,age,gender,previous_position,highest_degree_achieved,manager_id,employment_status
-E1001,Sharon,Mendoza,D109,Sales Representative,sharon.mendoza@example.com,693-393-3702,53387,2012-08-11,11,19,30,M,Junior Sales Representative,PhD,Active
-E1002,Samuel,Jimenez,D108,Engineer,samuel.jimenez@example.com,460-823-3719,81821,2013-08-14,10,20,47,M,Senior Engineer,Diploma,Terminated
-E1003,Joshua,Hughes,D109,Sales Representative,joshua.hughes@example.com,296-774-4219,68897,2013-01-11,10,20,55,O,Intern,Bachelors,On Leave
-E1004,Linda,Morales,D108,Consultant,linda.morales@example.com,586-575-7784,110725,2021-04-09,2,28,49,F,Intern,Masters,Retired
-E1005,Barbara,Castillo,D102,Developer,barbara.castillo@example.com,602-697-6009,71156,2022-12-28,0,30,26,M,Senior Developer,PhD,Active
-E1006,Lisa,Ward,D102,Consultant,lisa.ward@example.com,997-760-6039,114438,2012-01-15,11,19,59,M,Junior Consultant,Masters,Retired
-E1007,Kathleen,Thomas,D101,Developer,kathleen.thomas@example.com,545-360-9207,83094,2012-03-03,11,19,57,O,Intern,Diploma,On Leave
-E1008,Katherine,Garcia,D110,Engineer,katherine.garcia@example.com,870-782-2847,115421,2016-08-18,7,23,41,M,Senior Engineer,Bachelors,On Leave
-E1009,Gregory,Wilson,D105,Manager,gregory.wilson@example.com,641-616-4321,88351,2018-07-24,5,25,58,O,Senior Manager,Bachelors,Retired
-E1010,Larry,Williams,D104,Consultant,larry.williams@example.com,868-774-7613,75480,2012-01-13,11,19,41,F,Senior Consultant,Bachelors,Terminated
-E1011,David,Martinez,D105,Consultant,david.martinez@example.com,423-964-2857,90996,2013-09-20,10,20,35,M,Junior Consultant,PhD,Terminated
-E1012,Jason,Walker,D110,Sales Representative,jason.walker@example.com,318-651-2395,94626,2016-10-04,7,23,54,O,Senior Sales Representative,Masters,Terminated
-E1013,Jonathan,Watson,D110,Manager,jonathan.watson@example.com,645-477-3689,84504,2015-01-08,8,22,46,O,Senior Manager,PhD,Terminated
-E1014,Justin,Lee,D104,Designer,justin.lee@example.com,962-387-8320,91783,2018-12-30,4,26,52,F,Intern,Diploma,Terminated
-E1015,Carol,Rivera,D105,Consultant,carol.rivera@example.com,594-225-8992,114307,2013-03-26,10,20,39,O,Intern,Masters,Terminated
-E1016,Ruth,Stewart,D106,Developer,ruth.stewart@example.com,634-872-4968,114459,2016-11-11,6,24,47,O,Senior Developer,Diploma,Retired
-E1017,Joshua,Kelly,D110,Consultant,joshua.kelly@example.com,856-822-7750,57125,2013-07-06,10,20,42,F,Intern,Masters,Retired
-E1018,Alexander,Stewart,D108,Manager,alexander.stewart@example.com,358-502-4806,71034,2019-04-17,4,26,55,M,Junior Manager,Bachelors,Retired
-E1019,Daniel,Mendoza,D106,Consultant,daniel.mendoza@example.com,667-290-5876,98956,2017-11-10,6,24,25,F,Intern,Bachelors,On Leave
-E1020,Christopher,Sanchez,D102,Engineer,christopher.sanchez@example.com,569-454-2133,99431,2018-07-08,5,25,27,F,Intern,Bachelors,On Leave
-E1021,Mary,James,D109,Consultant,mary.james@example.com,530-282-3437,102273,2012-10-02,11,19,29,M,Intern,Masters,Active
-E1022,Eric,Ramirez,D108,Developer,eric.ramirez@example.com,487-444-9929,59471,2015-09-30,8,22,51,F,Senior Developer,Diploma,On Leave
-E1023,Brian,Perez,D103,Engineer,brian.perez@example.com,582-484-7439,77880,2016-08-16,7,23,45,M,Junior Engineer,Bachelors,On Leave
-E1024,Michael,Hall,D102,Designer,michael.hall@example.com,872-467-3643,96451,2020-06-24,3,27,36,O,Junior Designer,PhD,Active
-E1025,Frank,Taylor,D105,Engineer,frank.taylor@example.com,209-876-1702,85323,2011-02-01,12,18,51,M,Senior Engineer,PhD,Retired
-E1026,Stephanie,White,D104,Manager,stephanie.white@example.com,365-579-6353,90193,2016-03-11,7,23,40,F,Junior Manager,Bachelors,On Leave
-E1027,Sarah,King,D103,Engineer,sarah.king@example.com,720-480-9045,118095,2012-04-05,11,19,36,M,Intern,Diploma,Terminated
-E1028,William,Hall,D110,Manager,william.hall@example.com,807-690-9783,95745,2020-10-09,3,27,25,F,Senior Manager,PhD,Terminated
-E1029,Donna,Hall,D107,Consultant,donna.hall@example.com,976-776-6240,71794,2020-09-27,3,27,53,M,Intern,Bachelors,Active
-E1030,Pamela,Carter,D110,Designer,pamela.carter@example.com,612-684-5070,84146,2022-12-15,0,30,38,O,Junior Designer,Diploma,Terminated
-E1031,Steven,Martinez,D102,Designer,steven.martinez@example.com,215-696-8796,106522,2018-02-10,5,25,36,M,Intern,PhD,Active
-E1032,Amanda,Richardson,D110,Sales Representative,amanda.richardson@example.com,747-298-8190,61691,2010-05-21,13,17,41,O,Senior Sales Representative,Diploma,Retired
-E1033,Rebecca,Mendoza,D105,Analyst,rebecca.mendoza@example.com,768-547-2849,92186,2012-06-20,11,19,58,M,Junior Analyst,Diploma,Retired
-E1034,Shirley,James,D103,Developer,shirley.james@example.com,834-932-2862,88393,2010-10-12,13,17,39,F,Senior Developer,Masters,Active
-E1035,John,Jackson,D103,Developer,john.jackson@example.com,680-215-3886,94940,2013-02-21,10,20,55,O,Intern,Masters,Terminated
-E1036,David,Roberts,D108,Analyst,david.roberts@example.com,455-964-2555,118801,2015-07-17,8,22,36,O,Junior Analyst,Masters,Retired
-E1037,Brandon,Thompson,D107,Designer,brandon.thompson@example.com,638-131-9284,100612,2022-12-20,0,30,54,F,Intern,Diploma,Retired
-E1038,Jessica,Carter,D102,Manager,jessica.carter@example.com,259-389-3563,82744,2021-05-27,2,28,60,O,Senior Manager,Masters,Retired
-E1039,Nicholas,Lopez,D110,Sales Representative,nicholas.lopez@example.com,179-185-2639,78508,2012-12-18,10,20,43,O,Senior Sales Representative,Bachelors,Retired
-E1040,Michelle,Martin,D108,Analyst,michelle.martin@example.com,147-656-6491,86282,2014-05-19,9,21,32,M,Senior Analyst,Bachelors,Terminated
-E1041,Amanda,Green,D107,Manager,amanda.green@example.com,147-227-8859,76110,2012-08-12,11,19,48,M,Intern,Bachelors,Active
-E1042,Melissa,Harris,D106,Consultant,melissa.harris@example.com,343-650-3616,91816,2013-08-30,10,20,48,F,Intern,Diploma,Terminated
-E1043,Eric,Cruz,D101,Sales Representative,eric.cruz@example.com,616-921-1362,54410,2018-02-05,5,25,28,F,Junior Sales Representative,Diploma,Terminated
-E1044,Katherine,Diaz,D105,Developer,katherine.diaz@example.com,959-347-6911,111729,2016-02-23,7,23,48,M,Junior Developer,Bachelors,Retired
-E1045,Timothy,Flores,D107,Developer,timothy.flores@example.com,191-155-3380,69765,2020-08-12,3,27,57,O,Senior Developer,Masters,Terminated
-E1046,Stephen,Miller,D106,Designer,stephen.miller@example.com,978-122-3443,83867,2011-08-31,12,18,38,M,Junior Designer,Masters,Retired
-E1047,Emily,Nelson,D109,Engineer,emily.nelson@example.com,829-717-9057,76023,2012-04-06,11,19,47,F,Intern,PhD,Terminated
-E1048,Eric,Gutierrez,D107,Developer,eric.gutierrez@example.com,705-466-4026,63404,2019-10-17,4,26,60,O,Senior Developer,Diploma,Active
-E1049,Sarah,Morris,D108,Manager,sarah.morris@example.com,374-856-8118,91608,2019-12-19,3,27,36,F,Intern,PhD,On Leave
-E1050,Laura,Davis,D110,Sales Representative,laura.davis@example.com,952-386-6129,84369,2013-03-31,10,20,40,M,Senior Sales Representative,Diploma,Terminated
-E1051,Jason,Clark,D105,Manager,jason.clark@example.com,949-228-8315,104008,2020-08-11,3,27,35,M,Junior Manager,Diploma,On Leave
-E1052,Daniel,Wood,D107,Manager,daniel.wood@example.com,717-376-3753,81820,2016-12-31,6,24,57,O,Intern,Masters,Retired
-E1053,Nicholas,Jackson,D108,Designer,nicholas.jackson@example.com,888-633-2629,55696,2020-10-03,3,27,45,F,Senior Designer,Masters,Terminated
-E1054,Kevin,Jimenez,D109,Developer,kevin.jimenez@example.com,405-851-1240,76440,2011-10-05,12,18,43,O,Senior Developer,PhD,Active
-E1055,Deborah,Ward,D104,Engineer,deborah.ward@example.com,837-626-6121,93126,2012-07-12,11,19,60,M,Junior Engineer,PhD,On Leave
-E1056,Alexander,Young,D102,Developer,alexander.young@example.com,192-166-1871,54159,2017-02-18,6,24,36,O,Junior Developer,Diploma,Active
-E1057,Samuel,Anderson,D103,Developer,samuel.anderson@example.com,599-746-4775,103759,2016-05-23,7,23,55,F,Intern,Masters,On Leave
-E1058,Amanda,Edwards,D103,Analyst,amanda.edwards@example.com,238-966-7849,57930,2011-08-22,12,18,47,O,Junior Analyst,Masters,Retired
-E1059,Katherine,Brooks,D107,Engineer,katherine.brooks@example.com,623-987-4947,100018,2015-09-13,8,22,35,O,Intern,Masters,Retired
-E1060,Lisa,Castillo,D108,Designer,lisa.castillo@example.com,138-111-9318,59028,2018-07-08,5,25,52,M,Senior Designer,Bachelors,Retired
-E1061,Richard,Patel,D101,Developer,richard.patel@example.com,887-896-6820,82584,2018-01-27,5,25,57,O,Senior Developer,Bachelors,Terminated
-E1062,Sarah,Gutierrez,D102,Consultant,sarah.gutierrez@example.com,878-520-4833,50638,2011-11-22,11,19,30,F,Intern,PhD,Retired
-E1063,Dorothy,Anderson,D107,Analyst,dorothy.anderson@example.com,167-582-6345,75150,2014-07-11,9,21,59,M,Senior Analyst,PhD,Terminated
-E1064,Brian,Johnson,D104,Analyst,brian.johnson@example.com,146-219-4475,78466,2015-10-23,8,22,29,O,Junior Analyst,Masters,Retired
-E1065,Donna,Torres,D105,Manager,donna.torres@example.com,735-422-6748,73393,2012-02-16,11,19,32,M,Intern,PhD,Terminated
-E1066,Ashley,Peterson,D107,Engineer,ashley.peterson@example.com,790-192-3217,72261,2015-08-28,8,22,58,O,Junior Engineer,Masters,On Leave
-E1067,Karen,Miller,D110,Analyst,karen.miller@example.com,647-667-5796,55809,2022-08-31,1,29,31,M,Intern,Bachelors,Active
-E1068,Anna,Morales,D106,Designer,anna.morales@example.com,625-937-2212,113548,2021-02-17,2,28,53,F,Intern,Masters,Active
-E1069,Samantha,Harris,D101,Sales Representative,samantha.harris@example.com,769-186-2569,99623,2021-05-09,2,28,49,O,Junior Sales Representative,Diploma,Active
-E1070,Karen,Murphy,D104,Sales Representative,karen.murphy@example.com,154-712-5949,76460,2022-06-25,1,29,54,F,Junior Sales Representative,Masters,Retired
-E1071,Nancy,Collins,D105,Analyst,nancy.collins@example.com,295-732-8594,58610,2013-07-05,10,20,47,O,Senior Analyst,Masters,On Leave
-E1072,Carol,Gomez,D105,Designer,carol.gomez@example.com,855-163-1916,104817,2021-03-26,2,28,47,M,Senior Designer,Masters,Active
-E1073,Donna,Lopez,D105,Sales Representative,donna.lopez@example.com,594-524-1184,119166,2019-06-28,4,26,31,F,Junior Sales Representative,Masters,Active
-E1074,Kathleen,Howard,D103,Designer,kathleen.howard@example.com,423-426-7686,112935,2021-02-03,2,28,60,O,Junior Designer,PhD,Retired
-E1075,Donna,Patel,D106,Developer,donna.patel@example.com,530-652-9961,69754,2019-01-15,4,26,34,O,Intern,Masters,Active
-E1076,Justin,Howard,D108,Sales Representative,justin.howard@example.com,760-383-8636,76947,2017-04-25,6,24,41,O,Junior Sales Representative,Bachelors,Retired
-E1077,Cynthia,Murphy,D110,Analyst,cynthia.murphy@example.com,737-923-7244,97107,2015-03-09,8,22,36,M,Junior Analyst,Diploma,Retired
-E1078,Betty,Collins,D101,Developer,betty.collins@example.com,902-170-8301,116345,2014-10-07,9,21,26,F,Senior Developer,Masters,Retired
-E1079,Eric,Lee,D108,Engineer,eric.lee@example.com,900-556-3563,102504,2015-02-27,8,22,28,M,Junior Engineer,Bachelors,Terminated
-E1080,Nicole,Nguyen,D101,Developer,nicole.nguyen@example.com,240-336-9980,118490,2014-02-10,9,21,39,F,Senior Developer,Bachelors,Active
-E1081,Shirley,Harris,D103,Designer,shirley.harris@example.com,280-309-3611,114618,2018-12-09,4,26,59,O,Senior Designer,Masters,Retired
-E1082,Thomas,Miller,D109,Engineer,thomas.miller@example.com,196-895-4811,77027,2011-02-21,12,18,32,O,Senior Engineer,PhD,Terminated
-E1083,Cynthia,Murphy,D105,Designer,cynthia.murphy@example.com,789-171-4447,98283,2014-07-08,9,21,40,O,Senior Designer,Bachelors,Active
-E1084,Andrew,Jackson,D101,Manager,andrew.jackson@example.com,221-141-4406,88296,2016-07-17,7,23,52,O,Junior Manager,Diploma,Active
-E1085,Frank,Howard,D109,Designer,frank.howard@example.com,958-590-5662,70368,2018-02-09,5,25,49,M,Intern,PhD,Terminated
-E1086,Sandra,Walker,D106,Sales Representative,sandra.walker@example.com,265-581-9351,67032,2021-10-05,2,28,53,F,Senior Sales Representative,Bachelors,On Leave
-E1087,Shirley,Smith,D110,Engineer,shirley.smith@example.com,373-453-4654,118824,2017-08-04,6,24,37,M,Senior Engineer,PhD,Terminated
-E1088,Steven,Williams,D106,Analyst,steven.williams@example.com,250-503-3313,71259,2020-10-17,3,27,54,M,Senior Analyst,Masters,Retired
-E1089,Jason,Wilson,D108,Analyst,jason.wilson@example.com,618-934-3711,118986,2015-12-28,7,23,57,M,Junior Analyst,Masters,On Leave
-E1090,Richard,Jimenez,D108,Manager,richard.jimenez@example.com,827-307-9246,111550,2021-12-25,1,29,56,M,Senior Manager,Diploma,Active
-E1091,Emily,Collins,D103,Developer,emily.collins@example.com,242-837-5836,68422,2022-11-11,0,30,56,O,Senior Developer,Bachelors,Terminated
-E1092,Christopher,Lewis,D102,Analyst,christopher.lewis@example.com,142-952-4723,74705,2011-04-26,12,18,45,F,Intern,PhD,Active
-E1093,Elizabeth,Hernandez,D104,Engineer,elizabeth.hernandez@example.com,575-457-3333,76375,2015-05-18,8,22,56,M,Intern,PhD,On Leave
-E1094,Shirley,Stewart,D103,Consultant,shirley.stewart@example.com,163-638-9799,74801,2014-04-15,9,21,44,F,Senior Consultant,Bachelors,Retired
-E1095,Samuel,Torres,D110,Developer,samuel.torres@example.com,374-114-6731,90475,2012-09-22,11,19,52,F,Intern,Bachelors,On Leave
-E1096,Margaret,Johnson,D107,Manager,margaret.johnson@example.com,879-497-7372,73675,2018-09-07,5,25,60,O,Senior Manager,Diploma,Retired
-E1097,Linda,Hernandez,D110,Sales Representative,linda.hernandez@example.com,936-699-2619,105726,2016-09-26,7,23,36,M,Intern,PhD,Retired
-E1098,Larry,Rivera,D101,Analyst,larry.rivera@example.com,594-494-7564,64500,2015-04-11,8,22,35,F,Junior Analyst,Diploma,Terminated
-E1099,Joseph,Ramirez,D107,Manager,joseph.ramirez@example.com,314-155-7573,82313,2016-05-05,7,23,30,F,Intern,PhD,Terminated
-E1100,Rebecca,Turner,D108,Manager,rebecca.turner@example.com,660-388-1023,114582,2011-10-06,12,18,31,F,Junior Manager,Diploma,On Leave
-E1101,Alexander,Cooper,D101,Engineer,alexander.cooper@example.com,273-989-5967,107204,2018-09-22,5,25,25,F,Junior Engineer,Diploma,On Leave
-E1102,Jacob,Wilson,D110,Engineer,jacob.wilson@example.com,468-699-9328,74296,2018-01-31,5,25,43,F,Intern,Diploma,Active
-E1103,Patricia,Patel,D101,Analyst,patricia.patel@example.com,132-520-1892,67991,2015-09-05,8,22,27,M,Senior Analyst,PhD,Active
-E1104,Betty,Edwards,D101,Sales Representative,betty.edwards@example.com,497-189-3179,76575,2011-07-06,12,18,33,O,Senior Sales Representative,Masters,Active
-E1105,Timothy,Rogers,D109,Designer,timothy.rogers@example.com,522-367-4433,113446,2021-11-25,1,29,44,F,Intern,Diploma,On Leave
-E1106,Amy,Gray,D106,Engineer,amy.gray@example.com,851-651-3253,75202,2014-04-30,9,21,52,M,Junior Engineer,Diploma,Active
-E1107,Scott,Anderson,D109,Analyst,scott.anderson@example.com,985-287-6921,76681,2018-05-05,5,25,27,M,Junior Analyst,Bachelors,Active
-E1108,Sharon,Torres,D104,Manager,sharon.torres@example.com,110-668-5882,54957,2014-10-15,9,21,27,O,Senior Manager,Diploma,Terminated
-E1109,Brandon,Jackson,D103,Consultant,brandon.jackson@example.com,955-563-9837,72706,2014-06-02,9,21,27,M,Senior Consultant,Diploma,Terminated
-E1110,Jeffrey,Cox,D107,Consultant,jeffrey.cox@example.com,872-560-5835,80309,2020-03-11,3,27,45,O,Senior Consultant,PhD,Terminated
-E1111,Barbara,Miller,D106,Consultant,barbara.miller@example.com,420-149-6183,70854,2014-10-31,9,21,58,F,Senior Consultant,Masters,Terminated
-E1112,Ashley,Kim,D104,Developer,ashley.kim@example.com,944-844-5777,78456,2017-10-10,6,24,29,F,Junior Developer,Masters,Active
-E1113,Amy,Roberts,D108,Developer,amy.roberts@example.com,255-178-2519,56781,2015-11-18,7,23,56,F,Senior Developer,Diploma,On Leave
-E1114,Jason,Bennet,D107,Consultant,jason.bennet@example.com,960-315-6183,89138,2018-06-06,5,25,30,O,Intern,Diploma,On Leave
-E1115,Jason,Hughes,D108,Analyst,jason.hughes@example.com,651-280-2213,54754,2013-09-30,10,20,51,O,Junior Analyst,Masters,On Leave
-E1116,Ryan,Brown,D107,Consultant,ryan.brown@example.com,332-328-1694,94063,2012-11-01,11,19,41,F,Junior Consultant,Diploma,Terminated
-E1117,Barbara,Rogers,D102,Engineer,barbara.rogers@example.com,194-162-4704,117266,2010-12-22,12,18,24,O,Senior Engineer,Diploma,Terminated
-E1118,Mark,Rogers,D102,Designer,mark.rogers@example.com,296-921-5133,82616,2021-06-24,2,28,37,M,Junior Designer,PhD,On Leave
-E1119,Joshua,Bennet,D106,Manager,joshua.bennet@example.com,238-121-1566,69916,2010-02-18,13,17,49,M,Senior Manager,Masters,On Leave
-E1120,Daniel,Carter,D104,Manager,daniel.carter@example.com,487-914-7070,56621,2010-02-12,13,17,53,M,Intern,Bachelors,Terminated
-E1121,Thomas,Reyes,D102,Developer,thomas.reyes@example.com,670-750-6739,54395,2012-09-23,11,19,30,O,Intern,Bachelors,Retired
-E1122,Melissa,Jimenez,D108,Analyst,melissa.jimenez@example.com,889-985-1455,112883,2010-02-17,13,17,30,O,Junior Analyst,PhD,Terminated
-E1123,Melissa,Garcia,D104,Developer,melissa.garcia@example.com,887-234-3560,81786,2012-01-25,11,19,33,F,Senior Developer,Diploma,On Leave
-E1124,Alexander,Bailey,D110,Analyst,alexander.bailey@example.com,123-550-2233,114975,2010-06-16,13,17,30,M,Senior Analyst,PhD,Terminated
-E1125,Melissa,Scott,D110,Designer,melissa.scott@example.com,907-490-5726,66190,2017-01-15,6,24,34,O,Senior Designer,Masters,Active
-E1126,Steven,Williams,D103,Designer,steven.williams@example.com,922-522-4857,100004,2017-03-20,6,24,57,O,Senior Designer,PhD,Active
-E1127,Jessica,James,D102,Manager,jessica.james@example.com,173-631-9172,67249,2015-06-26,8,22,32,M,Senior Manager,Diploma,Active
-E1128,Dorothy,Torres,D101,Manager,dorothy.torres@example.com,181-859-5186,116078,2015-05-21,8,22,30,O,Senior Manager,Masters,Active
-E1129,Dorothy,Jackson,D103,Manager,dorothy.jackson@example.com,476-931-2304,112555,2017-01-04,6,24,47,F,Senior Manager,Bachelors,Retired
-E1130,Richard,Nelson,D103,Sales Representative,richard.nelson@example.com,940-248-8549,88657,2018-05-26,5,25,49,F,Senior Sales Representative,Bachelors,Terminated
-E1131,Mary,Morales,D108,Consultant,mary.morales@example.com,639-269-1899,81148,2016-06-12,7,23,30,M,Senior Consultant,Masters,Active
-E1132,Sarah,Baker,D109,Sales Representative,sarah.baker@example.com,255-363-6939,68583,2018-10-28,5,25,28,O,Junior Sales Representative,Bachelors,On Leave
-E1133,Thomas,Howard,D101,Developer,thomas.howard@example.com,573-956-1381,77513,2021-02-28,2,28,25,F,Junior Developer,Diploma,Terminated
-E1134,Laura,Sanders,D108,Analyst,laura.sanders@example.com,532-925-9729,95997,2015-01-30,8,22,32,F,Intern,Diploma,Terminated
-E1135,Matthew,Ramirez,D107,Consultant,matthew.ramirez@example.com,684-611-8983,119023,2010-03-27,13,17,44,O,Junior Consultant,Diploma,Retired
-E1136,Jessica,Adams,D108,Engineer,jessica.adams@example.com,746-599-8534,92685,2015-08-11,8,22,35,F,Senior Engineer,Bachelors,On Leave
-E1137,Patricia,Mendoza,D108,Sales Representative,patricia.mendoza@example.com,267-152-1026,100038,2019-11-09,4,26,54,M,Senior Sales Representative,Masters,Active
-E1138,Thomas,Wood,D110,Designer,thomas.wood@example.com,507-142-7104,117397,2013-07-31,10,20,58,O,Intern,PhD,On Leave
-E1139,Eric,Wright,D101,Designer,eric.wright@example.com,948-545-8600,116098,2021-12-12,1,29,52,M,Junior Designer,PhD,Retired
-E1140,Cynthia,Price,D104,Developer,cynthia.price@example.com,509-343-7135,78651,2018-03-05,5,25,45,F,Senior Developer,PhD,Terminated
-E1141,Ashley,Young,D105,Sales Representative,ashley.young@example.com,473-408-4215,104641,2022-10-12,1,29,31,F,Intern,Masters,Retired
-E1142,Mary,Cook,D107,Developer,mary.cook@example.com,564-294-5593,118053,2018-01-22,5,25,34,F,Junior Developer,Bachelors,Retired
-E1143,Ronald,Ortiz,D110,Sales Representative,ronald.ortiz@example.com,112-349-6526,111909,2019-11-24,3,27,50,O,Intern,PhD,Terminated
-E1144,Laura,Collins,D104,Analyst,laura.collins@example.com,258-797-5988,54968,2017-04-06,6,24,46,F,Junior Analyst,Diploma,Retired
-E1145,Nancy,Phillips,D108,Consultant,nancy.phillips@example.com,300-100-3965,79993,2012-08-09,11,19,40,F,Senior Consultant,PhD,Active
-E1146,Jonathan,Brooks,D109,Engineer,jonathan.brooks@example.com,486-546-3772,85033,2017-08-03,6,24,46,F,Senior Engineer,Diploma,Retired
-E1147,Michelle,Moore,D104,Analyst,michelle.moore@example.com,202-413-3534,116122,2019-08-28,4,26,44,M,Senior Analyst,Bachelors,On Leave
-E1148,Mark,Long,D108,Manager,mark.long@example.com,994-965-4237,88081,2017-09-29,6,24,52,M,Intern,PhD,Terminated
-E1149,Elizabeth,Green,D104,Designer,elizabeth.green@example.com,769-744-5351,65373,2013-12-02,9,21,57,O,Senior Designer,Diploma,On Leave
-E1150,Larry,Miller,D107,Sales Representative,larry.miller@example.com,489-740-8144,80157,2018-02-07,5,25,42,F,Intern,Bachelors,On Leave
-E1151,Lisa,Reyes,D101,Analyst,lisa.reyes@example.com,519-359-8343,119511,2016-12-29,6,24,50,M,Senior Analyst,Diploma,Active
-E1152,William,Thompson,D107,Analyst,william.thompson@example.com,667-346-5487,54152,2010-01-17,13,17,60,O,Junior Analyst,PhD,Terminated
-E1153,Brandon,Torres,D101,Designer,brandon.torres@example.com,848-521-7409,72601,2022-11-22,0,30,38,M,Senior Designer,Diploma,Terminated
-E1154,Amanda,Jackson,D108,Manager,amanda.jackson@example.com,420-708-4806,53624,2012-10-07,11,19,59,O,Senior Manager,Bachelors,Terminated
-E1155,Nicole,Campbell,D107,Manager,nicole.campbell@example.com,988-738-6508,87101,2022-11-17,0,30,52,O,Junior Manager,Diploma,Terminated
-E1156,Dorothy,James,D102,Engineer,dorothy.james@example.com,135-462-9723,82801,2015-04-03,8,22,53,O,Intern,Bachelors,Terminated
-E1157,Linda,Johnson,D104,Analyst,linda.johnson@example.com,862-505-9764,100564,2019-03-06,4,26,28,M,Intern,PhD,Active
-E1158,Gregory,Williams,D109,Developer,gregory.williams@example.com,107-283-3657,113814,2022-03-16,1,29,35,F,Senior Developer,Diploma,On Leave
-E1159,Daniel,Baker,D110,Designer,daniel.baker@example.com,738-159-4870,77939,2012-08-17,11,19,55,O,Senior Designer,Bachelors,Active
-E1160,Barbara,Ruiz,D108,Developer,barbara.ruiz@example.com,895-249-2864,56615,2011-08-22,12,18,25,F,Intern,PhD,On Leave
-E1161,Nicholas,Wood,D106,Consultant,nicholas.wood@example.com,975-128-3216,112198,2016-04-19,7,23,58,F,Junior Consultant,Diploma,Terminated
-E1162,Helen,Kelly,D106,Developer,helen.kelly@example.com,905-808-6482,119629,2022-07-08,1,29,53,M,Intern,Masters,Active
-E1163,Ryan,Perez,D110,Sales Representative,ryan.perez@example.com,981-298-7706,65046,2017-05-25,6,24,44,F,Intern,PhD,On Leave
-E1164,Patricia,James,D107,Engineer,patricia.james@example.com,248-953-5051,85932,2016-10-30,7,23,53,O,Intern,Bachelors,Retired
-E1165,Amy,Davis,D110,Engineer,amy.davis@example.com,411-558-3516,66897,2014-10-28,9,21,24,M,Junior Engineer,PhD,Retired
-E1166,Thomas,Diaz,D109,Manager,thomas.diaz@example.com,487-508-9076,52549,2015-10-15,8,22,42,M,Junior Manager,PhD,Active
-E1167,Ashley,Jones,D103,Manager,ashley.jones@example.com,576-495-5075,105827,2012-06-09,11,19,26,F,Intern,Diploma,Terminated
-E1168,Justin,Murphy,D110,Developer,justin.murphy@example.com,535-675-7047,69918,2018-08-23,5,25,37,F,Intern,Bachelors,On Leave
-E1169,Amy,Smith,D109,Developer,amy.smith@example.com,956-474-7401,118706,2012-10-04,11,19,38,F,Junior Developer,Masters,Terminated
-E1170,Mark,Morris,D105,Manager,mark.morris@example.com,634-884-8996,95951,2018-06-26,5,25,50,O,Senior Manager,Bachelors,Terminated
-E1171,Brenda,Ross,D105,Analyst,brenda.ross@example.com,376-143-8313,90282,2010-09-03,13,17,25,O,Junior Analyst,Masters,Terminated
-E1172,John,Sanders,D106,Sales Representative,john.sanders@example.com,980-960-4882,63491,2010-05-31,13,17,41,M,Intern,PhD,Retired
-E1173,Benjamin,King,D101,Sales Representative,benjamin.king@example.com,737-858-9345,116186,2020-02-10,3,27,37,F,Junior Sales Representative,PhD,On Leave
-E1174,Brenda,Phillips,D110,Consultant,brenda.phillips@example.com,768-533-5000,87849,2011-06-20,12,18,36,O,Intern,PhD,Terminated
-E1175,Benjamin,Rogers,D107,Engineer,benjamin.rogers@example.com,468-543-8036,98928,2021-04-26,2,28,53,F,Intern,Bachelors,Terminated
-E1176,Linda,Davis,D105,Engineer,linda.davis@example.com,752-227-1903,71398,2019-02-19,4,26,33,M,Junior Engineer,PhD,Active
-E1177,Carol,Watson,D108,Analyst,carol.watson@example.com,957-639-3497,96293,2015-01-18,8,22,46,M,Intern,PhD,On Leave
-E1178,Helen,Phillips,D110,Analyst,helen.phillips@example.com,238-590-2954,58152,2016-07-10,7,23,40,F,Junior Analyst,Masters,Active
-E1179,Carol,Miller,D106,Sales Representative,carol.miller@example.com,498-637-1854,82004,2013-03-28,10,20,60,O,Intern,Bachelors,Active
-E1180,Nicole,Howard,D109,Engineer,nicole.howard@example.com,581-918-1142,53295,2015-05-17,8,22,51,M,Junior Engineer,Bachelors,On Leave
-E1181,Emily,Perez,D104,Engineer,emily.perez@example.com,270-571-7145,114187,2014-12-27,8,22,29,F,Senior Engineer,PhD,Terminated
-E1182,Pamela,Morris,D101,Designer,pamela.morris@example.com,988-802-3468,104684,2019-10-11,4,26,39,M,Senior Designer,PhD,Terminated
-E1183,Steven,Hall,D105,Consultant,steven.hall@example.com,717-807-3152,104637,2016-07-03,7,23,41,M,Junior Consultant,Diploma,Terminated
-E1184,David,Ruiz,D105,Manager,david.ruiz@example.com,470-237-3094,100044,2021-11-29,1,29,26,F,Intern,Bachelors,Retired
-E1185,Ryan,Moore,D104,Consultant,ryan.moore@example.com,456-498-8470,72848,2017-05-17,6,24,47,O,Junior Consultant,Masters,Retired
-E1186,Sharon,Peterson,D107,Manager,sharon.peterson@example.com,286-320-6008,100846,2014-06-04,9,21,51,O,Intern,Bachelors,On Leave
-E1187,Margaret,Campbell,D104,Sales Representative,margaret.campbell@example.com,178-854-3271,75229,2019-08-08,4,26,43,F,Junior Sales Representative,Diploma,On Leave
-E1188,Jeffrey,Howard,D106,Designer,jeffrey.howard@example.com,494-701-7218,109223,2011-11-13,11,19,58,O,Senior Designer,Diploma,Active
-E1189,William,Patel,D109,Consultant,william.patel@example.com,174-368-3300,81915,2021-10-01,2,28,58,O,Intern,Masters,Active
-E1190,Christine,Nguyen,D110,Designer,christine.nguyen@example.com,591-983-3128,89837,2021-10-20,2,28,51,F,Senior Designer,Bachelors,Retired
-E1191,Kevin,Kim,D108,Manager,kevin.kim@example.com,537-134-4686,115469,2011-11-27,11,19,39,M,Senior Manager,Diploma,Retired
-E1192,Jonathan,Hall,D107,Developer,jonathan.hall@example.com,730-701-4192,67333,2017-06-24,6,24,40,O,Senior Developer,Bachelors,Active
-E1193,Carol,Campbell,D102,Manager,carol.campbell@example.com,838-658-1469,107883,2013-02-18,10,20,25,O,Junior Manager,PhD,Terminated
-E1194,Karen,Foster,D107,Manager,karen.foster@example.com,159-273-1013,101634,2018-01-04,5,25,25,F,Junior Manager,Diploma,Active
-E1195,Sharon,Wilson,D105,Engineer,sharon.wilson@example.com,589-148-9171,63796,2011-07-30,12,18,49,O,Junior Engineer,PhD,On Leave
-E1196,Laura,Gutierrez,D105,Engineer,laura.gutierrez@example.com,938-609-8269,116156,2021-03-29,2,28,39,F,Junior Engineer,Masters,Retired
-E1197,James,Rodriguez,D101,Sales Representative,james.rodriguez@example.com,522-393-3702,63938,2012-04-11,11,19,44,M,Junior Sales Representative,Masters,On Leave
-E1198,Sharon,Nguyen,D106,Analyst,sharon.nguyen@example.com,204-903-8124,91402,2015-01-09,8,22,38,M,Senior Analyst,Bachelors,Retired
-E1199,Shirley,Martin,D107,Designer,shirley.martin@example.com,901-329-3855,109159,2015-09-09,8,22,48,O,Junior Designer,Bachelors,On Leave
-E1200,Rebecca,Miller,D104,Consultant,rebecca.miller@example.com,879-659-7983,93342,2019-03-21,4,26,40,F,Intern,Masters,Terminated
-E1201,Christine,Ortiz,D106,Engineer,christine.ortiz@example.com,522-365-7837,73105,2021-08-08,2,28,35,M,Intern,Masters,Active
-E1202,Ruth,Taylor,D109,Consultant,ruth.taylor@example.com,754-690-1925,79457,2017-05-24,6,24,31,F,Intern,Diploma,Retired
-E1203,Sarah,Flores,D110,Analyst,sarah.flores@example.com,508-215-7002,82341,2017-03-31,6,24,56,O,Intern,Masters,On Leave
-E1204,Susan,Brown,D103,Analyst,susan.brown@example.com,738-446-5339,112633,2019-10-21,4,26,55,F,Intern,PhD,Retired
-E1205,Sarah,Thomas,D108,Manager,sarah.thomas@example.com,222-612-6630,85258,2012-05-09,11,19,28,M,Junior Manager,Masters,On Leave
-E1206,Jessica,Anderson,D102,Analyst,jessica.anderson@example.com,859-697-6453,97850,2010-03-25,13,17,47,F,Senior Analyst,PhD,Active
-E1207,Jeffrey,Roberts,D109,Sales Representative,jeffrey.roberts@example.com,991-242-8413,101100,2022-02-16,1,29,37,O,Senior Sales Representative,PhD,On Leave
-E1208,Charles,Campbell,D107,Sales Representative,charles.campbell@example.com,891-522-8880,98233,2014-07-19,9,21,31,F,Intern,Diploma,Active
-E1209,Jacob,Young,D108,Designer,jacob.young@example.com,496-696-1112,113680,2022-07-14,1,29,45,F,Junior Designer,Bachelors,Active
-E1210,Edward,Johnson,D104,Designer,edward.johnson@example.com,950-811-8470,95338,2011-09-21,12,18,24,F,Senior Designer,Diploma,Terminated
-E1211,Paul,Brown,D101,Manager,paul.brown@example.com,894-754-3926,77027,2012-09-10,11,19,50,O,Senior Manager,Masters,On Leave
-E1212,Joshua,Kelly,D110,Designer,joshua.kelly@example.com,934-161-5612,95499,2015-09-22,8,22,54,M,Intern,Masters,Active
-E1213,Emily,Martinez,D105,Analyst,emily.martinez@example.com,557-178-3864,105436,2018-04-27,5,25,40,F,Senior Analyst,Masters,Active
-E1214,Andrew,Williams,D104,Analyst,andrew.williams@example.com,724-941-7795,95838,2017-09-06,6,24,37,F,Senior Analyst,PhD,On Leave
-E1215,Mary,Evans,D107,Consultant,mary.evans@example.com,437-439-6092,75514,2015-10-24,8,22,32,O,Junior Consultant,Bachelors,Active
-E1216,Mary,Long,D110,Manager,mary.long@example.com,223-576-8750,108614,2018-03-07,5,25,60,M,Senior Manager,Masters,Active
-E1217,Eric,Perez,D102,Consultant,eric.perez@example.com,185-388-9129,100794,2017-03-27,6,24,42,F,Senior Consultant,PhD,Active
-E1218,Eric,Harris,D103,Sales Representative,eric.harris@example.com,542-234-6289,111457,2011-09-05,12,18,43,F,Senior Sales Representative,PhD,Active
-E1219,Patricia,Howard,D102,Designer,patricia.howard@example.com,578-895-4019,73711,2016-05-15,7,23,42,O,Junior Designer,Masters,Active
-E1220,Timothy,Johnson,D107,Sales Representative,timothy.johnson@example.com,818-248-4177,82950,2020-07-12,3,27,29,O,Junior Sales Representative,Masters,On Leave
-E1221,Matthew,Turner,D109,Manager,matthew.turner@example.com,807-159-8052,114898,2020-09-09,3,27,54,M,Senior Manager,PhD,On Leave
-E1222,Benjamin,Ramos,D102,Designer,benjamin.ramos@example.com,869-570-1805,75130,2022-04-16,1,29,54,O,Senior Designer,Bachelors,On Leave
-E1223,Amy,Scott,D110,Consultant,amy.scott@example.com,718-895-5292,70852,2020-03-09,3,27,34,F,Intern,Bachelors,On Leave
-E1224,Kimberly,Wilson,D108,Consultant,kimberly.wilson@example.com,494-426-3891,96235,2016-03-05,7,23,35,O,Senior Consultant,Bachelors,Terminated
-E1225,Jeffrey,Johnson,D108,Designer,jeffrey.johnson@example.com,498-146-8573,90880,2015-12-04,7,23,34,F,Intern,Masters,Active
-E1226,Gregory,Ramos,D102,Consultant,gregory.ramos@example.com,769-259-2775,96948,2017-07-17,6,24,30,O,Intern,Diploma,On Leave
-E1227,Joseph,Mendoza,D105,Consultant,joseph.mendoza@example.com,202-190-2294,86021,2020-12-06,2,28,52,M,Senior Consultant,Bachelors,Retired
-E1228,Jessica,Kim,D109,Developer,jessica.kim@example.com,873-457-6499,88039,2021-05-21,2,28,28,M,Junior Developer,Diploma,On Leave
-E1229,Kathleen,Young,D110,Sales Representative,kathleen.young@example.com,314-841-1451,66449,2021-08-28,2,28,34,O,Junior Sales Representative,PhD,Terminated
-E1230,Anna,Walker,D108,Developer,anna.walker@example.com,337-523-5832,108572,2011-10-17,12,18,52,F,Junior Developer,Masters,Retired
-E1231,Linda,Roberts,D110,Consultant,linda.roberts@example.com,684-688-9647,96613,2020-03-18,3,27,41,F,Junior Consultant,Masters,Terminated
-E1232,Gary,Young,D103,Developer,gary.young@example.com,597-296-9761,95290,2021-02-02,2,28,51,M,Senior Developer,Masters,Active
-E1233,Jason,Richardson,D108,Developer,jason.richardson@example.com,124-355-7054,86020,2012-06-11,11,19,60,M,Junior Developer,PhD,Terminated
-E1234,Alexander,Rivera,D106,Engineer,alexander.rivera@example.com,707-267-4405,68404,2022-12-08,0,30,50,F,Junior Engineer,Masters,Active
-E1235,Laura,Myers,D106,Engineer,laura.myers@example.com,886-763-9356,94625,2021-08-21,2,28,47,M,Junior Engineer,Diploma,Terminated
-E1236,Sandra,Gutierrez,D110,Engineer,sandra.gutierrez@example.com,776-849-9604,51991,2013-07-03,10,20,38,M,Senior Engineer,Masters,Retired
-E1237,Sharon,Cruz,D110,Designer,sharon.cruz@example.com,249-290-2658,80295,2020-07-22,3,27,39,M,Junior Designer,Diploma,Terminated
-E1238,Joseph,Nelson,D109,Analyst,joseph.nelson@example.com,685-768-2848,97247,2010-07-29,13,17,47,M,Junior Analyst,Bachelors,On Leave
-E1239,Amy,Bailey,D104,Developer,amy.bailey@example.com,864-104-5787,112577,2016-12-06,6,24,45,M,Junior Developer,PhD,On Leave
-E1240,Elizabeth,Hall,D109,Manager,elizabeth.hall@example.com,707-967-6176,106713,2022-04-28,1,29,34,F,Senior Manager,Bachelors,Active
-E1241,Pamela,Phillips,D109,Sales Representative,pamela.phillips@example.com,404-566-5646,62043,2021-02-20,2,28,26,O,Junior Sales Representative,PhD,Active
-E1242,Pamela,Williams,D105,Manager,pamela.williams@example.com,782-474-1785,83044,2012-02-16,11,19,47,M,Junior Manager,Diploma,On Leave
-E1243,Laura,Thompson,D110,Manager,laura.thompson@example.com,718-386-2286,109390,2013-04-02,10,20,60,O,Intern,PhD,Terminated
-E1244,Daniel,Robinson,D108,Consultant,daniel.robinson@example.com,475-478-4959,52729,2014-07-19,9,21,58,O,Intern,Bachelors,Terminated
-E1245,Sandra,Ross,D104,Designer,sandra.ross@example.com,141-175-6506,68754,2016-04-05,7,23,47,O,Junior Designer,Diploma,On Leave
-E1246,Nancy,Kim,D109,Manager,nancy.kim@example.com,914-731-4915,52468,2010-04-28,13,17,37,F,Junior Manager,Diploma,On Leave
-E1247,Brian,Wood,D108,Manager,brian.wood@example.com,422-916-4212,110790,2021-07-02,2,28,55,M,Junior Manager,Masters,On Leave
-E1248,Brandon,Jones,D102,Designer,brandon.jones@example.com,803-627-6381,96365,2014-02-02,9,21,47,F,Senior Designer,Diploma,Retired
-E1249,Sarah,Diaz,D104,Manager,sarah.diaz@example.com,126-920-7247,52495,2020-04-08,3,27,53,F,Junior Manager,PhD,Terminated
-E1250,William,Robinson,D103,Engineer,william.robinson@example.com,237-200-1612,64121,2013-09-14,10,20,54,F,Senior Engineer,Bachelors,Terminated
-E1251,Pamela,Gutierrez,D101,Developer,pamela.gutierrez@example.com,352-762-8214,119466,2015-12-23,7,23,44,O,Junior Developer,Bachelors,Retired
-E1252,Robert,Morris,D104,Developer,robert.morris@example.com,138-212-9333,119324,2015-06-14,8,22,58,F,Senior Developer,PhD,Retired
-E1253,Angela,Watson,D106,Manager,angela.watson@example.com,799-496-1120,55937,2014-12-09,8,22,36,O,Intern,Bachelors,Terminated
-E1254,Kathleen,Lopez,D104,Analyst,kathleen.lopez@example.com,326-670-7815,58054,2010-01-26,13,17,52,O,Senior Analyst,Masters,On Leave
-E1255,Deborah,Martinez,D105,Consultant,deborah.martinez@example.com,985-762-1120,116422,2017-06-07,6,24,51,F,Junior Consultant,Masters,Active
-E1256,Sarah,Young,D110,Engineer,sarah.young@example.com,634-223-5470,106222,2010-11-07,13,17,36,F,Intern,Masters,Terminated
-E1257,Ronald,Moore,D107,Developer,ronald.moore@example.com,619-355-4943,105904,2013-06-05,10,20,39,F,Intern,Bachelors,Terminated
-E1258,Mark,Rodriguez,D105,Sales Representative,mark.rodriguez@example.com,168-780-9344,81200,2013-08-10,10,20,45,O,Senior Sales Representative,Bachelors,Retired
-E1259,Frank,Castillo,D110,Developer,frank.castillo@example.com,614-628-9230,118902,2015-03-22,8,22,34,F,Intern,Diploma,Retired
-E1260,Sandra,Cox,D105,Developer,sandra.cox@example.com,863-937-8286,99153,2021-08-23,2,28,37,F,Intern,PhD,Terminated
-E1261,Amy,Perez,D103,Consultant,amy.perez@example.com,782-537-7049,74226,2016-11-23,6,24,28,O,Senior Consultant,PhD,Retired
-E1262,Laura,Reyes,D104,Sales Representative,laura.reyes@example.com,238-690-1340,119782,2013-11-01,10,20,49,M,Senior Sales Representative,PhD,Terminated
-E1263,Nicole,Lewis,D105,Sales Representative,nicole.lewis@example.com,265-807-1195,73651,2010-05-04,13,17,29,F,Intern,Diploma,Active
-E1264,James,Cox,D102,Engineer,james.cox@example.com,640-944-9286,85054,2017-09-27,6,24,56,M,Junior Engineer,Bachelors,Retired
-E1265,Daniel,Cook,D110,Developer,daniel.cook@example.com,212-115-8770,61841,2015-08-25,8,22,34,O,Junior Developer,PhD,Retired
-E1266,Steven,Thomas,D103,Developer,steven.thomas@example.com,579-258-9074,72057,2021-12-27,1,29,53,F,Senior Developer,Masters,Retired
-E1267,Jennifer,Young,D108,Sales Representative,jennifer.young@example.com,674-821-6310,88421,2013-01-17,10,20,55,M,Senior Sales Representative,PhD,On Leave
-E1268,Emily,Ramos,D104,Sales Representative,emily.ramos@example.com,738-881-7782,105189,2017-05-04,6,24,47,M,Senior Sales Representative,Diploma,Terminated
-E1269,Cynthia,Lewis,D106,Developer,cynthia.lewis@example.com,754-673-2692,80798,2016-02-13,7,23,54,M,Intern,Diploma,Terminated
-E1270,Pamela,Hall,D106,Engineer,pamela.hall@example.com,404-741-3390,52848,2015-06-07,8,22,38,O,Intern,Masters,Terminated
-E1271,Linda,Collins,D101,Manager,linda.collins@example.com,118-552-5704,112173,2018-09-02,5,25,59,M,Intern,Masters,Retired
-E1272,Kimberly,Howard,D105,Analyst,kimberly.howard@example.com,943-390-8406,50028,2018-06-17,5,25,37,F,Junior Analyst,PhD,Terminated
-E1273,Rebecca,Long,D110,Sales Representative,rebecca.long@example.com,782-431-3357,114260,2020-05-25,3,27,35,F,Junior Sales Representative,Masters,Retired
-E1274,Ashley,Martin,D108,Consultant,ashley.martin@example.com,299-808-7061,113587,2017-08-26,6,24,24,O,Senior Consultant,Masters,Retired
-E1275,Jennifer,Lopez,D105,Consultant,jennifer.lopez@example.com,223-426-3409,119375,2010-04-18,13,17,26,O,Intern,Bachelors,Active
-E1276,Emily,Price,D108,Sales Representative,emily.price@example.com,865-858-5559,118529,2019-05-14,4,26,56,F,Junior Sales Representative,Diploma,Retired
-E1277,Margaret,Collins,D104,Consultant,margaret.collins@example.com,186-769-5601,79986,2017-12-17,5,25,51,O,Intern,Bachelors,Terminated
-E1278,Nicole,Baker,D109,Engineer,nicole.baker@example.com,167-616-2878,80748,2015-02-06,8,22,56,O,Senior Engineer,Bachelors,On Leave
-E1279,Alexander,Hernandez,D102,Analyst,alexander.hernandez@example.com,470-356-7125,114303,2013-04-01,10,20,54,F,Senior Analyst,Bachelors,Terminated
-E1280,Helen,Harris,D107,Designer,helen.harris@example.com,381-639-9479,98878,2014-06-17,9,21,32,M,Junior Designer,PhD,On Leave
-E1281,Kimberly,Taylor,D102,Engineer,kimberly.taylor@example.com,143-875-3137,50574,2014-12-27,8,22,31,O,Junior Engineer,Diploma,Retired
-E1282,Brenda,Ramirez,D105,Manager,brenda.ramirez@example.com,832-223-1722,61807,2019-12-15,3,27,32,O,Junior Manager,Masters,On Leave
-E1283,Edward,Johnson,D108,Consultant,edward.johnson@example.com,619-958-4400,50551,2014-02-12,9,21,37,F,Junior Consultant,PhD,Active
-E1284,Amanda,Allen,D110,Consultant,amanda.allen@example.com,171-999-7954,60980,2018-10-11,5,25,39,F,Junior Consultant,PhD,On Leave
-E1285,Ronald,Lee,D108,Consultant,ronald.lee@example.com,428-876-9373,78560,2011-10-18,12,18,57,O,Junior Consultant,Masters,Active
-E1286,Edward,Gomez,D101,Consultant,edward.gomez@example.com,953-375-1595,52608,2018-07-19,5,25,55,F,Intern,Bachelors,On Leave
-E1287,Deborah,Torres,D107,Consultant,deborah.torres@example.com,339-730-7010,117439,2015-07-05,8,22,32,M,Senior Consultant,Diploma,Terminated
-E1288,Jason,Wright,D106,Developer,jason.wright@example.com,717-973-1994,99131,2019-09-13,4,26,53,F,Intern,PhD,Retired
-E1289,Stephanie,Hernandez,D108,Manager,stephanie.hernandez@example.com,365-393-8744,107386,2018-05-05,5,25,56,M,Junior Manager,PhD,Retired
-E1290,Anna,Gutierrez,D103,Engineer,anna.gutierrez@example.com,386-360-4766,57387,2017-08-31,6,24,52,O,Junior Engineer,Bachelors,Active
-E1291,Nicole,Smith,D110,Engineer,nicole.smith@example.com,387-912-4714,110917,2015-11-08,8,22,52,O,Junior Engineer,Diploma,Retired
-E1292,Thomas,Bailey,D101,Consultant,thomas.bailey@example.com,435-773-3405,110028,2010-06-28,13,17,25,F,Intern,PhD,Terminated
-E1293,Jonathan,Martinez,D106,Analyst,jonathan.martinez@example.com,245-890-9817,86249,2012-08-17,11,19,53,F,Senior Analyst,PhD,Retired
-E1294,Patricia,Bailey,D106,Manager,patricia.bailey@example.com,750-428-1608,69975,2016-03-20,7,23,48,O,Junior Manager,Diploma,Active
-E1295,Mary,Thompson,D110,Designer,mary.thompson@example.com,414-824-5101,103872,2014-06-10,9,21,52,F,Intern,Bachelors,On Leave
-E1296,Mary,Sanders,D107,Sales Representative,mary.sanders@example.com,528-885-6806,102030,2019-04-02,4,26,31,M,Junior Sales Representative,Masters,Active
-E1297,Joshua,Rodriguez,D108,Analyst,joshua.rodriguez@example.com,997-238-6497,116268,2013-08-25,10,20,24,M,Junior Analyst,Diploma,Terminated
-E1298,Brian,Carter,D102,Sales Representative,brian.carter@example.com,879-537-6264,79441,2015-06-12,8,22,38,F,Junior Sales Representative,PhD,Terminated
-E1299,Jacob,Richardson,D108,Consultant,jacob.richardson@example.com,415-846-9874,52490,2020-11-15,2,28,48,M,Senior Consultant,Bachelors,Terminated
-E1300,Mark,Sanchez,D102,Consultant,mark.sanchez@example.com,277-682-2688,95306,2010-10-24,13,17,34,O,Senior Consultant,Masters,On Leave
-E1301,Sandra,Cox,D101,Consultant,sandra.cox@example.com,845-291-6165,78148,2019-03-30,4,26,52,O,Intern,Bachelors,Active
-E1302,Karen,Sanders,D104,Analyst,karen.sanders@example.com,757-998-4585,94332,2013-04-14,10,20,58,F,Junior Analyst,PhD,Retired
-E1303,Michelle,Hall,D104,Analyst,michelle.hall@example.com,626-333-7832,75512,2019-08-16,4,26,47,O,Senior Analyst,Diploma,Active
-E1304,Michael,Chavez,D101,Sales Representative,michael.chavez@example.com,383-129-8042,117802,2020-11-01,3,27,28,M,Intern,Bachelors,Terminated
-E1305,Ronald,Hall,D109,Manager,ronald.hall@example.com,353-618-4036,63281,2014-02-09,9,21,56,M,Intern,Diploma,Terminated
-E1306,Joshua,Cruz,D109,Analyst,joshua.cruz@example.com,151-839-1187,52808,2019-08-04,4,26,48,M,Intern,PhD,Retired
-E1307,Brandon,Clark,D107,Consultant,brandon.clark@example.com,617-940-5072,109964,2017-09-01,6,24,25,F,Junior Consultant,Masters,On Leave
-E1308,Anna,Jones,D103,Consultant,anna.jones@example.com,487-951-2278,74861,2015-11-09,8,22,58,M,Intern,Masters,Active
-E1309,Andrew,Ramos,D110,Developer,andrew.ramos@example.com,732-275-7584,93393,2012-04-19,11,19,30,F,Intern,Bachelors,Terminated
-E1310,Dorothy,Smith,D106,Designer,dorothy.smith@example.com,816-847-8257,99922,2020-05-17,3,27,29,M,Junior Designer,Masters,Terminated
-E1311,Amy,Bailey,D107,Manager,amy.bailey@example.com,502-699-6822,93734,2014-08-01,9,21,31,O,Junior Manager,PhD,On Leave
-E1312,Jessica,Rivera,D104,Manager,jessica.rivera@example.com,630-665-5720,63461,2019-01-27,4,26,26,M,Junior Manager,Diploma,Terminated
-E1313,William,Scott,D103,Manager,william.scott@example.com,436-925-1733,93718,2011-01-14,12,18,50,O,Senior Manager,Diploma,Retired
-E1314,Margaret,Turner,D102,Manager,margaret.turner@example.com,741-144-6076,68243,2015-03-30,8,22,31,F,Senior Manager,Masters,Active
-E1315,Nancy,Myers,D106,Developer,nancy.myers@example.com,804-461-4572,73307,2014-03-26,9,21,51,M,Junior Developer,Bachelors,Retired
-E1316,Stephanie,Rogers,D108,Designer,stephanie.rogers@example.com,761-562-6152,98363,2016-11-12,6,24,31,F,Junior Designer,Bachelors,On Leave
-E1317,Cynthia,Price,D102,Engineer,cynthia.price@example.com,627-919-8104,78894,2022-07-04,1,29,37,F,Senior Engineer,PhD,Active
-E1318,Alexander,Lewis,D105,Engineer,alexander.lewis@example.com,308-815-6742,53903,2010-03-25,13,17,41,M,Senior Engineer,Masters,On Leave
-E1319,Samantha,Castillo,D110,Sales Representative,samantha.castillo@example.com,606-596-1202,55819,2017-08-29,6,24,47,M,Intern,Diploma,Terminated
-E1320,Jonathan,Hernandez,D101,Analyst,jonathan.hernandez@example.com,742-967-3270,109576,2022-07-22,1,29,41,F,Junior Analyst,PhD,On Leave
-E1321,George,Hernandez,D107,Sales Representative,george.hernandez@example.com,378-223-3910,64454,2022-12-15,0,30,41,O,Intern,Diploma,On Leave
-E1322,Ashley,Richardson,D106,Designer,ashley.richardson@example.com,849-906-5388,65859,2010-02-28,13,17,27,M,Intern,PhD,Retired
-E1323,William,Diaz,D106,Engineer,william.diaz@example.com,728-524-9706,85137,2012-01-02,11,19,30,F,Junior Engineer,Diploma,Terminated
-E1324,Ruth,Hughes,D109,Designer,ruth.hughes@example.com,563-727-2309,54404,2018-10-26,5,25,58,M,Senior Designer,PhD,On Leave
-E1325,Andrew,Jimenez,D105,Developer,andrew.jimenez@example.com,780-369-1685,56044,2013-11-11,10,20,46,M,Intern,PhD,On Leave
-E1326,Scott,James,D103,Engineer,scott.james@example.com,108-257-4899,54554,2013-10-22,10,20,52,F,Senior Engineer,Masters,Terminated
-E1327,Larry,Howard,D106,Designer,larry.howard@example.com,789-163-8537,108322,2017-07-26,6,24,25,O,Junior Designer,Diploma,Terminated
-E1328,Pamela,Taylor,D104,Analyst,pamela.taylor@example.com,425-855-8062,77195,2014-10-09,9,21,26,O,Senior Analyst,Bachelors,Terminated
-E1329,Ruth,Patel,D105,Sales Representative,ruth.patel@example.com,306-749-1060,70718,2022-08-23,1,29,54,M,Junior Sales Representative,Masters,Retired
-E1330,Nicole,Sanders,D106,Manager,nicole.sanders@example.com,446-768-8307,67318,2020-10-12,3,27,32,O,Junior Manager,Bachelors,Active
-E1331,Helen,Edwards,D104,Manager,helen.edwards@example.com,531-730-3640,99904,2014-01-30,9,21,38,O,Senior Manager,Bachelors,Terminated
-E1332,Charles,Castillo,D102,Developer,charles.castillo@example.com,857-179-7939,110125,2017-12-24,5,25,42,M,Junior Developer,Masters,Retired
-E1333,Donna,Mendoza,D104,Designer,donna.mendoza@example.com,201-119-7272,56184,2011-01-07,12,18,46,M,Junior Designer,Diploma,Retired
-E1334,Thomas,Gonzalez,D106,Developer,thomas.gonzalez@example.com,385-761-4917,63322,2017-01-19,6,24,26,F,Intern,Masters,Retired
-E1335,Jonathan,Smith,D109,Developer,jonathan.smith@example.com,433-648-9551,70408,2017-06-17,6,24,55,O,Junior Developer,Masters,Terminated
-E1336,Nancy,Reed,D103,Manager,nancy.reed@example.com,826-832-1749,53057,2010-03-22,13,17,33,F,Intern,Bachelors,On Leave
-E1337,Katherine,Robinson,D107,Consultant,katherine.robinson@example.com,740-736-4321,109980,2015-09-17,8,22,53,F,Intern,Masters,Retired
-E1338,Patricia,Morales,D108,Developer,patricia.morales@example.com,268-524-3530,91018,2014-02-07,9,21,35,M,Senior Developer,PhD,Retired
-E1339,Larry,Myers,D109,Manager,larry.myers@example.com,993-982-6584,73020,2017-06-25,6,24,27,F,Junior Manager,Masters,Terminated
-E1340,Mark,Howard,D109,Engineer,mark.howard@example.com,156-725-4246,107420,2013-08-19,10,20,60,M,Junior Engineer,PhD,Retired
-E1341,Stephen,Roberts,D110,Analyst,stephen.roberts@example.com,809-149-8191,117284,2022-11-22,0,30,47,F,Intern,PhD,Active
-E1342,Jeffrey,Carter,D104,Sales Representative,jeffrey.carter@example.com,675-139-1542,67465,2016-07-15,7,23,52,M,Junior Sales Representative,Masters,Active
-E1343,Amy,Peterson,D109,Engineer,amy.peterson@example.com,510-609-9185,95088,2018-09-29,5,25,59,M,Junior Engineer,Bachelors,Terminated
-E1344,Amanda,Roberts,D105,Engineer,amanda.roberts@example.com,609-430-1523,63969,2016-12-08,6,24,51,M,Junior Engineer,Diploma,Terminated
-E1345,Carol,Cook,D105,Manager,carol.cook@example.com,729-515-1056,97994,2011-04-23,12,18,56,O,Junior Manager,Bachelors,Active
-E1346,Richard,Mitchell,D110,Developer,richard.mitchell@example.com,360-252-4514,55466,2012-10-24,11,19,58,O,Senior Developer,Masters,Active
-E1347,Benjamin,Turner,D105,Developer,benjamin.turner@example.com,864-157-1863,60182,2012-04-08,11,19,60,M,Junior Developer,Bachelors,Retired
-E1348,Gregory,Reyes,D110,Sales Representative,gregory.reyes@example.com,294-109-3834,72486,2018-09-11,5,25,58,M,Intern,Bachelors,Active
-E1349,Nicholas,Clark,D106,Engineer,nicholas.clark@example.com,609-811-8015,59535,2015-03-05,8,22,55,M,Intern,PhD,Retired
-E1350,Anna,Perez,D105,Manager,anna.perez@example.com,259-805-2431,87833,2021-09-30,2,28,44,O,Junior Manager,Masters,Active
-E1351,Jessica,Rodriguez,D101,Developer,jessica.rodriguez@example.com,248-291-1789,50685,2016-02-20,7,23,51,O,Junior Developer,Diploma,Retired
-E1352,Samantha,Murphy,D108,Analyst,samantha.murphy@example.com,470-313-3029,54007,2012-11-01,11,19,29,O,Junior Analyst,Masters,On Leave
-E1353,Eric,Howard,D108,Engineer,eric.howard@example.com,920-462-6613,111117,2016-07-05,7,23,24,M,Junior Engineer,PhD,Terminated
-E1354,Richard,Moore,D104,Developer,richard.moore@example.com,706-650-7017,73026,2010-05-06,13,17,55,F,Senior Developer,Diploma,Active
-E1355,Lisa,White,D109,Analyst,lisa.white@example.com,704-197-9348,105177,2017-06-04,6,24,37,O,Intern,Masters,Active
-E1356,Amanda,Hill,D104,Manager,amanda.hill@example.com,771-250-1472,61240,2013-11-25,9,21,58,F,Junior Manager,Diploma,Terminated
-E1357,Emily,Long,D110,Sales Representative,emily.long@example.com,796-575-5022,86179,2014-09-04,9,21,41,O,Senior Sales Representative,Masters,Terminated
-E1358,Joseph,James,D102,Sales Representative,joseph.james@example.com,572-573-4095,66915,2013-02-20,10,20,46,O,Senior Sales Representative,PhD,On Leave
-E1359,Kevin,Sanders,D101,Engineer,kevin.sanders@example.com,376-503-5044,95987,2021-03-09,2,28,43,M,Intern,Diploma,Active
-E1360,William,Morris,D106,Sales Representative,william.morris@example.com,770-892-6466,113065,2018-05-28,5,25,33,M,Junior Sales Representative,Diploma,Active
-E1361,Sarah,Thompson,D103,Sales Representative,sarah.thompson@example.com,866-613-3405,114215,2014-03-28,9,21,55,O,Senior Sales Representative,PhD,Terminated
-E1362,Richard,Carter,D101,Analyst,richard.carter@example.com,990-128-6240,60391,2016-11-20,6,24,44,F,Intern,Bachelors,On Leave
-E1363,Amanda,Cooper,D102,Engineer,amanda.cooper@example.com,771-416-2492,66803,2012-12-04,10,20,29,M,Junior Engineer,Bachelors,Retired
-E1364,Frank,Myers,D107,Consultant,frank.myers@example.com,884-744-3491,102875,2016-01-14,7,23,46,O,Senior Consultant,Bachelors,Terminated
-E1365,Steven,Hall,D104,Analyst,steven.hall@example.com,505-884-9828,57477,2018-10-03,5,25,59,O,Senior Analyst,Diploma,Active
-E1366,Nicole,Nguyen,D102,Consultant,nicole.nguyen@example.com,904-794-5384,83858,2018-05-25,5,25,28,M,Senior Consultant,Bachelors,Retired
-E1367,Nicholas,Flores,D102,Developer,nicholas.flores@example.com,985-841-3237,83308,2012-07-24,11,19,40,O,Senior Developer,Masters,On Leave
-E1368,Edward,Evans,D104,Engineer,edward.evans@example.com,630-753-8337,91006,2013-10-31,10,20,24,O,Senior Engineer,PhD,On Leave
-E1369,Robert,Flores,D103,Engineer,robert.flores@example.com,899-451-8760,74435,2014-12-11,8,22,58,M,Senior Engineer,Diploma,Retired
-E1370,Benjamin,Perez,D108,Sales Representative,benjamin.perez@example.com,779-284-4017,92850,2012-03-17,11,19,38,M,Junior Sales Representative,Bachelors,On Leave
-E1371,Samantha,Ortiz,D101,Analyst,samantha.ortiz@example.com,241-130-2085,57779,2015-02-15,8,22,34,F,Senior Analyst,Masters,Retired
-E1372,Larry,Clark,D101,Engineer,larry.clark@example.com,722-373-8169,79960,2017-02-05,6,24,47,O,Junior Engineer,Diploma,Active
-E1373,Samantha,Johnson,D104,Consultant,samantha.johnson@example.com,417-507-7101,54542,2020-08-18,3,27,55,M,Intern,Masters,On Leave
-E1374,Steven,Green,D107,Engineer,steven.green@example.com,491-395-1006,61768,2015-09-15,8,22,48,O,Intern,Diploma,Retired
-E1375,Jason,Morris,D103,Analyst,jason.morris@example.com,420-131-5665,50443,2020-10-10,3,27,29,M,Junior Analyst,PhD,Retired
-E1376,Daniel,Adams,D104,Sales Representative,daniel.adams@example.com,876-732-4984,54442,2020-04-11,3,27,57,M,Senior Sales Representative,Masters,Terminated
-E1377,John,Murphy,D108,Consultant,john.murphy@example.com,752-387-4335,99887,2019-06-24,4,26,53,F,Junior Consultant,Bachelors,Active
-E1378,Benjamin,Gomez,D102,Designer,benjamin.gomez@example.com,266-916-5508,95746,2021-03-27,2,28,57,F,Senior Designer,Masters,Terminated
-E1379,Angela,Edwards,D101,Manager,angela.edwards@example.com,113-118-6295,104712,2013-09-01,10,20,37,M,Junior Manager,Masters,Active
-E1380,Frank,Hall,D110,Sales Representative,frank.hall@example.com,379-296-1431,94999,2014-11-21,8,22,52,M,Intern,PhD,On Leave
-E1381,Daniel,Wright,D109,Developer,daniel.wright@example.com,828-223-1595,67475,2019-07-16,4,26,29,M,Intern,Diploma,Active
-E1382,Paul,Morris,D107,Manager,paul.morris@example.com,954-837-4170,73174,2021-08-31,2,28,46,M,Junior Manager,Masters,Retired
-E1383,Brenda,Roberts,D101,Consultant,brenda.roberts@example.com,660-534-1832,74606,2021-06-30,2,28,25,F,Junior Consultant,Bachelors,Retired
-E1384,Emily,Murphy,D107,Sales Representative,emily.murphy@example.com,396-774-9739,87848,2017-10-10,6,24,57,M,Junior Sales Representative,Diploma,Terminated
-E1385,William,Martin,D104,Consultant,william.martin@example.com,717-342-6197,53408,2011-03-27,12,18,25,O,Junior Consultant,Masters,Terminated
-E1386,Karen,Bennet,D104,Designer,karen.bennet@example.com,899-381-6271,76844,2020-09-04,3,27,31,F,Junior Designer,PhD,On Leave
-E1387,Helen,Hill,D110,Designer,helen.hill@example.com,715-947-2562,108711,2013-12-31,9,21,53,M,Junior Designer,PhD,Terminated
-E1388,Sharon,Phillips,D106,Developer,sharon.phillips@example.com,758-163-3055,65942,2019-04-22,4,26,27,M,Junior Developer,Diploma,Active
-E1389,Karen,Kelly,D108,Designer,karen.kelly@example.com,136-961-9925,79633,2013-08-07,10,20,51,F,Intern,Masters,Terminated
-E1390,Brenda,Thomas,D106,Developer,brenda.thomas@example.com,163-211-6074,93211,2022-07-01,1,29,38,F,Senior Developer,Bachelors,Terminated
-E1391,Nancy,Parker,D105,Engineer,nancy.parker@example.com,824-198-5477,62312,2015-10-14,8,22,51,F,Intern,Masters,On Leave
-E1392,Eric,Myers,D103,Engineer,eric.myers@example.com,395-641-8295,101411,2017-04-11,6,24,45,F,Intern,Masters,Active
-E1393,Laura,Brooks,D107,Designer,laura.brooks@example.com,520-947-3151,112028,2013-10-30,10,20,27,M,Intern,PhD,Retired
-E1394,Amy,Stewart,D104,Developer,amy.stewart@example.com,381-274-1222,101488,2022-11-08,1,29,37,M,Senior Developer,Masters,Terminated
-E1395,Anthony,Robinson,D105,Developer,anthony.robinson@example.com,968-675-7516,114774,2010-02-07,13,17,29,O,Senior Developer,Diploma,Active
-E1396,Brian,Gutierrez,D103,Consultant,brian.gutierrez@example.com,822-316-6701,84414,2014-12-09,8,22,28,M,Senior Consultant,Bachelors,Retired
-E1397,Christopher,Gutierrez,D104,Manager,christopher.gutierrez@example.com,760-922-3192,74263,2021-03-28,2,28,57,F,Senior Manager,Bachelors,Terminated
-E1398,Joseph,Chavez,D109,Engineer,joseph.chavez@example.com,324-378-4775,88195,2011-04-06,12,18,26,M,Intern,PhD,Retired
-E1399,James,Jackson,D108,Designer,james.jackson@example.com,676-830-7823,97286,2010-09-18,13,17,38,M,Senior Designer,Bachelors,Terminated
-E1400,Mark,Green,D105,Consultant,mark.green@example.com,914-837-5427,76077,2011-09-24,12,18,36,O,Intern,Masters,On Leave
-E1401,Cynthia,Chavez,D101,Engineer,cynthia.chavez@example.com,960-990-4679,60564,2010-05-28,13,17,53,F,Senior Engineer,Masters,Terminated
-E1402,Deborah,Watson,D105,Manager,deborah.watson@example.com,597-804-7472,74354,2019-11-04,4,26,26,M,Junior Manager,Masters,Retired
-E1403,Timothy,Moore,D102,Engineer,timothy.moore@example.com,258-239-4894,106732,2018-06-06,5,25,46,M,Junior Engineer,Masters,Active
-E1404,Gregory,Ross,D107,Engineer,gregory.ross@example.com,859-582-5419,107541,2016-05-20,7,23,51,M,Junior Engineer,Bachelors,Active
-E1405,Margaret,Morgan,D110,Consultant,margaret.morgan@example.com,572-160-4940,104347,2018-12-23,4,26,59,F,Junior Consultant,Diploma,Active
-E1406,Andrew,Robinson,D108,Engineer,andrew.robinson@example.com,772-778-6295,62073,2016-03-06,7,23,57,F,Intern,Diploma,Active
-E1407,Timothy,Chavez,D109,Developer,timothy.chavez@example.com,350-278-5621,60330,2013-02-05,10,20,51,M,Intern,Bachelors,Active
-E1408,Justin,Hill,D110,Developer,justin.hill@example.com,195-563-3845,117333,2013-03-15,10,20,56,F,Senior Developer,Diploma,Terminated
-E1409,Angela,Mitchell,D106,Designer,angela.mitchell@example.com,808-585-7789,100520,2011-12-11,11,19,33,F,Junior Designer,Diploma,Retired
-E1410,Mary,Young,D110,Developer,mary.young@example.com,705-258-8934,50160,2018-10-18,5,25,55,M,Intern,Diploma,On Leave
-E1411,Sarah,Chavez,D105,Manager,sarah.chavez@example.com,139-332-1127,118139,2010-09-24,13,17,27,F,Senior Manager,Bachelors,Active
-E1412,Frank,Baker,D102,Engineer,frank.baker@example.com,633-547-7298,91676,2020-07-21,3,27,38,O,Senior Engineer,Bachelors,Terminated
-E1413,Kevin,Brooks,D104,Designer,kevin.brooks@example.com,549-976-1930,52273,2021-03-22,2,28,58,M,Senior Designer,Diploma,On Leave
-E1414,Timothy,Nelson,D102,Engineer,timothy.nelson@example.com,166-916-7370,87623,2020-05-11,3,27,25,O,Intern,PhD,Active
-E1415,Mary,Price,D110,Engineer,mary.price@example.com,439-247-9643,69138,2019-05-17,4,26,50,F,Senior Engineer,PhD,Retired
-E1416,Helen,Parker,D102,Designer,helen.parker@example.com,857-465-6437,64159,2018-02-06,5,25,54,F,Junior Designer,Bachelors,Retired
-E1417,Mark,Jimenez,D109,Manager,mark.jimenez@example.com,952-849-2839,55063,2022-07-17,1,29,41,O,Senior Manager,PhD,Terminated
-E1418,Joshua,Phillips,D102,Analyst,joshua.phillips@example.com,617-272-8470,110817,2015-05-31,8,22,32,M,Intern,Diploma,Active
-E1419,Sarah,Gomez,D101,Sales Representative,sarah.gomez@example.com,257-469-5179,75378,2010-12-07,12,18,42,M,Intern,Bachelors,On Leave
-E1420,Samantha,Alvarez,D104,Sales Representative,samantha.alvarez@example.com,112-696-9539,84951,2014-04-23,9,21,51,O,Junior Sales Representative,Masters,Active
-E1421,Daniel,Cox,D104,Sales Representative,daniel.cox@example.com,284-616-1522,117111,2015-10-01,8,22,31,O,Senior Sales Representative,Masters,Retired
-E1422,Ryan,Gray,D102,Sales Representative,ryan.gray@example.com,894-656-2255,57361,2010-12-21,12,18,33,O,Intern,Diploma,Active
-E1423,Christine,Gonzalez,D101,Engineer,christine.gonzalez@example.com,310-601-8580,79636,2014-04-11,9,21,39,O,Intern,Diploma,Active
-E1424,Jennifer,Gray,D102,Sales Representative,jennifer.gray@example.com,743-373-5306,115727,2021-02-04,2,28,42,M,Junior Sales Representative,Diploma,On Leave
-E1425,Timothy,Gutierrez,D103,Engineer,timothy.gutierrez@example.com,131-239-3367,106984,2018-01-15,5,25,30,M,Senior Engineer,PhD,Active
-E1426,Nicole,Reyes,D110,Consultant,nicole.reyes@example.com,691-394-8846,75164,2011-11-28,11,19,55,O,Senior Consultant,Masters,Active
-E1427,Joseph,Hughes,D102,Sales Representative,joseph.hughes@example.com,637-162-7595,87598,2015-12-22,7,23,44,F,Junior Sales Representative,Bachelors,On Leave
-E1428,Jacob,Watson,D102,Sales Representative,jacob.watson@example.com,487-760-8222,90183,2014-11-02,9,21,30,F,Senior Sales Representative,Masters,Active
-E1429,Nicole,Taylor,D106,Designer,nicole.taylor@example.com,773-929-5363,84196,2016-03-21,7,23,32,F,Junior Designer,Diploma,Terminated
-E1430,Rebecca,Richardson,D105,Sales Representative,rebecca.richardson@example.com,969-334-8407,82826,2012-08-22,11,19,28,M,Junior Sales Representative,Diploma,Retired
-E1431,William,Rogers,D109,Analyst,william.rogers@example.com,278-190-7759,111821,2015-03-16,8,22,44,M,Senior Analyst,Diploma,On Leave
-E1432,Richard,Walker,D107,Consultant,richard.walker@example.com,215-744-1822,114249,2020-04-03,3,27,39,M,Junior Consultant,PhD,Terminated
-E1433,Timothy,Garcia,D103,Consultant,timothy.garcia@example.com,813-232-3983,71719,2013-05-29,10,20,58,F,Junior Consultant,Bachelors,Active
-E1434,George,Richardson,D104,Designer,george.richardson@example.com,991-561-9172,83444,2016-07-25,7,23,31,F,Intern,Masters,On Leave
-E1435,Stephen,Cooper,D103,Analyst,stephen.cooper@example.com,179-108-2071,68112,2015-03-20,8,22,44,M,Senior Analyst,Bachelors,Terminated
-E1436,Samantha,Rodriguez,D107,Analyst,samantha.rodriguez@example.com,535-953-5969,51143,2010-10-16,13,17,56,O,Junior Analyst,Diploma,On Leave
-E1437,Emily,Moore,D109,Consultant,emily.moore@example.com,182-297-2087,102558,2010-08-17,13,17,30,O,Senior Consultant,Diploma,Active
-E1438,Joseph,Ross,D109,Consultant,joseph.ross@example.com,711-615-1752,52036,2011-11-29,11,19,30,O,Senior Consultant,Masters,Active
-E1439,Kevin,Murphy,D108,Manager,kevin.murphy@example.com,199-777-1954,61895,2015-03-10,8,22,48,O,Junior Manager,Bachelors,Retired
-E1440,Stephen,Thompson,D101,Analyst,stephen.thompson@example.com,380-318-2978,85038,2022-06-18,1,29,24,O,Senior Analyst,Bachelors,Retired
-E1441,Amy,Bailey,D102,Designer,amy.bailey@example.com,753-439-8198,90107,2011-12-27,11,19,40,F,Senior Designer,Bachelors,On Leave
-E1442,Anna,Jimenez,D106,Sales Representative,anna.jimenez@example.com,838-952-3224,85593,2022-03-08,1,29,41,F,Senior Sales Representative,Masters,Active
-E1443,Sandra,Ross,D102,Analyst,sandra.ross@example.com,299-412-1335,117015,2010-01-30,13,17,24,M,Senior Analyst,Diploma,Retired
-E1444,Benjamin,Hernandez,D107,Analyst,benjamin.hernandez@example.com,810-730-4851,79859,2011-03-21,12,18,42,O,Junior Analyst,Masters,On Leave
-E1445,Lisa,Patel,D105,Engineer,lisa.patel@example.com,723-510-5743,51744,2012-06-07,11,19,60,O,Intern,Bachelors,On Leave
-E1446,Benjamin,Hill,D110,Manager,benjamin.hill@example.com,432-157-6515,105152,2014-11-03,9,21,39,F,Intern,Diploma,On Leave
-E1447,Jonathan,Howard,D106,Engineer,jonathan.howard@example.com,325-756-5765,53492,2011-08-18,12,18,28,F,Intern,Diploma,Terminated
-E1448,Michelle,Turner,D103,Consultant,michelle.turner@example.com,228-703-2211,64960,2018-08-26,5,25,50,M,Intern,PhD,Active
-E1449,Richard,Taylor,D103,Designer,richard.taylor@example.com,153-769-9597,86032,2016-07-07,7,23,46,F,Intern,Diploma,Terminated
-E1450,Melissa,Morris,D101,Engineer,melissa.morris@example.com,475-793-5441,52491,2011-05-06,12,18,57,M,Intern,Bachelors,Active
-E1451,Anna,Lewis,D110,Developer,anna.lewis@example.com,251-720-8385,76532,2021-09-08,2,28,24,F,Intern,Diploma,Retired
-E1452,Nancy,Hernandez,D106,Sales Representative,nancy.hernandez@example.com,431-576-3671,82340,2014-12-27,8,22,31,F,Intern,Bachelors,Active
-E1453,Donna,Roberts,D105,Developer,donna.roberts@example.com,905-946-8484,72538,2011-02-15,12,18,25,O,Intern,PhD,Retired
-E1454,Mary,Green,D105,Engineer,mary.green@example.com,405-409-3875,91025,2011-07-14,12,18,51,M,Intern,Masters,Retired
-E1455,John,Cooper,D110,Engineer,john.cooper@example.com,487-708-6593,81239,2012-05-08,11,19,32,O,Junior Engineer,PhD,Active
-E1456,Samuel,Rodriguez,D107,Sales Representative,samuel.rodriguez@example.com,671-609-5266,74116,2013-12-18,9,21,57,M,Junior Sales Representative,PhD,Active
-E1457,Katherine,Edwards,D109,Engineer,katherine.edwards@example.com,150-999-1264,117258,2019-05-15,4,26,50,F,Senior Engineer,Bachelors,Retired
-E1458,Samuel,Evans,D110,Designer,samuel.evans@example.com,392-769-4276,65940,2014-12-17,8,22,28,O,Senior Designer,Masters,On Leave
-E1459,Jennifer,Phillips,D103,Engineer,jennifer.phillips@example.com,914-292-8241,71844,2010-07-21,13,17,48,F,Intern,Bachelors,Terminated
-E1460,William,Campbell,D101,Developer,william.campbell@example.com,127-745-4216,81321,2012-01-16,11,19,30,O,Intern,Bachelors,Retired
-E1461,Rebecca,Morris,D104,Consultant,rebecca.morris@example.com,407-887-1009,86350,2012-06-01,11,19,26,F,Intern,Diploma,Retired
-E1462,Barbara,Chavez,D103,Analyst,barbara.chavez@example.com,544-574-2056,78998,2018-07-08,5,25,31,F,Intern,PhD,Retired
-E1463,Samantha,Ward,D105,Designer,samantha.ward@example.com,166-399-1661,84946,2020-04-04,3,27,60,F,Junior Designer,Diploma,Terminated
-E1464,Kathleen,Martin,D103,Consultant,kathleen.martin@example.com,349-302-3825,93470,2017-10-30,6,24,42,F,Intern,Bachelors,Active
-E1465,Thomas,Hernandez,D109,Developer,thomas.hernandez@example.com,714-338-8440,107240,2010-08-11,13,17,30,M,Intern,Diploma,On Leave
-E1466,Susan,Gray,D109,Engineer,susan.gray@example.com,435-986-4385,67352,2020-12-09,2,28,28,F,Intern,Diploma,Active
-E1467,Amanda,Cooper,D106,Developer,amanda.cooper@example.com,288-621-6039,103665,2011-06-16,12,18,38,O,Junior Developer,Masters,Active
-E1468,Andrew,Lopez,D108,Consultant,andrew.lopez@example.com,119-227-9790,81011,2017-12-23,5,25,49,O,Intern,Diploma,Terminated
-E1469,Amanda,Myers,D105,Analyst,amanda.myers@example.com,845-817-4862,74268,2018-07-26,5,25,33,M,Senior Analyst,Diploma,Active
-E1470,William,Evans,D107,Engineer,william.evans@example.com,472-206-4878,111880,2013-06-08,10,20,31,M,Intern,Bachelors,On Leave
-E1471,Frank,Lewis,D102,Manager,frank.lewis@example.com,472-762-6112,85681,2019-11-16,3,27,27,M,Junior Manager,Masters,Retired
-E1472,Larry,Johnson,D110,Sales Representative,larry.johnson@example.com,397-746-8950,57245,2010-10-27,13,17,30,F,Junior Sales Representative,Masters,Active
-E1473,Jessica,Lee,D107,Consultant,jessica.lee@example.com,745-207-1033,107177,2017-10-03,6,24,51,O,Junior Consultant,Masters,Terminated
-E1474,William,Rivera,D107,Designer,william.rivera@example.com,863-290-2760,97830,2012-09-01,11,19,32,O,Intern,Masters,Retired
-E1475,Mark,Evans,D108,Analyst,mark.evans@example.com,786-293-7525,60527,2014-04-11,9,21,29,F,Intern,Diploma,Terminated
-E1476,Thomas,Allen,D107,Consultant,thomas.allen@example.com,767-147-7753,108952,2012-04-17,11,19,38,M,Senior Consultant,Bachelors,Active
-E1477,James,Thompson,D102,Manager,james.thompson@example.com,426-133-4870,98497,2021-04-06,2,28,34,M,Senior Manager,Bachelors,Retired
-E1478,Joshua,Clark,D107,Analyst,joshua.clark@example.com,200-307-6551,59060,2014-11-13,8,22,31,O,Intern,PhD,On Leave
-E1479,Eric,Robinson,D104,Designer,eric.robinson@example.com,773-373-1891,111992,2017-05-23,6,24,52,O,Senior Designer,Diploma,Active
-E1480,Betty,Phillips,D105,Sales Representative,betty.phillips@example.com,649-686-8191,104998,2015-10-31,8,22,34,F,Junior Sales Representative,Bachelors,Retired
-E1481,Anthony,Murphy,D101,Manager,anthony.murphy@example.com,259-884-1423,114269,2021-01-25,2,28,24,F,Junior Manager,PhD,On Leave
-E1482,Donna,Davis,D104,Designer,donna.davis@example.com,794-547-8606,55723,2015-04-18,8,22,51,F,Junior Designer,Masters,Active
-E1483,Elizabeth,Jimenez,D105,Developer,elizabeth.jimenez@example.com,984-569-3659,117398,2020-11-05,3,27,42,F,Senior Developer,PhD,On Leave
-E1484,Richard,Price,D103,Designer,richard.price@example.com,238-156-1685,91385,2015-06-23,8,22,31,F,Junior Designer,PhD,On Leave
-E1485,Scott,Rodriguez,D108,Consultant,scott.rodriguez@example.com,381-442-5831,105185,2010-10-20,13,17,36,O,Intern,PhD,Terminated
-E1486,Ruth,Martinez,D108,Sales Representative,ruth.martinez@example.com,272-730-3796,107548,2021-01-02,2,28,50,F,Junior Sales Representative,Diploma,Terminated
-E1487,Brian,Martinez,D108,Manager,brian.martinez@example.com,769-672-4704,82879,2021-02-28,2,28,55,O,Senior Manager,Bachelors,Terminated
-E1488,Alexander,Rivera,D103,Manager,alexander.rivera@example.com,160-930-5612,103468,2018-09-07,5,25,39,M,Senior Manager,Masters,Terminated
-E1489,Patricia,Collins,D106,Engineer,patricia.collins@example.com,619-782-4289,50075,2011-11-07,12,18,59,M,Senior Engineer,Bachelors,Terminated
-E1490,Michelle,Watson,D108,Engineer,michelle.watson@example.com,243-252-3715,92002,2021-09-29,2,28,44,F,Senior Engineer,Masters,Active
-E1491,Richard,Martinez,D110,Manager,richard.martinez@example.com,373-124-2899,64849,2017-02-27,6,24,45,M,Senior Manager,PhD,Retired
-E1492,Jeffrey,Cooper,D107,Analyst,jeffrey.cooper@example.com,668-185-5273,113104,2011-01-05,12,18,37,O,Intern,Diploma,On Leave
-E1493,Ryan,Martinez,D103,Engineer,ryan.martinez@example.com,602-545-3857,65736,2015-05-23,8,22,30,M,Junior Engineer,Diploma,Active
-E1494,Sandra,Collins,D110,Developer,sandra.collins@example.com,613-428-5061,63318,2013-05-28,10,20,31,O,Intern,Bachelors,Active
-E1495,Eric,Wright,D102,Analyst,eric.wright@example.com,415-822-5026,79378,2015-12-22,7,23,30,F,Senior Analyst,Masters,Retired
-E1496,Margaret,Rodriguez,D109,Developer,margaret.rodriguez@example.com,749-929-1483,69260,2020-04-27,3,27,59,O,Junior Developer,PhD,Retired
-E1497,James,Bailey,D101,Sales Representative,james.bailey@example.com,530-835-5187,83321,2016-10-21,7,23,25,O,Junior Sales Representative,Masters,Active
-E1498,Paul,Sanchez,D109,Designer,paul.sanchez@example.com,567-410-7930,116009,2020-06-10,3,27,34,F,Senior Designer,Diploma,Active
-E1499,Linda,Bennet,D106,Analyst,linda.bennet@example.com,331-698-6422,64798,2021-11-22,1,29,40,M,Junior Analyst,Bachelors,Retired
-E1500,Brian,Hughes,D107,Developer,brian.hughes@example.com,901-342-8554,106462,2016-09-01,7,23,37,F,Senior Developer,PhD,Terminated
+employee_id|first_name|last_name|department_id|position|email|phone_number|salary|hire_date|total_years_as_employee|leave_remaining|age|gender|previous_position|highest_degree_achieved|manager_id|employment_status
+E1001|Sharon|Mendoza|D109|Sales Representative|sharon.mendoza@example.com|693-393-3702|53387|2012-08-11|11|19|30|M|Junior Sales Representative|PhD|Active
+E1002|Samuel|Jimenez|D108|Engineer|samuel.jimenez@example.com|460-823-3719|81821|2013-08-14|10|20|47|M|Senior Engineer|Diploma|Terminated
+E1003|Joshua|Hughes|D109|Sales Representative|joshua.hughes@example.com|296-774-4219|68897|2013-01-11|10|20|55|O|Intern|Bachelors|On Leave
+E1004|Linda|Morales|D108|Consultant|linda.morales@example.com|586-575-7784|110725|2021-04-09|2|28|49|F|Intern|Masters|Retired
+E1005|Barbara|Castillo|D102|Developer|barbara.castillo@example.com|602-697-6009|71156|2022-12-28|0|30|26|M|Senior Developer|PhD|Active
+E1006|Lisa|Ward|D102|Consultant|lisa.ward@example.com|997-760-6039|114438|2012-01-15|11|19|59|M|Junior Consultant|Masters|Retired
+E1007|Kathleen|Thomas|D101|Developer|kathleen.thomas@example.com|545-360-9207|83094|2012-03-03|11|19|57|O|Intern|Diploma|On Leave
+E1008|Katherine|Garcia|D110|Engineer|katherine.garcia@example.com|870-782-2847|115421|2016-08-18|7|23|41|M|Senior Engineer|Bachelors|On Leave
+E1009|Gregory|Wilson|D105|Manager|gregory.wilson@example.com|641-616-4321|88351|2018-07-24|5|25|58|O|Senior Manager|Bachelors|Retired
+E1010|Larry|Williams|D104|Consultant|larry.williams@example.com|868-774-7613|75480|2012-01-13|11|19|41|F|Senior Consultant|Bachelors|Terminated
+E1011|David|Martinez|D105|Consultant|david.martinez@example.com|423-964-2857|90996|2013-09-20|10|20|35|M|Junior Consultant|PhD|Terminated
+E1012|Jason|Walker|D110|Sales Representative|jason.walker@example.com|318-651-2395|94626|2016-10-04|7|23|54|O|Senior Sales Representative|Masters|Terminated
+E1013|Jonathan|Watson|D110|Manager|jonathan.watson@example.com|645-477-3689|84504|2015-01-08|8|22|46|O|Senior Manager|PhD|Terminated
+E1014|Justin|Lee|D104|Designer|justin.lee@example.com|962-387-8320|91783|2018-12-30|4|26|52|F|Intern|Diploma|Terminated
+E1015|Carol|Rivera|D105|Consultant|carol.rivera@example.com|594-225-8992|114307|2013-03-26|10|20|39|O|Intern|Masters|Terminated
+E1016|Ruth|Stewart|D106|Developer|ruth.stewart@example.com|634-872-4968|114459|2016-11-11|6|24|47|O|Senior Developer|Diploma|Retired
+E1017|Joshua|Kelly|D110|Consultant|joshua.kelly@example.com|856-822-7750|57125|2013-07-06|10|20|42|F|Intern|Masters|Retired
+E1018|Alexander|Stewart|D108|Manager|alexander.stewart@example.com|358-502-4806|71034|2019-04-17|4|26|55|M|Junior Manager|Bachelors|Retired
+E1019|Daniel|Mendoza|D106|Consultant|daniel.mendoza@example.com|667-290-5876|98956|2017-11-10|6|24|25|F|Intern|Bachelors|On Leave
+E1020|Christopher|Sanchez|D102|Engineer|christopher.sanchez@example.com|569-454-2133|99431|2018-07-08|5|25|27|F|Intern|Bachelors|On Leave
+E1021|Mary|James|D109|Consultant|mary.james@example.com|530-282-3437|102273|2012-10-02|11|19|29|M|Intern|Masters|Active
+E1022|Eric|Ramirez|D108|Developer|eric.ramirez@example.com|487-444-9929|59471|2015-09-30|8|22|51|F|Senior Developer|Diploma|On Leave
+E1023|Brian|Perez|D103|Engineer|brian.perez@example.com|582-484-7439|77880|2016-08-16|7|23|45|M|Junior Engineer|Bachelors|On Leave
+E1024|Michael|Hall|D102|Designer|michael.hall@example.com|872-467-3643|96451|2020-06-24|3|27|36|O|Junior Designer|PhD|Active
+E1025|Frank|Taylor|D105|Engineer|frank.taylor@example.com|209-876-1702|85323|2011-02-01|12|18|51|M|Senior Engineer|PhD|Retired
+E1026|Stephanie|White|D104|Manager|stephanie.white@example.com|365-579-6353|90193|2016-03-11|7|23|40|F|Junior Manager|Bachelors|On Leave
+E1027|Sarah|King|D103|Engineer|sarah.king@example.com|720-480-9045|118095|2012-04-05|11|19|36|M|Intern|Diploma|Terminated
+E1028|William|Hall|D110|Manager|william.hall@example.com|807-690-9783|95745|2020-10-09|3|27|25|F|Senior Manager|PhD|Terminated
+E1029|Donna|Hall|D107|Consultant|donna.hall@example.com|976-776-6240|71794|2020-09-27|3|27|53|M|Intern|Bachelors|Active
+E1030|Pamela|Carter|D110|Designer|pamela.carter@example.com|612-684-5070|84146|2022-12-15|0|30|38|O|Junior Designer|Diploma|Terminated
+E1031|Steven|Martinez|D102|Designer|steven.martinez@example.com|215-696-8796|106522|2018-02-10|5|25|36|M|Intern|PhD|Active
+E1032|Amanda|Richardson|D110|Sales Representative|amanda.richardson@example.com|747-298-8190|61691|2010-05-21|13|17|41|O|Senior Sales Representative|Diploma|Retired
+E1033|Rebecca|Mendoza|D105|Analyst|rebecca.mendoza@example.com|768-547-2849|92186|2012-06-20|11|19|58|M|Junior Analyst|Diploma|Retired
+E1034|Shirley|James|D103|Developer|shirley.james@example.com|834-932-2862|88393|2010-10-12|13|17|39|F|Senior Developer|Masters|Active
+E1035|John|Jackson|D103|Developer|john.jackson@example.com|680-215-3886|94940|2013-02-21|10|20|55|O|Intern|Masters|Terminated
+E1036|David|Roberts|D108|Analyst|david.roberts@example.com|455-964-2555|118801|2015-07-17|8|22|36|O|Junior Analyst|Masters|Retired
+E1037|Brandon|Thompson|D107|Designer|brandon.thompson@example.com|638-131-9284|100612|2022-12-20|0|30|54|F|Intern|Diploma|Retired
+E1038|Jessica|Carter|D102|Manager|jessica.carter@example.com|259-389-3563|82744|2021-05-27|2|28|60|O|Senior Manager|Masters|Retired
+E1039|Nicholas|Lopez|D110|Sales Representative|nicholas.lopez@example.com|179-185-2639|78508|2012-12-18|10|20|43|O|Senior Sales Representative|Bachelors|Retired
+E1040|Michelle|Martin|D108|Analyst|michelle.martin@example.com|147-656-6491|86282|2014-05-19|9|21|32|M|Senior Analyst|Bachelors|Terminated
+E1041|Amanda|Green|D107|Manager|amanda.green@example.com|147-227-8859|76110|2012-08-12|11|19|48|M|Intern|Bachelors|Active
+E1042|Melissa|Harris|D106|Consultant|melissa.harris@example.com|343-650-3616|91816|2013-08-30|10|20|48|F|Intern|Diploma|Terminated
+E1043|Eric|Cruz|D101|Sales Representative|eric.cruz@example.com|616-921-1362|54410|2018-02-05|5|25|28|F|Junior Sales Representative|Diploma|Terminated
+E1044|Katherine|Diaz|D105|Developer|katherine.diaz@example.com|959-347-6911|111729|2016-02-23|7|23|48|M|Junior Developer|Bachelors|Retired
+E1045|Timothy|Flores|D107|Developer|timothy.flores@example.com|191-155-3380|69765|2020-08-12|3|27|57|O|Senior Developer|Masters|Terminated
+E1046|Stephen|Miller|D106|Designer|stephen.miller@example.com|978-122-3443|83867|2011-08-31|12|18|38|M|Junior Designer|Masters|Retired
+E1047|Emily|Nelson|D109|Engineer|emily.nelson@example.com|829-717-9057|76023|2012-04-06|11|19|47|F|Intern|PhD|Terminated
+E1048|Eric|Gutierrez|D107|Developer|eric.gutierrez@example.com|705-466-4026|63404|2019-10-17|4|26|60|O|Senior Developer|Diploma|Active
+E1049|Sarah|Morris|D108|Manager|sarah.morris@example.com|374-856-8118|91608|2019-12-19|3|27|36|F|Intern|PhD|On Leave
+E1050|Laura|Davis|D110|Sales Representative|laura.davis@example.com|952-386-6129|84369|2013-03-31|10|20|40|M|Senior Sales Representative|Diploma|Terminated
+E1051|Jason|Clark|D105|Manager|jason.clark@example.com|949-228-8315|104008|2020-08-11|3|27|35|M|Junior Manager|Diploma|On Leave
+E1052|Daniel|Wood|D107|Manager|daniel.wood@example.com|717-376-3753|81820|2016-12-31|6|24|57|O|Intern|Masters|Retired
+E1053|Nicholas|Jackson|D108|Designer|nicholas.jackson@example.com|888-633-2629|55696|2020-10-03|3|27|45|F|Senior Designer|Masters|Terminated
+E1054|Kevin|Jimenez|D109|Developer|kevin.jimenez@example.com|405-851-1240|76440|2011-10-05|12|18|43|O|Senior Developer|PhD|Active
+E1055|Deborah|Ward|D104|Engineer|deborah.ward@example.com|837-626-6121|93126|2012-07-12|11|19|60|M|Junior Engineer|PhD|On Leave
+E1056|Alexander|Young|D102|Developer|alexander.young@example.com|192-166-1871|54159|2017-02-18|6|24|36|O|Junior Developer|Diploma|Active
+E1057|Samuel|Anderson|D103|Developer|samuel.anderson@example.com|599-746-4775|103759|2016-05-23|7|23|55|F|Intern|Masters|On Leave
+E1058|Amanda|Edwards|D103|Analyst|amanda.edwards@example.com|238-966-7849|57930|2011-08-22|12|18|47|O|Junior Analyst|Masters|Retired
+E1059|Katherine|Brooks|D107|Engineer|katherine.brooks@example.com|623-987-4947|100018|2015-09-13|8|22|35|O|Intern|Masters|Retired
+E1060|Lisa|Castillo|D108|Designer|lisa.castillo@example.com|138-111-9318|59028|2018-07-08|5|25|52|M|Senior Designer|Bachelors|Retired
+E1061|Richard|Patel|D101|Developer|richard.patel@example.com|887-896-6820|82584|2018-01-27|5|25|57|O|Senior Developer|Bachelors|Terminated
+E1062|Sarah|Gutierrez|D102|Consultant|sarah.gutierrez@example.com|878-520-4833|50638|2011-11-22|11|19|30|F|Intern|PhD|Retired
+E1063|Dorothy|Anderson|D107|Analyst|dorothy.anderson@example.com|167-582-6345|75150|2014-07-11|9|21|59|M|Senior Analyst|PhD|Terminated
+E1064|Brian|Johnson|D104|Analyst|brian.johnson@example.com|146-219-4475|78466|2015-10-23|8|22|29|O|Junior Analyst|Masters|Retired
+E1065|Donna|Torres|D105|Manager|donna.torres@example.com|735-422-6748|73393|2012-02-16|11|19|32|M|Intern|PhD|Terminated
+E1066|Ashley|Peterson|D107|Engineer|ashley.peterson@example.com|790-192-3217|72261|2015-08-28|8|22|58|O|Junior Engineer|Masters|On Leave
+E1067|Karen|Miller|D110|Analyst|karen.miller@example.com|647-667-5796|55809|2022-08-31|1|29|31|M|Intern|Bachelors|Active
+E1068|Anna|Morales|D106|Designer|anna.morales@example.com|625-937-2212|113548|2021-02-17|2|28|53|F|Intern|Masters|Active
+E1069|Samantha|Harris|D101|Sales Representative|samantha.harris@example.com|769-186-2569|99623|2021-05-09|2|28|49|O|Junior Sales Representative|Diploma|Active
+E1070|Karen|Murphy|D104|Sales Representative|karen.murphy@example.com|154-712-5949|76460|2022-06-25|1|29|54|F|Junior Sales Representative|Masters|Retired
+E1071|Nancy|Collins|D105|Analyst|nancy.collins@example.com|295-732-8594|58610|2013-07-05|10|20|47|O|Senior Analyst|Masters|On Leave
+E1072|Carol|Gomez|D105|Designer|carol.gomez@example.com|855-163-1916|104817|2021-03-26|2|28|47|M|Senior Designer|Masters|Active
+E1073|Donna|Lopez|D105|Sales Representative|donna.lopez@example.com|594-524-1184|119166|2019-06-28|4|26|31|F|Junior Sales Representative|Masters|Active
+E1074|Kathleen|Howard|D103|Designer|kathleen.howard@example.com|423-426-7686|112935|2021-02-03|2|28|60|O|Junior Designer|PhD|Retired
+E1075|Donna|Patel|D106|Developer|donna.patel@example.com|530-652-9961|69754|2019-01-15|4|26|34|O|Intern|Masters|Active
+E1076|Justin|Howard|D108|Sales Representative|justin.howard@example.com|760-383-8636|76947|2017-04-25|6|24|41|O|Junior Sales Representative|Bachelors|Retired
+E1077|Cynthia|Murphy|D110|Analyst|cynthia.murphy@example.com|737-923-7244|97107|2015-03-09|8|22|36|M|Junior Analyst|Diploma|Retired
+E1078|Betty|Collins|D101|Developer|betty.collins@example.com|902-170-8301|116345|2014-10-07|9|21|26|F|Senior Developer|Masters|Retired
+E1079|Eric|Lee|D108|Engineer|eric.lee@example.com|900-556-3563|102504|2015-02-27|8|22|28|M|Junior Engineer|Bachelors|Terminated
+E1080|Nicole|Nguyen|D101|Developer|nicole.nguyen@example.com|240-336-9980|118490|2014-02-10|9|21|39|F|Senior Developer|Bachelors|Active
+E1081|Shirley|Harris|D103|Designer|shirley.harris@example.com|280-309-3611|114618|2018-12-09|4|26|59|O|Senior Designer|Masters|Retired
+E1082|Thomas|Miller|D109|Engineer|thomas.miller@example.com|196-895-4811|77027|2011-02-21|12|18|32|O|Senior Engineer|PhD|Terminated
+E1083|Cynthia|Murphy|D105|Designer|cynthia.murphy@example.com|789-171-4447|98283|2014-07-08|9|21|40|O|Senior Designer|Bachelors|Active
+E1084|Andrew|Jackson|D101|Manager|andrew.jackson@example.com|221-141-4406|88296|2016-07-17|7|23|52|O|Junior Manager|Diploma|Active
+E1085|Frank|Howard|D109|Designer|frank.howard@example.com|958-590-5662|70368|2018-02-09|5|25|49|M|Intern|PhD|Terminated
+E1086|Sandra|Walker|D106|Sales Representative|sandra.walker@example.com|265-581-9351|67032|2021-10-05|2|28|53|F|Senior Sales Representative|Bachelors|On Leave
+E1087|Shirley|Smith|D110|Engineer|shirley.smith@example.com|373-453-4654|118824|2017-08-04|6|24|37|M|Senior Engineer|PhD|Terminated
+E1088|Steven|Williams|D106|Analyst|steven.williams@example.com|250-503-3313|71259|2020-10-17|3|27|54|M|Senior Analyst|Masters|Retired
+E1089|Jason|Wilson|D108|Analyst|jason.wilson@example.com|618-934-3711|118986|2015-12-28|7|23|57|M|Junior Analyst|Masters|On Leave
+E1090|Richard|Jimenez|D108|Manager|richard.jimenez@example.com|827-307-9246|111550|2021-12-25|1|29|56|M|Senior Manager|Diploma|Active
+E1091|Emily|Collins|D103|Developer|emily.collins@example.com|242-837-5836|68422|2022-11-11|0|30|56|O|Senior Developer|Bachelors|Terminated
+E1092|Christopher|Lewis|D102|Analyst|christopher.lewis@example.com|142-952-4723|74705|2011-04-26|12|18|45|F|Intern|PhD|Active
+E1093|Elizabeth|Hernandez|D104|Engineer|elizabeth.hernandez@example.com|575-457-3333|76375|2015-05-18|8|22|56|M|Intern|PhD|On Leave
+E1094|Shirley|Stewart|D103|Consultant|shirley.stewart@example.com|163-638-9799|74801|2014-04-15|9|21|44|F|Senior Consultant|Bachelors|Retired
+E1095|Samuel|Torres|D110|Developer|samuel.torres@example.com|374-114-6731|90475|2012-09-22|11|19|52|F|Intern|Bachelors|On Leave
+E1096|Margaret|Johnson|D107|Manager|margaret.johnson@example.com|879-497-7372|73675|2018-09-07|5|25|60|O|Senior Manager|Diploma|Retired
+E1097|Linda|Hernandez|D110|Sales Representative|linda.hernandez@example.com|936-699-2619|105726|2016-09-26|7|23|36|M|Intern|PhD|Retired
+E1098|Larry|Rivera|D101|Analyst|larry.rivera@example.com|594-494-7564|64500|2015-04-11|8|22|35|F|Junior Analyst|Diploma|Terminated
+E1099|Joseph|Ramirez|D107|Manager|joseph.ramirez@example.com|314-155-7573|82313|2016-05-05|7|23|30|F|Intern|PhD|Terminated
+E1100|Rebecca|Turner|D108|Manager|rebecca.turner@example.com|660-388-1023|114582|2011-10-06|12|18|31|F|Junior Manager|Diploma|On Leave
+E1101|Alexander|Cooper|D101|Engineer|alexander.cooper@example.com|273-989-5967|107204|2018-09-22|5|25|25|F|Junior Engineer|Diploma|On Leave
+E1102|Jacob|Wilson|D110|Engineer|jacob.wilson@example.com|468-699-9328|74296|2018-01-31|5|25|43|F|Intern|Diploma|Active
+E1103|Patricia|Patel|D101|Analyst|patricia.patel@example.com|132-520-1892|67991|2015-09-05|8|22|27|M|Senior Analyst|PhD|Active
+E1104|Betty|Edwards|D101|Sales Representative|betty.edwards@example.com|497-189-3179|76575|2011-07-06|12|18|33|O|Senior Sales Representative|Masters|Active
+E1105|Timothy|Rogers|D109|Designer|timothy.rogers@example.com|522-367-4433|113446|2021-11-25|1|29|44|F|Intern|Diploma|On Leave
+E1106|Amy|Gray|D106|Engineer|amy.gray@example.com|851-651-3253|75202|2014-04-30|9|21|52|M|Junior Engineer|Diploma|Active
+E1107|Scott|Anderson|D109|Analyst|scott.anderson@example.com|985-287-6921|76681|2018-05-05|5|25|27|M|Junior Analyst|Bachelors|Active
+E1108|Sharon|Torres|D104|Manager|sharon.torres@example.com|110-668-5882|54957|2014-10-15|9|21|27|O|Senior Manager|Diploma|Terminated
+E1109|Brandon|Jackson|D103|Consultant|brandon.jackson@example.com|955-563-9837|72706|2014-06-02|9|21|27|M|Senior Consultant|Diploma|Terminated
+E1110|Jeffrey|Cox|D107|Consultant|jeffrey.cox@example.com|872-560-5835|80309|2020-03-11|3|27|45|O|Senior Consultant|PhD|Terminated
+E1111|Barbara|Miller|D106|Consultant|barbara.miller@example.com|420-149-6183|70854|2014-10-31|9|21|58|F|Senior Consultant|Masters|Terminated
+E1112|Ashley|Kim|D104|Developer|ashley.kim@example.com|944-844-5777|78456|2017-10-10|6|24|29|F|Junior Developer|Masters|Active
+E1113|Amy|Roberts|D108|Developer|amy.roberts@example.com|255-178-2519|56781|2015-11-18|7|23|56|F|Senior Developer|Diploma|On Leave
+E1114|Jason|Bennet|D107|Consultant|jason.bennet@example.com|960-315-6183|89138|2018-06-06|5|25|30|O|Intern|Diploma|On Leave
+E1115|Jason|Hughes|D108|Analyst|jason.hughes@example.com|651-280-2213|54754|2013-09-30|10|20|51|O|Junior Analyst|Masters|On Leave
+E1116|Ryan|Brown|D107|Consultant|ryan.brown@example.com|332-328-1694|94063|2012-11-01|11|19|41|F|Junior Consultant|Diploma|Terminated
+E1117|Barbara|Rogers|D102|Engineer|barbara.rogers@example.com|194-162-4704|117266|2010-12-22|12|18|24|O|Senior Engineer|Diploma|Terminated
+E1118|Mark|Rogers|D102|Designer|mark.rogers@example.com|296-921-5133|82616|2021-06-24|2|28|37|M|Junior Designer|PhD|On Leave
+E1119|Joshua|Bennet|D106|Manager|joshua.bennet@example.com|238-121-1566|69916|2010-02-18|13|17|49|M|Senior Manager|Masters|On Leave
+E1120|Daniel|Carter|D104|Manager|daniel.carter@example.com|487-914-7070|56621|2010-02-12|13|17|53|M|Intern|Bachelors|Terminated
+E1121|Thomas|Reyes|D102|Developer|thomas.reyes@example.com|670-750-6739|54395|2012-09-23|11|19|30|O|Intern|Bachelors|Retired
+E1122|Melissa|Jimenez|D108|Analyst|melissa.jimenez@example.com|889-985-1455|112883|2010-02-17|13|17|30|O|Junior Analyst|PhD|Terminated
+E1123|Melissa|Garcia|D104|Developer|melissa.garcia@example.com|887-234-3560|81786|2012-01-25|11|19|33|F|Senior Developer|Diploma|On Leave
+E1124|Alexander|Bailey|D110|Analyst|alexander.bailey@example.com|123-550-2233|114975|2010-06-16|13|17|30|M|Senior Analyst|PhD|Terminated
+E1125|Melissa|Scott|D110|Designer|melissa.scott@example.com|907-490-5726|66190|2017-01-15|6|24|34|O|Senior Designer|Masters|Active
+E1126|Steven|Williams|D103|Designer|steven.williams@example.com|922-522-4857|100004|2017-03-20|6|24|57|O|Senior Designer|PhD|Active
+E1127|Jessica|James|D102|Manager|jessica.james@example.com|173-631-9172|67249|2015-06-26|8|22|32|M|Senior Manager|Diploma|Active
+E1128|Dorothy|Torres|D101|Manager|dorothy.torres@example.com|181-859-5186|116078|2015-05-21|8|22|30|O|Senior Manager|Masters|Active
+E1129|Dorothy|Jackson|D103|Manager|dorothy.jackson@example.com|476-931-2304|112555|2017-01-04|6|24|47|F|Senior Manager|Bachelors|Retired
+E1130|Richard|Nelson|D103|Sales Representative|richard.nelson@example.com|940-248-8549|88657|2018-05-26|5|25|49|F|Senior Sales Representative|Bachelors|Terminated
+E1131|Mary|Morales|D108|Consultant|mary.morales@example.com|639-269-1899|81148|2016-06-12|7|23|30|M|Senior Consultant|Masters|Active
+E1132|Sarah|Baker|D109|Sales Representative|sarah.baker@example.com|255-363-6939|68583|2018-10-28|5|25|28|O|Junior Sales Representative|Bachelors|On Leave
+E1133|Thomas|Howard|D101|Developer|thomas.howard@example.com|573-956-1381|77513|2021-02-28|2|28|25|F|Junior Developer|Diploma|Terminated
+E1134|Laura|Sanders|D108|Analyst|laura.sanders@example.com|532-925-9729|95997|2015-01-30|8|22|32|F|Intern|Diploma|Terminated
+E1135|Matthew|Ramirez|D107|Consultant|matthew.ramirez@example.com|684-611-8983|119023|2010-03-27|13|17|44|O|Junior Consultant|Diploma|Retired
+E1136|Jessica|Adams|D108|Engineer|jessica.adams@example.com|746-599-8534|92685|2015-08-11|8|22|35|F|Senior Engineer|Bachelors|On Leave
+E1137|Patricia|Mendoza|D108|Sales Representative|patricia.mendoza@example.com|267-152-1026|100038|2019-11-09|4|26|54|M|Senior Sales Representative|Masters|Active
+E1138|Thomas|Wood|D110|Designer|thomas.wood@example.com|507-142-7104|117397|2013-07-31|10|20|58|O|Intern|PhD|On Leave
+E1139|Eric|Wright|D101|Designer|eric.wright@example.com|948-545-8600|116098|2021-12-12|1|29|52|M|Junior Designer|PhD|Retired
+E1140|Cynthia|Price|D104|Developer|cynthia.price@example.com|509-343-7135|78651|2018-03-05|5|25|45|F|Senior Developer|PhD|Terminated
+E1141|Ashley|Young|D105|Sales Representative|ashley.young@example.com|473-408-4215|104641|2022-10-12|1|29|31|F|Intern|Masters|Retired
+E1142|Mary|Cook|D107|Developer|mary.cook@example.com|564-294-5593|118053|2018-01-22|5|25|34|F|Junior Developer|Bachelors|Retired
+E1143|Ronald|Ortiz|D110|Sales Representative|ronald.ortiz@example.com|112-349-6526|111909|2019-11-24|3|27|50|O|Intern|PhD|Terminated
+E1144|Laura|Collins|D104|Analyst|laura.collins@example.com|258-797-5988|54968|2017-04-06|6|24|46|F|Junior Analyst|Diploma|Retired
+E1145|Nancy|Phillips|D108|Consultant|nancy.phillips@example.com|300-100-3965|79993|2012-08-09|11|19|40|F|Senior Consultant|PhD|Active
+E1146|Jonathan|Brooks|D109|Engineer|jonathan.brooks@example.com|486-546-3772|85033|2017-08-03|6|24|46|F|Senior Engineer|Diploma|Retired
+E1147|Michelle|Moore|D104|Analyst|michelle.moore@example.com|202-413-3534|116122|2019-08-28|4|26|44|M|Senior Analyst|Bachelors|On Leave
+E1148|Mark|Long|D108|Manager|mark.long@example.com|994-965-4237|88081|2017-09-29|6|24|52|M|Intern|PhD|Terminated
+E1149|Elizabeth|Green|D104|Designer|elizabeth.green@example.com|769-744-5351|65373|2013-12-02|9|21|57|O|Senior Designer|Diploma|On Leave
+E1150|Larry|Miller|D107|Sales Representative|larry.miller@example.com|489-740-8144|80157|2018-02-07|5|25|42|F|Intern|Bachelors|On Leave
+E1151|Lisa|Reyes|D101|Analyst|lisa.reyes@example.com|519-359-8343|119511|2016-12-29|6|24|50|M|Senior Analyst|Diploma|Active
+E1152|William|Thompson|D107|Analyst|william.thompson@example.com|667-346-5487|54152|2010-01-17|13|17|60|O|Junior Analyst|PhD|Terminated
+E1153|Brandon|Torres|D101|Designer|brandon.torres@example.com|848-521-7409|72601|2022-11-22|0|30|38|M|Senior Designer|Diploma|Terminated
+E1154|Amanda|Jackson|D108|Manager|amanda.jackson@example.com|420-708-4806|53624|2012-10-07|11|19|59|O|Senior Manager|Bachelors|Terminated
+E1155|Nicole|Campbell|D107|Manager|nicole.campbell@example.com|988-738-6508|87101|2022-11-17|0|30|52|O|Junior Manager|Diploma|Terminated
+E1156|Dorothy|James|D102|Engineer|dorothy.james@example.com|135-462-9723|82801|2015-04-03|8|22|53|O|Intern|Bachelors|Terminated
+E1157|Linda|Johnson|D104|Analyst|linda.johnson@example.com|862-505-9764|100564|2019-03-06|4|26|28|M|Intern|PhD|Active
+E1158|Gregory|Williams|D109|Developer|gregory.williams@example.com|107-283-3657|113814|2022-03-16|1|29|35|F|Senior Developer|Diploma|On Leave
+E1159|Daniel|Baker|D110|Designer|daniel.baker@example.com|738-159-4870|77939|2012-08-17|11|19|55|O|Senior Designer|Bachelors|Active
+E1160|Barbara|Ruiz|D108|Developer|barbara.ruiz@example.com|895-249-2864|56615|2011-08-22|12|18|25|F|Intern|PhD|On Leave
+E1161|Nicholas|Wood|D106|Consultant|nicholas.wood@example.com|975-128-3216|112198|2016-04-19|7|23|58|F|Junior Consultant|Diploma|Terminated
+E1162|Helen|Kelly|D106|Developer|helen.kelly@example.com|905-808-6482|119629|2022-07-08|1|29|53|M|Intern|Masters|Active
+E1163|Ryan|Perez|D110|Sales Representative|ryan.perez@example.com|981-298-7706|65046|2017-05-25|6|24|44|F|Intern|PhD|On Leave
+E1164|Patricia|James|D107|Engineer|patricia.james@example.com|248-953-5051|85932|2016-10-30|7|23|53|O|Intern|Bachelors|Retired
+E1165|Amy|Davis|D110|Engineer|amy.davis@example.com|411-558-3516|66897|2014-10-28|9|21|24|M|Junior Engineer|PhD|Retired
+E1166|Thomas|Diaz|D109|Manager|thomas.diaz@example.com|487-508-9076|52549|2015-10-15|8|22|42|M|Junior Manager|PhD|Active
+E1167|Ashley|Jones|D103|Manager|ashley.jones@example.com|576-495-5075|105827|2012-06-09|11|19|26|F|Intern|Diploma|Terminated
+E1168|Justin|Murphy|D110|Developer|justin.murphy@example.com|535-675-7047|69918|2018-08-23|5|25|37|F|Intern|Bachelors|On Leave
+E1169|Amy|Smith|D109|Developer|amy.smith@example.com|956-474-7401|118706|2012-10-04|11|19|38|F|Junior Developer|Masters|Terminated
+E1170|Mark|Morris|D105|Manager|mark.morris@example.com|634-884-8996|95951|2018-06-26|5|25|50|O|Senior Manager|Bachelors|Terminated
+E1171|Brenda|Ross|D105|Analyst|brenda.ross@example.com|376-143-8313|90282|2010-09-03|13|17|25|O|Junior Analyst|Masters|Terminated
+E1172|John|Sanders|D106|Sales Representative|john.sanders@example.com|980-960-4882|63491|2010-05-31|13|17|41|M|Intern|PhD|Retired
+E1173|Benjamin|King|D101|Sales Representative|benjamin.king@example.com|737-858-9345|116186|2020-02-10|3|27|37|F|Junior Sales Representative|PhD|On Leave
+E1174|Brenda|Phillips|D110|Consultant|brenda.phillips@example.com|768-533-5000|87849|2011-06-20|12|18|36|O|Intern|PhD|Terminated
+E1175|Benjamin|Rogers|D107|Engineer|benjamin.rogers@example.com|468-543-8036|98928|2021-04-26|2|28|53|F|Intern|Bachelors|Terminated
+E1176|Linda|Davis|D105|Engineer|linda.davis@example.com|752-227-1903|71398|2019-02-19|4|26|33|M|Junior Engineer|PhD|Active
+E1177|Carol|Watson|D108|Analyst|carol.watson@example.com|957-639-3497|96293|2015-01-18|8|22|46|M|Intern|PhD|On Leave
+E1178|Helen|Phillips|D110|Analyst|helen.phillips@example.com|238-590-2954|58152|2016-07-10|7|23|40|F|Junior Analyst|Masters|Active
+E1179|Carol|Miller|D106|Sales Representative|carol.miller@example.com|498-637-1854|82004|2013-03-28|10|20|60|O|Intern|Bachelors|Active
+E1180|Nicole|Howard|D109|Engineer|nicole.howard@example.com|581-918-1142|53295|2015-05-17|8|22|51|M|Junior Engineer|Bachelors|On Leave
+E1181|Emily|Perez|D104|Engineer|emily.perez@example.com|270-571-7145|114187|2014-12-27|8|22|29|F|Senior Engineer|PhD|Terminated
+E1182|Pamela|Morris|D101|Designer|pamela.morris@example.com|988-802-3468|104684|2019-10-11|4|26|39|M|Senior Designer|PhD|Terminated
+E1183|Steven|Hall|D105|Consultant|steven.hall@example.com|717-807-3152|104637|2016-07-03|7|23|41|M|Junior Consultant|Diploma|Terminated
+E1184|David|Ruiz|D105|Manager|david.ruiz@example.com|470-237-3094|100044|2021-11-29|1|29|26|F|Intern|Bachelors|Retired
+E1185|Ryan|Moore|D104|Consultant|ryan.moore@example.com|456-498-8470|72848|2017-05-17|6|24|47|O|Junior Consultant|Masters|Retired
+E1186|Sharon|Peterson|D107|Manager|sharon.peterson@example.com|286-320-6008|100846|2014-06-04|9|21|51|O|Intern|Bachelors|On Leave
+E1187|Margaret|Campbell|D104|Sales Representative|margaret.campbell@example.com|178-854-3271|75229|2019-08-08|4|26|43|F|Junior Sales Representative|Diploma|On Leave
+E1188|Jeffrey|Howard|D106|Designer|jeffrey.howard@example.com|494-701-7218|109223|2011-11-13|11|19|58|O|Senior Designer|Diploma|Active
+E1189|William|Patel|D109|Consultant|william.patel@example.com|174-368-3300|81915|2021-10-01|2|28|58|O|Intern|Masters|Active
+E1190|Christine|Nguyen|D110|Designer|christine.nguyen@example.com|591-983-3128|89837|2021-10-20|2|28|51|F|Senior Designer|Bachelors|Retired
+E1191|Kevin|Kim|D108|Manager|kevin.kim@example.com|537-134-4686|115469|2011-11-27|11|19|39|M|Senior Manager|Diploma|Retired
+E1192|Jonathan|Hall|D107|Developer|jonathan.hall@example.com|730-701-4192|67333|2017-06-24|6|24|40|O|Senior Developer|Bachelors|Active
+E1193|Carol|Campbell|D102|Manager|carol.campbell@example.com|838-658-1469|107883|2013-02-18|10|20|25|O|Junior Manager|PhD|Terminated
+E1194|Karen|Foster|D107|Manager|karen.foster@example.com|159-273-1013|101634|2018-01-04|5|25|25|F|Junior Manager|Diploma|Active
+E1195|Sharon|Wilson|D105|Engineer|sharon.wilson@example.com|589-148-9171|63796|2011-07-30|12|18|49|O|Junior Engineer|PhD|On Leave
+E1196|Laura|Gutierrez|D105|Engineer|laura.gutierrez@example.com|938-609-8269|116156|2021-03-29|2|28|39|F|Junior Engineer|Masters|Retired
+E1197|James|Rodriguez|D101|Sales Representative|james.rodriguez@example.com|522-393-3702|63938|2012-04-11|11|19|44|M|Junior Sales Representative|Masters|On Leave
+E1198|Sharon|Nguyen|D106|Analyst|sharon.nguyen@example.com|204-903-8124|91402|2015-01-09|8|22|38|M|Senior Analyst|Bachelors|Retired
+E1199|Shirley|Martin|D107|Designer|shirley.martin@example.com|901-329-3855|109159|2015-09-09|8|22|48|O|Junior Designer|Bachelors|On Leave
+E1200|Rebecca|Miller|D104|Consultant|rebecca.miller@example.com|879-659-7983|93342|2019-03-21|4|26|40|F|Intern|Masters|Terminated
+E1201|Christine|Ortiz|D106|Engineer|christine.ortiz@example.com|522-365-7837|73105|2021-08-08|2|28|35|M|Intern|Masters|Active
+E1202|Ruth|Taylor|D109|Consultant|ruth.taylor@example.com|754-690-1925|79457|2017-05-24|6|24|31|F|Intern|Diploma|Retired
+E1203|Sarah|Flores|D110|Analyst|sarah.flores@example.com|508-215-7002|82341|2017-03-31|6|24|56|O|Intern|Masters|On Leave
+E1204|Susan|Brown|D103|Analyst|susan.brown@example.com|738-446-5339|112633|2019-10-21|4|26|55|F|Intern|PhD|Retired
+E1205|Sarah|Thomas|D108|Manager|sarah.thomas@example.com|222-612-6630|85258|2012-05-09|11|19|28|M|Junior Manager|Masters|On Leave
+E1206|Jessica|Anderson|D102|Analyst|jessica.anderson@example.com|859-697-6453|97850|2010-03-25|13|17|47|F|Senior Analyst|PhD|Active
+E1207|Jeffrey|Roberts|D109|Sales Representative|jeffrey.roberts@example.com|991-242-8413|101100|2022-02-16|1|29|37|O|Senior Sales Representative|PhD|On Leave
+E1208|Charles|Campbell|D107|Sales Representative|charles.campbell@example.com|891-522-8880|98233|2014-07-19|9|21|31|F|Intern|Diploma|Active
+E1209|Jacob|Young|D108|Designer|jacob.young@example.com|496-696-1112|113680|2022-07-14|1|29|45|F|Junior Designer|Bachelors|Active
+E1210|Edward|Johnson|D104|Designer|edward.johnson@example.com|950-811-8470|95338|2011-09-21|12|18|24|F|Senior Designer|Diploma|Terminated
+E1211|Paul|Brown|D101|Manager|paul.brown@example.com|894-754-3926|77027|2012-09-10|11|19|50|O|Senior Manager|Masters|On Leave
+E1212|Joshua|Kelly|D110|Designer|joshua.kelly@example.com|934-161-5612|95499|2015-09-22|8|22|54|M|Intern|Masters|Active
+E1213|Emily|Martinez|D105|Analyst|emily.martinez@example.com|557-178-3864|105436|2018-04-27|5|25|40|F|Senior Analyst|Masters|Active
+E1214|Andrew|Williams|D104|Analyst|andrew.williams@example.com|724-941-7795|95838|2017-09-06|6|24|37|F|Senior Analyst|PhD|On Leave
+E1215|Mary|Evans|D107|Consultant|mary.evans@example.com|437-439-6092|75514|2015-10-24|8|22|32|O|Junior Consultant|Bachelors|Active
+E1216|Mary|Long|D110|Manager|mary.long@example.com|223-576-8750|108614|2018-03-07|5|25|60|M|Senior Manager|Masters|Active
+E1217|Eric|Perez|D102|Consultant|eric.perez@example.com|185-388-9129|100794|2017-03-27|6|24|42|F|Senior Consultant|PhD|Active
+E1218|Eric|Harris|D103|Sales Representative|eric.harris@example.com|542-234-6289|111457|2011-09-05|12|18|43|F|Senior Sales Representative|PhD|Active
+E1219|Patricia|Howard|D102|Designer|patricia.howard@example.com|578-895-4019|73711|2016-05-15|7|23|42|O|Junior Designer|Masters|Active
+E1220|Timothy|Johnson|D107|Sales Representative|timothy.johnson@example.com|818-248-4177|82950|2020-07-12|3|27|29|O|Junior Sales Representative|Masters|On Leave
+E1221|Matthew|Turner|D109|Manager|matthew.turner@example.com|807-159-8052|114898|2020-09-09|3|27|54|M|Senior Manager|PhD|On Leave
+E1222|Benjamin|Ramos|D102|Designer|benjamin.ramos@example.com|869-570-1805|75130|2022-04-16|1|29|54|O|Senior Designer|Bachelors|On Leave
+E1223|Amy|Scott|D110|Consultant|amy.scott@example.com|718-895-5292|70852|2020-03-09|3|27|34|F|Intern|Bachelors|On Leave
+E1224|Kimberly|Wilson|D108|Consultant|kimberly.wilson@example.com|494-426-3891|96235|2016-03-05|7|23|35|O|Senior Consultant|Bachelors|Terminated
+E1225|Jeffrey|Johnson|D108|Designer|jeffrey.johnson@example.com|498-146-8573|90880|2015-12-04|7|23|34|F|Intern|Masters|Active
+E1226|Gregory|Ramos|D102|Consultant|gregory.ramos@example.com|769-259-2775|96948|2017-07-17|6|24|30|O|Intern|Diploma|On Leave
+E1227|Joseph|Mendoza|D105|Consultant|joseph.mendoza@example.com|202-190-2294|86021|2020-12-06|2|28|52|M|Senior Consultant|Bachelors|Retired
+E1228|Jessica|Kim|D109|Developer|jessica.kim@example.com|873-457-6499|88039|2021-05-21|2|28|28|M|Junior Developer|Diploma|On Leave
+E1229|Kathleen|Young|D110|Sales Representative|kathleen.young@example.com|314-841-1451|66449|2021-08-28|2|28|34|O|Junior Sales Representative|PhD|Terminated
+E1230|Anna|Walker|D108|Developer|anna.walker@example.com|337-523-5832|108572|2011-10-17|12|18|52|F|Junior Developer|Masters|Retired
+E1231|Linda|Roberts|D110|Consultant|linda.roberts@example.com|684-688-9647|96613|2020-03-18|3|27|41|F|Junior Consultant|Masters|Terminated
+E1232|Gary|Young|D103|Developer|gary.young@example.com|597-296-9761|95290|2021-02-02|2|28|51|M|Senior Developer|Masters|Active
+E1233|Jason|Richardson|D108|Developer|jason.richardson@example.com|124-355-7054|86020|2012-06-11|11|19|60|M|Junior Developer|PhD|Terminated
+E1234|Alexander|Rivera|D106|Engineer|alexander.rivera@example.com|707-267-4405|68404|2022-12-08|0|30|50|F|Junior Engineer|Masters|Active
+E1235|Laura|Myers|D106|Engineer|laura.myers@example.com|886-763-9356|94625|2021-08-21|2|28|47|M|Junior Engineer|Diploma|Terminated
+E1236|Sandra|Gutierrez|D110|Engineer|sandra.gutierrez@example.com|776-849-9604|51991|2013-07-03|10|20|38|M|Senior Engineer|Masters|Retired
+E1237|Sharon|Cruz|D110|Designer|sharon.cruz@example.com|249-290-2658|80295|2020-07-22|3|27|39|M|Junior Designer|Diploma|Terminated
+E1238|Joseph|Nelson|D109|Analyst|joseph.nelson@example.com|685-768-2848|97247|2010-07-29|13|17|47|M|Junior Analyst|Bachelors|On Leave
+E1239|Amy|Bailey|D104|Developer|amy.bailey@example.com|864-104-5787|112577|2016-12-06|6|24|45|M|Junior Developer|PhD|On Leave
+E1240|Elizabeth|Hall|D109|Manager|elizabeth.hall@example.com|707-967-6176|106713|2022-04-28|1|29|34|F|Senior Manager|Bachelors|Active
+E1241|Pamela|Phillips|D109|Sales Representative|pamela.phillips@example.com|404-566-5646|62043|2021-02-20|2|28|26|O|Junior Sales Representative|PhD|Active
+E1242|Pamela|Williams|D105|Manager|pamela.williams@example.com|782-474-1785|83044|2012-02-16|11|19|47|M|Junior Manager|Diploma|On Leave
+E1243|Laura|Thompson|D110|Manager|laura.thompson@example.com|718-386-2286|109390|2013-04-02|10|20|60|O|Intern|PhD|Terminated
+E1244|Daniel|Robinson|D108|Consultant|daniel.robinson@example.com|475-478-4959|52729|2014-07-19|9|21|58|O|Intern|Bachelors|Terminated
+E1245|Sandra|Ross|D104|Designer|sandra.ross@example.com|141-175-6506|68754|2016-04-05|7|23|47|O|Junior Designer|Diploma|On Leave
+E1246|Nancy|Kim|D109|Manager|nancy.kim@example.com|914-731-4915|52468|2010-04-28|13|17|37|F|Junior Manager|Diploma|On Leave
+E1247|Brian|Wood|D108|Manager|brian.wood@example.com|422-916-4212|110790|2021-07-02|2|28|55|M|Junior Manager|Masters|On Leave
+E1248|Brandon|Jones|D102|Designer|brandon.jones@example.com|803-627-6381|96365|2014-02-02|9|21|47|F|Senior Designer|Diploma|Retired
+E1249|Sarah|Diaz|D104|Manager|sarah.diaz@example.com|126-920-7247|52495|2020-04-08|3|27|53|F|Junior Manager|PhD|Terminated
+E1250|William|Robinson|D103|Engineer|william.robinson@example.com|237-200-1612|64121|2013-09-14|10|20|54|F|Senior Engineer|Bachelors|Terminated
+E1251|Pamela|Gutierrez|D101|Developer|pamela.gutierrez@example.com|352-762-8214|119466|2015-12-23|7|23|44|O|Junior Developer|Bachelors|Retired
+E1252|Robert|Morris|D104|Developer|robert.morris@example.com|138-212-9333|119324|2015-06-14|8|22|58|F|Senior Developer|PhD|Retired
+E1253|Angela|Watson|D106|Manager|angela.watson@example.com|799-496-1120|55937|2014-12-09|8|22|36|O|Intern|Bachelors|Terminated
+E1254|Kathleen|Lopez|D104|Analyst|kathleen.lopez@example.com|326-670-7815|58054|2010-01-26|13|17|52|O|Senior Analyst|Masters|On Leave
+E1255|Deborah|Martinez|D105|Consultant|deborah.martinez@example.com|985-762-1120|116422|2017-06-07|6|24|51|F|Junior Consultant|Masters|Active
+E1256|Sarah|Young|D110|Engineer|sarah.young@example.com|634-223-5470|106222|2010-11-07|13|17|36|F|Intern|Masters|Terminated
+E1257|Ronald|Moore|D107|Developer|ronald.moore@example.com|619-355-4943|105904|2013-06-05|10|20|39|F|Intern|Bachelors|Terminated
+E1258|Mark|Rodriguez|D105|Sales Representative|mark.rodriguez@example.com|168-780-9344|81200|2013-08-10|10|20|45|O|Senior Sales Representative|Bachelors|Retired
+E1259|Frank|Castillo|D110|Developer|frank.castillo@example.com|614-628-9230|118902|2015-03-22|8|22|34|F|Intern|Diploma|Retired
+E1260|Sandra|Cox|D105|Developer|sandra.cox@example.com|863-937-8286|99153|2021-08-23|2|28|37|F|Intern|PhD|Terminated
+E1261|Amy|Perez|D103|Consultant|amy.perez@example.com|782-537-7049|74226|2016-11-23|6|24|28|O|Senior Consultant|PhD|Retired
+E1262|Laura|Reyes|D104|Sales Representative|laura.reyes@example.com|238-690-1340|119782|2013-11-01|10|20|49|M|Senior Sales Representative|PhD|Terminated
+E1263|Nicole|Lewis|D105|Sales Representative|nicole.lewis@example.com|265-807-1195|73651|2010-05-04|13|17|29|F|Intern|Diploma|Active
+E1264|James|Cox|D102|Engineer|james.cox@example.com|640-944-9286|85054|2017-09-27|6|24|56|M|Junior Engineer|Bachelors|Retired
+E1265|Daniel|Cook|D110|Developer|daniel.cook@example.com|212-115-8770|61841|2015-08-25|8|22|34|O|Junior Developer|PhD|Retired
+E1266|Steven|Thomas|D103|Developer|steven.thomas@example.com|579-258-9074|72057|2021-12-27|1|29|53|F|Senior Developer|Masters|Retired
+E1267|Jennifer|Young|D108|Sales Representative|jennifer.young@example.com|674-821-6310|88421|2013-01-17|10|20|55|M|Senior Sales Representative|PhD|On Leave
+E1268|Emily|Ramos|D104|Sales Representative|emily.ramos@example.com|738-881-7782|105189|2017-05-04|6|24|47|M|Senior Sales Representative|Diploma|Terminated
+E1269|Cynthia|Lewis|D106|Developer|cynthia.lewis@example.com|754-673-2692|80798|2016-02-13|7|23|54|M|Intern|Diploma|Terminated
+E1270|Pamela|Hall|D106|Engineer|pamela.hall@example.com|404-741-3390|52848|2015-06-07|8|22|38|O|Intern|Masters|Terminated
+E1271|Linda|Collins|D101|Manager|linda.collins@example.com|118-552-5704|112173|2018-09-02|5|25|59|M|Intern|Masters|Retired
+E1272|Kimberly|Howard|D105|Analyst|kimberly.howard@example.com|943-390-8406|50028|2018-06-17|5|25|37|F|Junior Analyst|PhD|Terminated
+E1273|Rebecca|Long|D110|Sales Representative|rebecca.long@example.com|782-431-3357|114260|2020-05-25|3|27|35|F|Junior Sales Representative|Masters|Retired
+E1274|Ashley|Martin|D108|Consultant|ashley.martin@example.com|299-808-7061|113587|2017-08-26|6|24|24|O|Senior Consultant|Masters|Retired
+E1275|Jennifer|Lopez|D105|Consultant|jennifer.lopez@example.com|223-426-3409|119375|2010-04-18|13|17|26|O|Intern|Bachelors|Active
+E1276|Emily|Price|D108|Sales Representative|emily.price@example.com|865-858-5559|118529|2019-05-14|4|26|56|F|Junior Sales Representative|Diploma|Retired
+E1277|Margaret|Collins|D104|Consultant|margaret.collins@example.com|186-769-5601|79986|2017-12-17|5|25|51|O|Intern|Bachelors|Terminated
+E1278|Nicole|Baker|D109|Engineer|nicole.baker@example.com|167-616-2878|80748|2015-02-06|8|22|56|O|Senior Engineer|Bachelors|On Leave
+E1279|Alexander|Hernandez|D102|Analyst|alexander.hernandez@example.com|470-356-7125|114303|2013-04-01|10|20|54|F|Senior Analyst|Bachelors|Terminated
+E1280|Helen|Harris|D107|Designer|helen.harris@example.com|381-639-9479|98878|2014-06-17|9|21|32|M|Junior Designer|PhD|On Leave
+E1281|Kimberly|Taylor|D102|Engineer|kimberly.taylor@example.com|143-875-3137|50574|2014-12-27|8|22|31|O|Junior Engineer|Diploma|Retired
+E1282|Brenda|Ramirez|D105|Manager|brenda.ramirez@example.com|832-223-1722|61807|2019-12-15|3|27|32|O|Junior Manager|Masters|On Leave
+E1283|Edward|Johnson|D108|Consultant|edward.johnson@example.com|619-958-4400|50551|2014-02-12|9|21|37|F|Junior Consultant|PhD|Active
+E1284|Amanda|Allen|D110|Consultant|amanda.allen@example.com|171-999-7954|60980|2018-10-11|5|25|39|F|Junior Consultant|PhD|On Leave
+E1285|Ronald|Lee|D108|Consultant|ronald.lee@example.com|428-876-9373|78560|2011-10-18|12|18|57|O|Junior Consultant|Masters|Active
+E1286|Edward|Gomez|D101|Consultant|edward.gomez@example.com|953-375-1595|52608|2018-07-19|5|25|55|F|Intern|Bachelors|On Leave
+E1287|Deborah|Torres|D107|Consultant|deborah.torres@example.com|339-730-7010|117439|2015-07-05|8|22|32|M|Senior Consultant|Diploma|Terminated
+E1288|Jason|Wright|D106|Developer|jason.wright@example.com|717-973-1994|99131|2019-09-13|4|26|53|F|Intern|PhD|Retired
+E1289|Stephanie|Hernandez|D108|Manager|stephanie.hernandez@example.com|365-393-8744|107386|2018-05-05|5|25|56|M|Junior Manager|PhD|Retired
+E1290|Anna|Gutierrez|D103|Engineer|anna.gutierrez@example.com|386-360-4766|57387|2017-08-31|6|24|52|O|Junior Engineer|Bachelors|Active
+E1291|Nicole|Smith|D110|Engineer|nicole.smith@example.com|387-912-4714|110917|2015-11-08|8|22|52|O|Junior Engineer|Diploma|Retired
+E1292|Thomas|Bailey|D101|Consultant|thomas.bailey@example.com|435-773-3405|110028|2010-06-28|13|17|25|F|Intern|PhD|Terminated
+E1293|Jonathan|Martinez|D106|Analyst|jonathan.martinez@example.com|245-890-9817|86249|2012-08-17|11|19|53|F|Senior Analyst|PhD|Retired
+E1294|Patricia|Bailey|D106|Manager|patricia.bailey@example.com|750-428-1608|69975|2016-03-20|7|23|48|O|Junior Manager|Diploma|Active
+E1295|Mary|Thompson|D110|Designer|mary.thompson@example.com|414-824-5101|103872|2014-06-10|9|21|52|F|Intern|Bachelors|On Leave
+E1296|Mary|Sanders|D107|Sales Representative|mary.sanders@example.com|528-885-6806|102030|2019-04-02|4|26|31|M|Junior Sales Representative|Masters|Active
+E1297|Joshua|Rodriguez|D108|Analyst|joshua.rodriguez@example.com|997-238-6497|116268|2013-08-25|10|20|24|M|Junior Analyst|Diploma|Terminated
+E1298|Brian|Carter|D102|Sales Representative|brian.carter@example.com|879-537-6264|79441|2015-06-12|8|22|38|F|Junior Sales Representative|PhD|Terminated
+E1299|Jacob|Richardson|D108|Consultant|jacob.richardson@example.com|415-846-9874|52490|2020-11-15|2|28|48|M|Senior Consultant|Bachelors|Terminated
+E1300|Mark|Sanchez|D102|Consultant|mark.sanchez@example.com|277-682-2688|95306|2010-10-24|13|17|34|O|Senior Consultant|Masters|On Leave
+E1301|Sandra|Cox|D101|Consultant|sandra.cox@example.com|845-291-6165|78148|2019-03-30|4|26|52|O|Intern|Bachelors|Active
+E1302|Karen|Sanders|D104|Analyst|karen.sanders@example.com|757-998-4585|94332|2013-04-14|10|20|58|F|Junior Analyst|PhD|Retired
+E1303|Michelle|Hall|D104|Analyst|michelle.hall@example.com|626-333-7832|75512|2019-08-16|4|26|47|O|Senior Analyst|Diploma|Active
+E1304|Michael|Chavez|D101|Sales Representative|michael.chavez@example.com|383-129-8042|117802|2020-11-01|3|27|28|M|Intern|Bachelors|Terminated
+E1305|Ronald|Hall|D109|Manager|ronald.hall@example.com|353-618-4036|63281|2014-02-09|9|21|56|M|Intern|Diploma|Terminated
+E1306|Joshua|Cruz|D109|Analyst|joshua.cruz@example.com|151-839-1187|52808|2019-08-04|4|26|48|M|Intern|PhD|Retired
+E1307|Brandon|Clark|D107|Consultant|brandon.clark@example.com|617-940-5072|109964|2017-09-01|6|24|25|F|Junior Consultant|Masters|On Leave
+E1308|Anna|Jones|D103|Consultant|anna.jones@example.com|487-951-2278|74861|2015-11-09|8|22|58|M|Intern|Masters|Active
+E1309|Andrew|Ramos|D110|Developer|andrew.ramos@example.com|732-275-7584|93393|2012-04-19|11|19|30|F|Intern|Bachelors|Terminated
+E1310|Dorothy|Smith|D106|Designer|dorothy.smith@example.com|816-847-8257|99922|2020-05-17|3|27|29|M|Junior Designer|Masters|Terminated
+E1311|Amy|Bailey|D107|Manager|amy.bailey@example.com|502-699-6822|93734|2014-08-01|9|21|31|O|Junior Manager|PhD|On Leave
+E1312|Jessica|Rivera|D104|Manager|jessica.rivera@example.com|630-665-5720|63461|2019-01-27|4|26|26|M|Junior Manager|Diploma|Terminated
+E1313|William|Scott|D103|Manager|william.scott@example.com|436-925-1733|93718|2011-01-14|12|18|50|O|Senior Manager|Diploma|Retired
+E1314|Margaret|Turner|D102|Manager|margaret.turner@example.com|741-144-6076|68243|2015-03-30|8|22|31|F|Senior Manager|Masters|Active
+E1315|Nancy|Myers|D106|Developer|nancy.myers@example.com|804-461-4572|73307|2014-03-26|9|21|51|M|Junior Developer|Bachelors|Retired
+E1316|Stephanie|Rogers|D108|Designer|stephanie.rogers@example.com|761-562-6152|98363|2016-11-12|6|24|31|F|Junior Designer|Bachelors|On Leave
+E1317|Cynthia|Price|D102|Engineer|cynthia.price@example.com|627-919-8104|78894|2022-07-04|1|29|37|F|Senior Engineer|PhD|Active
+E1318|Alexander|Lewis|D105|Engineer|alexander.lewis@example.com|308-815-6742|53903|2010-03-25|13|17|41|M|Senior Engineer|Masters|On Leave
+E1319|Samantha|Castillo|D110|Sales Representative|samantha.castillo@example.com|606-596-1202|55819|2017-08-29|6|24|47|M|Intern|Diploma|Terminated
+E1320|Jonathan|Hernandez|D101|Analyst|jonathan.hernandez@example.com|742-967-3270|109576|2022-07-22|1|29|41|F|Junior Analyst|PhD|On Leave
+E1321|George|Hernandez|D107|Sales Representative|george.hernandez@example.com|378-223-3910|64454|2022-12-15|0|30|41|O|Intern|Diploma|On Leave
+E1322|Ashley|Richardson|D106|Designer|ashley.richardson@example.com|849-906-5388|65859|2010-02-28|13|17|27|M|Intern|PhD|Retired
+E1323|William|Diaz|D106|Engineer|william.diaz@example.com|728-524-9706|85137|2012-01-02|11|19|30|F|Junior Engineer|Diploma|Terminated
+E1324|Ruth|Hughes|D109|Designer|ruth.hughes@example.com|563-727-2309|54404|2018-10-26|5|25|58|M|Senior Designer|PhD|On Leave
+E1325|Andrew|Jimenez|D105|Developer|andrew.jimenez@example.com|780-369-1685|56044|2013-11-11|10|20|46|M|Intern|PhD|On Leave
+E1326|Scott|James|D103|Engineer|scott.james@example.com|108-257-4899|54554|2013-10-22|10|20|52|F|Senior Engineer|Masters|Terminated
+E1327|Larry|Howard|D106|Designer|larry.howard@example.com|789-163-8537|108322|2017-07-26|6|24|25|O|Junior Designer|Diploma|Terminated
+E1328|Pamela|Taylor|D104|Analyst|pamela.taylor@example.com|425-855-8062|77195|2014-10-09|9|21|26|O|Senior Analyst|Bachelors|Terminated
+E1329|Ruth|Patel|D105|Sales Representative|ruth.patel@example.com|306-749-1060|70718|2022-08-23|1|29|54|M|Junior Sales Representative|Masters|Retired
+E1330|Nicole|Sanders|D106|Manager|nicole.sanders@example.com|446-768-8307|67318|2020-10-12|3|27|32|O|Junior Manager|Bachelors|Active
+E1331|Helen|Edwards|D104|Manager|helen.edwards@example.com|531-730-3640|99904|2014-01-30|9|21|38|O|Senior Manager|Bachelors|Terminated
+E1332|Charles|Castillo|D102|Developer|charles.castillo@example.com|857-179-7939|110125|2017-12-24|5|25|42|M|Junior Developer|Masters|Retired
+E1333|Donna|Mendoza|D104|Designer|donna.mendoza@example.com|201-119-7272|56184|2011-01-07|12|18|46|M|Junior Designer|Diploma|Retired
+E1334|Thomas|Gonzalez|D106|Developer|thomas.gonzalez@example.com|385-761-4917|63322|2017-01-19|6|24|26|F|Intern|Masters|Retired
+E1335|Jonathan|Smith|D109|Developer|jonathan.smith@example.com|433-648-9551|70408|2017-06-17|6|24|55|O|Junior Developer|Masters|Terminated
+E1336|Nancy|Reed|D103|Manager|nancy.reed@example.com|826-832-1749|53057|2010-03-22|13|17|33|F|Intern|Bachelors|On Leave
+E1337|Katherine|Robinson|D107|Consultant|katherine.robinson@example.com|740-736-4321|109980|2015-09-17|8|22|53|F|Intern|Masters|Retired
+E1338|Patricia|Morales|D108|Developer|patricia.morales@example.com|268-524-3530|91018|2014-02-07|9|21|35|M|Senior Developer|PhD|Retired
+E1339|Larry|Myers|D109|Manager|larry.myers@example.com|993-982-6584|73020|2017-06-25|6|24|27|F|Junior Manager|Masters|Terminated
+E1340|Mark|Howard|D109|Engineer|mark.howard@example.com|156-725-4246|107420|2013-08-19|10|20|60|M|Junior Engineer|PhD|Retired
+E1341|Stephen|Roberts|D110|Analyst|stephen.roberts@example.com|809-149-8191|117284|2022-11-22|0|30|47|F|Intern|PhD|Active
+E1342|Jeffrey|Carter|D104|Sales Representative|jeffrey.carter@example.com|675-139-1542|67465|2016-07-15|7|23|52|M|Junior Sales Representative|Masters|Active
+E1343|Amy|Peterson|D109|Engineer|amy.peterson@example.com|510-609-9185|95088|2018-09-29|5|25|59|M|Junior Engineer|Bachelors|Terminated
+E1344|Amanda|Roberts|D105|Engineer|amanda.roberts@example.com|609-430-1523|63969|2016-12-08|6|24|51|M|Junior Engineer|Diploma|Terminated
+E1345|Carol|Cook|D105|Manager|carol.cook@example.com|729-515-1056|97994|2011-04-23|12|18|56|O|Junior Manager|Bachelors|Active
+E1346|Richard|Mitchell|D110|Developer|richard.mitchell@example.com|360-252-4514|55466|2012-10-24|11|19|58|O|Senior Developer|Masters|Active
+E1347|Benjamin|Turner|D105|Developer|benjamin.turner@example.com|864-157-1863|60182|2012-04-08|11|19|60|M|Junior Developer|Bachelors|Retired
+E1348|Gregory|Reyes|D110|Sales Representative|gregory.reyes@example.com|294-109-3834|72486|2018-09-11|5|25|58|M|Intern|Bachelors|Active
+E1349|Nicholas|Clark|D106|Engineer|nicholas.clark@example.com|609-811-8015|59535|2015-03-05|8|22|55|M|Intern|PhD|Retired
+E1350|Anna|Perez|D105|Manager|anna.perez@example.com|259-805-2431|87833|2021-09-30|2|28|44|O|Junior Manager|Masters|Active
+E1351|Jessica|Rodriguez|D101|Developer|jessica.rodriguez@example.com|248-291-1789|50685|2016-02-20|7|23|51|O|Junior Developer|Diploma|Retired
+E1352|Samantha|Murphy|D108|Analyst|samantha.murphy@example.com|470-313-3029|54007|2012-11-01|11|19|29|O|Junior Analyst|Masters|On Leave
+E1353|Eric|Howard|D108|Engineer|eric.howard@example.com|920-462-6613|111117|2016-07-05|7|23|24|M|Junior Engineer|PhD|Terminated
+E1354|Richard|Moore|D104|Developer|richard.moore@example.com|706-650-7017|73026|2010-05-06|13|17|55|F|Senior Developer|Diploma|Active
+E1355|Lisa|White|D109|Analyst|lisa.white@example.com|704-197-9348|105177|2017-06-04|6|24|37|O|Intern|Masters|Active
+E1356|Amanda|Hill|D104|Manager|amanda.hill@example.com|771-250-1472|61240|2013-11-25|9|21|58|F|Junior Manager|Diploma|Terminated
+E1357|Emily|Long|D110|Sales Representative|emily.long@example.com|796-575-5022|86179|2014-09-04|9|21|41|O|Senior Sales Representative|Masters|Terminated
+E1358|Joseph|James|D102|Sales Representative|joseph.james@example.com|572-573-4095|66915|2013-02-20|10|20|46|O|Senior Sales Representative|PhD|On Leave
+E1359|Kevin|Sanders|D101|Engineer|kevin.sanders@example.com|376-503-5044|95987|2021-03-09|2|28|43|M|Intern|Diploma|Active
+E1360|William|Morris|D106|Sales Representative|william.morris@example.com|770-892-6466|113065|2018-05-28|5|25|33|M|Junior Sales Representative|Diploma|Active
+E1361|Sarah|Thompson|D103|Sales Representative|sarah.thompson@example.com|866-613-3405|114215|2014-03-28|9|21|55|O|Senior Sales Representative|PhD|Terminated
+E1362|Richard|Carter|D101|Analyst|richard.carter@example.com|990-128-6240|60391|2016-11-20|6|24|44|F|Intern|Bachelors|On Leave
+E1363|Amanda|Cooper|D102|Engineer|amanda.cooper@example.com|771-416-2492|66803|2012-12-04|10|20|29|M|Junior Engineer|Bachelors|Retired
+E1364|Frank|Myers|D107|Consultant|frank.myers@example.com|884-744-3491|102875|2016-01-14|7|23|46|O|Senior Consultant|Bachelors|Terminated
+E1365|Steven|Hall|D104|Analyst|steven.hall@example.com|505-884-9828|57477|2018-10-03|5|25|59|O|Senior Analyst|Diploma|Active
+E1366|Nicole|Nguyen|D102|Consultant|nicole.nguyen@example.com|904-794-5384|83858|2018-05-25|5|25|28|M|Senior Consultant|Bachelors|Retired
+E1367|Nicholas|Flores|D102|Developer|nicholas.flores@example.com|985-841-3237|83308|2012-07-24|11|19|40|O|Senior Developer|Masters|On Leave
+E1368|Edward|Evans|D104|Engineer|edward.evans@example.com|630-753-8337|91006|2013-10-31|10|20|24|O|Senior Engineer|PhD|On Leave
+E1369|Robert|Flores|D103|Engineer|robert.flores@example.com|899-451-8760|74435|2014-12-11|8|22|58|M|Senior Engineer|Diploma|Retired
+E1370|Benjamin|Perez|D108|Sales Representative|benjamin.perez@example.com|779-284-4017|92850|2012-03-17|11|19|38|M|Junior Sales Representative|Bachelors|On Leave
+E1371|Samantha|Ortiz|D101|Analyst|samantha.ortiz@example.com|241-130-2085|57779|2015-02-15|8|22|34|F|Senior Analyst|Masters|Retired
+E1372|Larry|Clark|D101|Engineer|larry.clark@example.com|722-373-8169|79960|2017-02-05|6|24|47|O|Junior Engineer|Diploma|Active
+E1373|Samantha|Johnson|D104|Consultant|samantha.johnson@example.com|417-507-7101|54542|2020-08-18|3|27|55|M|Intern|Masters|On Leave
+E1374|Steven|Green|D107|Engineer|steven.green@example.com|491-395-1006|61768|2015-09-15|8|22|48|O|Intern|Diploma|Retired
+E1375|Jason|Morris|D103|Analyst|jason.morris@example.com|420-131-5665|50443|2020-10-10|3|27|29|M|Junior Analyst|PhD|Retired
+E1376|Daniel|Adams|D104|Sales Representative|daniel.adams@example.com|876-732-4984|54442|2020-04-11|3|27|57|M|Senior Sales Representative|Masters|Terminated
+E1377|John|Murphy|D108|Consultant|john.murphy@example.com|752-387-4335|99887|2019-06-24|4|26|53|F|Junior Consultant|Bachelors|Active
+E1378|Benjamin|Gomez|D102|Designer|benjamin.gomez@example.com|266-916-5508|95746|2021-03-27|2|28|57|F|Senior Designer|Masters|Terminated
+E1379|Angela|Edwards|D101|Manager|angela.edwards@example.com|113-118-6295|104712|2013-09-01|10|20|37|M|Junior Manager|Masters|Active
+E1380|Frank|Hall|D110|Sales Representative|frank.hall@example.com|379-296-1431|94999|2014-11-21|8|22|52|M|Intern|PhD|On Leave
+E1381|Daniel|Wright|D109|Developer|daniel.wright@example.com|828-223-1595|67475|2019-07-16|4|26|29|M|Intern|Diploma|Active
+E1382|Paul|Morris|D107|Manager|paul.morris@example.com|954-837-4170|73174|2021-08-31|2|28|46|M|Junior Manager|Masters|Retired
+E1383|Brenda|Roberts|D101|Consultant|brenda.roberts@example.com|660-534-1832|74606|2021-06-30|2|28|25|F|Junior Consultant|Bachelors|Retired
+E1384|Emily|Murphy|D107|Sales Representative|emily.murphy@example.com|396-774-9739|87848|2017-10-10|6|24|57|M|Junior Sales Representative|Diploma|Terminated
+E1385|William|Martin|D104|Consultant|william.martin@example.com|717-342-6197|53408|2011-03-27|12|18|25|O|Junior Consultant|Masters|Terminated
+E1386|Karen|Bennet|D104|Designer|karen.bennet@example.com|899-381-6271|76844|2020-09-04|3|27|31|F|Junior Designer|PhD|On Leave
+E1387|Helen|Hill|D110|Designer|helen.hill@example.com|715-947-2562|108711|2013-12-31|9|21|53|M|Junior Designer|PhD|Terminated
+E1388|Sharon|Phillips|D106|Developer|sharon.phillips@example.com|758-163-3055|65942|2019-04-22|4|26|27|M|Junior Developer|Diploma|Active
+E1389|Karen|Kelly|D108|Designer|karen.kelly@example.com|136-961-9925|79633|2013-08-07|10|20|51|F|Intern|Masters|Terminated
+E1390|Brenda|Thomas|D106|Developer|brenda.thomas@example.com|163-211-6074|93211|2022-07-01|1|29|38|F|Senior Developer|Bachelors|Terminated
+E1391|Nancy|Parker|D105|Engineer|nancy.parker@example.com|824-198-5477|62312|2015-10-14|8|22|51|F|Intern|Masters|On Leave
+E1392|Eric|Myers|D103|Engineer|eric.myers@example.com|395-641-8295|101411|2017-04-11|6|24|45|F|Intern|Masters|Active
+E1393|Laura|Brooks|D107|Designer|laura.brooks@example.com|520-947-3151|112028|2013-10-30|10|20|27|M|Intern|PhD|Retired
+E1394|Amy|Stewart|D104|Developer|amy.stewart@example.com|381-274-1222|101488|2022-11-08|1|29|37|M|Senior Developer|Masters|Terminated
+E1395|Anthony|Robinson|D105|Developer|anthony.robinson@example.com|968-675-7516|114774|2010-02-07|13|17|29|O|Senior Developer|Diploma|Active
+E1396|Brian|Gutierrez|D103|Consultant|brian.gutierrez@example.com|822-316-6701|84414|2014-12-09|8|22|28|M|Senior Consultant|Bachelors|Retired
+E1397|Christopher|Gutierrez|D104|Manager|christopher.gutierrez@example.com|760-922-3192|74263|2021-03-28|2|28|57|F|Senior Manager|Bachelors|Terminated
+E1398|Joseph|Chavez|D109|Engineer|joseph.chavez@example.com|324-378-4775|88195|2011-04-06|12|18|26|M|Intern|PhD|Retired
+E1399|James|Jackson|D108|Designer|james.jackson@example.com|676-830-7823|97286|2010-09-18|13|17|38|M|Senior Designer|Bachelors|Terminated
+E1400|Mark|Green|D105|Consultant|mark.green@example.com|914-837-5427|76077|2011-09-24|12|18|36|O|Intern|Masters|On Leave
+E1401|Cynthia|Chavez|D101|Engineer|cynthia.chavez@example.com|960-990-4679|60564|2010-05-28|13|17|53|F|Senior Engineer|Masters|Terminated
+E1402|Deborah|Watson|D105|Manager|deborah.watson@example.com|597-804-7472|74354|2019-11-04|4|26|26|M|Junior Manager|Masters|Retired
+E1403|Timothy|Moore|D102|Engineer|timothy.moore@example.com|258-239-4894|106732|2018-06-06|5|25|46|M|Junior Engineer|Masters|Active
+E1404|Gregory|Ross|D107|Engineer|gregory.ross@example.com|859-582-5419|107541|2016-05-20|7|23|51|M|Junior Engineer|Bachelors|Active
+E1405|Margaret|Morgan|D110|Consultant|margaret.morgan@example.com|572-160-4940|104347|2018-12-23|4|26|59|F|Junior Consultant|Diploma|Active
+E1406|Andrew|Robinson|D108|Engineer|andrew.robinson@example.com|772-778-6295|62073|2016-03-06|7|23|57|F|Intern|Diploma|Active
+E1407|Timothy|Chavez|D109|Developer|timothy.chavez@example.com|350-278-5621|60330|2013-02-05|10|20|51|M|Intern|Bachelors|Active
+E1408|Justin|Hill|D110|Developer|justin.hill@example.com|195-563-3845|117333|2013-03-15|10|20|56|F|Senior Developer|Diploma|Terminated
+E1409|Angela|Mitchell|D106|Designer|angela.mitchell@example.com|808-585-7789|100520|2011-12-11|11|19|33|F|Junior Designer|Diploma|Retired
+E1410|Mary|Young|D110|Developer|mary.young@example.com|705-258-8934|50160|2018-10-18|5|25|55|M|Intern|Diploma|On Leave
+E1411|Sarah|Chavez|D105|Manager|sarah.chavez@example.com|139-332-1127|118139|2010-09-24|13|17|27|F|Senior Manager|Bachelors|Active
+E1412|Frank|Baker|D102|Engineer|frank.baker@example.com|633-547-7298|91676|2020-07-21|3|27|38|O|Senior Engineer|Bachelors|Terminated
+E1413|Kevin|Brooks|D104|Designer|kevin.brooks@example.com|549-976-1930|52273|2021-03-22|2|28|58|M|Senior Designer|Diploma|On Leave
+E1414|Timothy|Nelson|D102|Engineer|timothy.nelson@example.com|166-916-7370|87623|2020-05-11|3|27|25|O|Intern|PhD|Active
+E1415|Mary|Price|D110|Engineer|mary.price@example.com|439-247-9643|69138|2019-05-17|4|26|50|F|Senior Engineer|PhD|Retired
+E1416|Helen|Parker|D102|Designer|helen.parker@example.com|857-465-6437|64159|2018-02-06|5|25|54|F|Junior Designer|Bachelors|Retired
+E1417|Mark|Jimenez|D109|Manager|mark.jimenez@example.com|952-849-2839|55063|2022-07-17|1|29|41|O|Senior Manager|PhD|Terminated
+E1418|Joshua|Phillips|D102|Analyst|joshua.phillips@example.com|617-272-8470|110817|2015-05-31|8|22|32|M|Intern|Diploma|Active
+E1419|Sarah|Gomez|D101|Sales Representative|sarah.gomez@example.com|257-469-5179|75378|2010-12-07|12|18|42|M|Intern|Bachelors|On Leave
+E1420|Samantha|Alvarez|D104|Sales Representative|samantha.alvarez@example.com|112-696-9539|84951|2014-04-23|9|21|51|O|Junior Sales Representative|Masters|Active
+E1421|Daniel|Cox|D104|Sales Representative|daniel.cox@example.com|284-616-1522|117111|2015-10-01|8|22|31|O|Senior Sales Representative|Masters|Retired
+E1422|Ryan|Gray|D102|Sales Representative|ryan.gray@example.com|894-656-2255|57361|2010-12-21|12|18|33|O|Intern|Diploma|Active
+E1423|Christine|Gonzalez|D101|Engineer|christine.gonzalez@example.com|310-601-8580|79636|2014-04-11|9|21|39|O|Intern|Diploma|Active
+E1424|Jennifer|Gray|D102|Sales Representative|jennifer.gray@example.com|743-373-5306|115727|2021-02-04|2|28|42|M|Junior Sales Representative|Diploma|On Leave
+E1425|Timothy|Gutierrez|D103|Engineer|timothy.gutierrez@example.com|131-239-3367|106984|2018-01-15|5|25|30|M|Senior Engineer|PhD|Active
+E1426|Nicole|Reyes|D110|Consultant|nicole.reyes@example.com|691-394-8846|75164|2011-11-28|11|19|55|O|Senior Consultant|Masters|Active
+E1427|Joseph|Hughes|D102|Sales Representative|joseph.hughes@example.com|637-162-7595|87598|2015-12-22|7|23|44|F|Junior Sales Representative|Bachelors|On Leave
+E1428|Jacob|Watson|D102|Sales Representative|jacob.watson@example.com|487-760-8222|90183|2014-11-02|9|21|30|F|Senior Sales Representative|Masters|Active
+E1429|Nicole|Taylor|D106|Designer|nicole.taylor@example.com|773-929-5363|84196|2016-03-21|7|23|32|F|Junior Designer|Diploma|Terminated
+E1430|Rebecca|Richardson|D105|Sales Representative|rebecca.richardson@example.com|969-334-8407|82826|2012-08-22|11|19|28|M|Junior Sales Representative|Diploma|Retired
+E1431|William|Rogers|D109|Analyst|william.rogers@example.com|278-190-7759|111821|2015-03-16|8|22|44|M|Senior Analyst|Diploma|On Leave
+E1432|Richard|Walker|D107|Consultant|richard.walker@example.com|215-744-1822|114249|2020-04-03|3|27|39|M|Junior Consultant|PhD|Terminated
+E1433|Timothy|Garcia|D103|Consultant|timothy.garcia@example.com|813-232-3983|71719|2013-05-29|10|20|58|F|Junior Consultant|Bachelors|Active
+E1434|George|Richardson|D104|Designer|george.richardson@example.com|991-561-9172|83444|2016-07-25|7|23|31|F|Intern|Masters|On Leave
+E1435|Stephen|Cooper|D103|Analyst|stephen.cooper@example.com|179-108-2071|68112|2015-03-20|8|22|44|M|Senior Analyst|Bachelors|Terminated
+E1436|Samantha|Rodriguez|D107|Analyst|samantha.rodriguez@example.com|535-953-5969|51143|2010-10-16|13|17|56|O|Junior Analyst|Diploma|On Leave
+E1437|Emily|Moore|D109|Consultant|emily.moore@example.com|182-297-2087|102558|2010-08-17|13|17|30|O|Senior Consultant|Diploma|Active
+E1438|Joseph|Ross|D109|Consultant|joseph.ross@example.com|711-615-1752|52036|2011-11-29|11|19|30|O|Senior Consultant|Masters|Active
+E1439|Kevin|Murphy|D108|Manager|kevin.murphy@example.com|199-777-1954|61895|2015-03-10|8|22|48|O|Junior Manager|Bachelors|Retired
+E1440|Stephen|Thompson|D101|Analyst|stephen.thompson@example.com|380-318-2978|85038|2022-06-18|1|29|24|O|Senior Analyst|Bachelors|Retired
+E1441|Amy|Bailey|D102|Designer|amy.bailey@example.com|753-439-8198|90107|2011-12-27|11|19|40|F|Senior Designer|Bachelors|On Leave
+E1442|Anna|Jimenez|D106|Sales Representative|anna.jimenez@example.com|838-952-3224|85593|2022-03-08|1|29|41|F|Senior Sales Representative|Masters|Active
+E1443|Sandra|Ross|D102|Analyst|sandra.ross@example.com|299-412-1335|117015|2010-01-30|13|17|24|M|Senior Analyst|Diploma|Retired
+E1444|Benjamin|Hernandez|D107|Analyst|benjamin.hernandez@example.com|810-730-4851|79859|2011-03-21|12|18|42|O|Junior Analyst|Masters|On Leave
+E1445|Lisa|Patel|D105|Engineer|lisa.patel@example.com|723-510-5743|51744|2012-06-07|11|19|60|O|Intern|Bachelors|On Leave
+E1446|Benjamin|Hill|D110|Manager|benjamin.hill@example.com|432-157-6515|105152|2014-11-03|9|21|39|F|Intern|Diploma|On Leave
+E1447|Jonathan|Howard|D106|Engineer|jonathan.howard@example.com|325-756-5765|53492|2011-08-18|12|18|28|F|Intern|Diploma|Terminated
+E1448|Michelle|Turner|D103|Consultant|michelle.turner@example.com|228-703-2211|64960|2018-08-26|5|25|50|M|Intern|PhD|Active
+E1449|Richard|Taylor|D103|Designer|richard.taylor@example.com|153-769-9597|86032|2016-07-07|7|23|46|F|Intern|Diploma|Terminated
+E1450|Melissa|Morris|D101|Engineer|melissa.morris@example.com|475-793-5441|52491|2011-05-06|12|18|57|M|Intern|Bachelors|Active
+E1451|Anna|Lewis|D110|Developer|anna.lewis@example.com|251-720-8385|76532|2021-09-08|2|28|24|F|Intern|Diploma|Retired
+E1452|Nancy|Hernandez|D106|Sales Representative|nancy.hernandez@example.com|431-576-3671|82340|2014-12-27|8|22|31|F|Intern|Bachelors|Active
+E1453|Donna|Roberts|D105|Developer|donna.roberts@example.com|905-946-8484|72538|2011-02-15|12|18|25|O|Intern|PhD|Retired
+E1454|Mary|Green|D105|Engineer|mary.green@example.com|405-409-3875|91025|2011-07-14|12|18|51|M|Intern|Masters|Retired
+E1455|John|Cooper|D110|Engineer|john.cooper@example.com|487-708-6593|81239|2012-05-08|11|19|32|O|Junior Engineer|PhD|Active
+E1456|Samuel|Rodriguez|D107|Sales Representative|samuel.rodriguez@example.com|671-609-5266|74116|2013-12-18|9|21|57|M|Junior Sales Representative|PhD|Active
+E1457|Katherine|Edwards|D109|Engineer|katherine.edwards@example.com|150-999-1264|117258|2019-05-15|4|26|50|F|Senior Engineer|Bachelors|Retired
+E1458|Samuel|Evans|D110|Designer|samuel.evans@example.com|392-769-4276|65940|2014-12-17|8|22|28|O|Senior Designer|Masters|On Leave
+E1459|Jennifer|Phillips|D103|Engineer|jennifer.phillips@example.com|914-292-8241|71844|2010-07-21|13|17|48|F|Intern|Bachelors|Terminated
+E1460|William|Campbell|D101|Developer|william.campbell@example.com|127-745-4216|81321|2012-01-16|11|19|30|O|Intern|Bachelors|Retired
+E1461|Rebecca|Morris|D104|Consultant|rebecca.morris@example.com|407-887-1009|86350|2012-06-01|11|19|26|F|Intern|Diploma|Retired
+E1462|Barbara|Chavez|D103|Analyst|barbara.chavez@example.com|544-574-2056|78998|2018-07-08|5|25|31|F|Intern|PhD|Retired
+E1463|Samantha|Ward|D105|Designer|samantha.ward@example.com|166-399-1661|84946|2020-04-04|3|27|60|F|Junior Designer|Diploma|Terminated
+E1464|Kathleen|Martin|D103|Consultant|kathleen.martin@example.com|349-302-3825|93470|2017-10-30|6|24|42|F|Intern|Bachelors|Active
+E1465|Thomas|Hernandez|D109|Developer|thomas.hernandez@example.com|714-338-8440|107240|2010-08-11|13|17|30|M|Intern|Diploma|On Leave
+E1466|Susan|Gray|D109|Engineer|susan.gray@example.com|435-986-4385|67352|2020-12-09|2|28|28|F|Intern|Diploma|Active
+E1467|Amanda|Cooper|D106|Developer|amanda.cooper@example.com|288-621-6039|103665|2011-06-16|12|18|38|O|Junior Developer|Masters|Active
+E1468|Andrew|Lopez|D108|Consultant|andrew.lopez@example.com|119-227-9790|81011|2017-12-23|5|25|49|O|Intern|Diploma|Terminated
+E1469|Amanda|Myers|D105|Analyst|amanda.myers@example.com|845-817-4862|74268|2018-07-26|5|25|33|M|Senior Analyst|Diploma|Active
+E1470|William|Evans|D107|Engineer|william.evans@example.com|472-206-4878|111880|2013-06-08|10|20|31|M|Intern|Bachelors|On Leave
+E1471|Frank|Lewis|D102|Manager|frank.lewis@example.com|472-762-6112|85681|2019-11-16|3|27|27|M|Junior Manager|Masters|Retired
+E1472|Larry|Johnson|D110|Sales Representative|larry.johnson@example.com|397-746-8950|57245|2010-10-27|13|17|30|F|Junior Sales Representative|Masters|Active
+E1473|Jessica|Lee|D107|Consultant|jessica.lee@example.com|745-207-1033|107177|2017-10-03|6|24|51|O|Junior Consultant|Masters|Terminated
+E1474|William|Rivera|D107|Designer|william.rivera@example.com|863-290-2760|97830|2012-09-01|11|19|32|O|Intern|Masters|Retired
+E1475|Mark|Evans|D108|Analyst|mark.evans@example.com|786-293-7525|60527|2014-04-11|9|21|29|F|Intern|Diploma|Terminated
+E1476|Thomas|Allen|D107|Consultant|thomas.allen@example.com|767-147-7753|108952|2012-04-17|11|19|38|M|Senior Consultant|Bachelors|Active
+E1477|James|Thompson|D102|Manager|james.thompson@example.com|426-133-4870|98497|2021-04-06|2|28|34|M|Senior Manager|Bachelors|Retired
+E1478|Joshua|Clark|D107|Analyst|joshua.clark@example.com|200-307-6551|59060|2014-11-13|8|22|31|O|Intern|PhD|On Leave
+E1479|Eric|Robinson|D104|Designer|eric.robinson@example.com|773-373-1891|111992|2017-05-23|6|24|52|O|Senior Designer|Diploma|Active
+E1480|Betty|Phillips|D105|Sales Representative|betty.phillips@example.com|649-686-8191|104998|2015-10-31|8|22|34|F|Junior Sales Representative|Bachelors|Retired
+E1481|Anthony|Murphy|D101|Manager|anthony.murphy@example.com|259-884-1423|114269|2021-01-25|2|28|24|F|Junior Manager|PhD|On Leave
+E1482|Donna|Davis|D104|Designer|donna.davis@example.com|794-547-8606|55723|2015-04-18|8|22|51|F|Junior Designer|Masters|Active
+E1483|Elizabeth|Jimenez|D105|Developer|elizabeth.jimenez@example.com|984-569-3659|117398|2020-11-05|3|27|42|F|Senior Developer|PhD|On Leave
+E1484|Richard|Price|D103|Designer|richard.price@example.com|238-156-1685|91385|2015-06-23|8|22|31|F|Junior Designer|PhD|On Leave
+E1485|Scott|Rodriguez|D108|Consultant|scott.rodriguez@example.com|381-442-5831|105185|2010-10-20|13|17|36|O|Intern|PhD|Terminated
+E1486|Ruth|Martinez|D108|Sales Representative|ruth.martinez@example.com|272-730-3796|107548|2021-01-02|2|28|50|F|Junior Sales Representative|Diploma|Terminated
+E1487|Brian|Martinez|D108|Manager|brian.martinez@example.com|769-672-4704|82879|2021-02-28|2|28|55|O|Senior Manager|Bachelors|Terminated
+E1488|Alexander|Rivera|D103|Manager|alexander.rivera@example.com|160-930-5612|103468|2018-09-07|5|25|39|M|Senior Manager|Masters|Terminated
+E1489|Patricia|Collins|D106|Engineer|patricia.collins@example.com|619-782-4289|50075|2011-11-07|12|18|59|M|Senior Engineer|Bachelors|Terminated
+E1490|Michelle|Watson|D108|Engineer|michelle.watson@example.com|243-252-3715|92002|2021-09-29|2|28|44|F|Senior Engineer|Masters|Active
+E1491|Richard|Martinez|D110|Manager|richard.martinez@example.com|373-124-2899|64849|2017-02-27|6|24|45|M|Senior Manager|PhD|Retired
+E1492|Jeffrey|Cooper|D107|Analyst|jeffrey.cooper@example.com|668-185-5273|113104|2011-01-05|12|18|37|O|Intern|Diploma|On Leave
+E1493|Ryan|Martinez|D103|Engineer|ryan.martinez@example.com|602-545-3857|65736|2015-05-23|8|22|30|M|Junior Engineer|Diploma|Active
+E1494|Sandra|Collins|D110|Developer|sandra.collins@example.com|613-428-5061|63318|2013-05-28|10|20|31|O|Intern|Bachelors|Active
+E1495|Eric|Wright|D102|Analyst|eric.wright@example.com|415-822-5026|79378|2015-12-22|7|23|30|F|Senior Analyst|Masters|Retired
+E1496|Margaret|Rodriguez|D109|Developer|margaret.rodriguez@example.com|749-929-1483|69260|2020-04-27|3|27|59|O|Junior Developer|PhD|Retired
+E1497|James|Bailey|D101|Sales Representative|james.bailey@example.com|530-835-5187|83321|2016-10-21|7|23|25|O|Junior Sales Representative|Masters|Active
+E1498|Paul|Sanchez|D109|Designer|paul.sanchez@example.com|567-410-7930|116009|2020-06-10|3|27|34|F|Senior Designer|Diploma|Active
+E1499|Linda|Bennet|D106|Analyst|linda.bennet@example.com|331-698-6422|64798|2021-11-22|1|29|40|M|Junior Analyst|Bachelors|Retired
+E1500|Brian|Hughes|D107|Developer|brian.hughes@example.com|901-342-8554|106462|2016-09-01|7|23|37|F|Senior Developer|PhD|Terminated
