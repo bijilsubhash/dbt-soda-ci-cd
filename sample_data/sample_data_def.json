@@ -3,7 +3,7 @@
   "csvOptions": {
     "allowJaggedRows": false,
     "allowQuotedNewlines": false,
-    "encoding": "UTF-8",
+    "encoding": "ISO-8859–1",
     "fieldDelimiter": "|",
     "preserveAsciiControlCharacters": false,
     "quote": "\"",
