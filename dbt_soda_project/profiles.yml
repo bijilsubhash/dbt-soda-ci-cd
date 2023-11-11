@@ -1,7 +1,7 @@
 dbt_soda_project:
   outputs:
     dev:
-      dataset: dbt-soda-dataset
+      dataset: dbt_soda_dataset
       job_execution_timeout_seconds: 300
       job_retries: 1
       location: EU
@@ -10,4 +10,5 @@ dbt_soda_project:
       project: dbt-ci-cd
       threads: 2
       type: bigquery
+      impersonate_service_account: dbt-runner@dbt-ci-cd.iam.gserviceaccount.com
   target: dev
