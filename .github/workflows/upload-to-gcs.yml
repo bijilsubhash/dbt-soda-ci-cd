@@ -29,9 +29,17 @@ jobs:
     - name: 'Set up Cloud SDK'
       uses: 'google-github-actions/setup-gcloud@v1'
 
-    - name: Create BigQuery External Table
+    - name: Create or Replace BigQuery External Table
       run: |
-        bq mk \
-        --external_table_definition=CSV:sample_data.json@gs://dbt-soda-ci-cd/sample_data/sample_data.csv \
-        dbt-ci-cd:external_tables.employees
+        if bq ls --format=prettyjson your-project-id:your_dataset | grep -q '"id": "your-project-id:your_dataset.your_table_name"'; then
+          echo "Table exists. Updating..."
+          bq update \
+            --external_table_definition=CSV:sample_data.json@gs://dbt-soda-ci-cd/sample_data/sample_data.csv \
+            dbt-ci-cd:external_tables.employees
+        else
+          echo "Table does not exist. Creating..."
+          bq mk \
+            --external_table_definition=CSV:sample_data.json@gs://dbt-soda-ci-cd/sample_data/sample_data.csv \
+            dbt-ci-cd:external_tables.employees
+        fi
 
