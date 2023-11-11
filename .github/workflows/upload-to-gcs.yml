@@ -47,4 +47,4 @@ jobs:
         bq mk --table \
           --external_table_definition=gs://dbt-soda-ci-cd-ops/sample_data/sample_data_def.json \
           dbt-ci-cd:external_tables.employees \
-          gs://dbt-soda-ci-cd-ops/sample_data/sample_data_schema.json
+          gs://dbt-soda-ci-cd-ops/sample_data/sample_data_schema.json --skip_leading_rows=1
