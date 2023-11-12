@@ -20,46 +20,45 @@ jobs:
   run-dbt-with-soda-check:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout Repository
+    - name: checkout repository
       uses: actions/checkout@main
 
-    - name: Set up Python
+    - name: set up python
       uses: actions/setup-python@v3
       with:
         python-version: '3.10' 
 
-    - name: Install Poetry and Soda
+    - name: install poetry and soda
       run: |
         curl -sSL https://install.python-poetry.org | python3 -
         pip install -i https://pypi.cloud.soda.io soda-bigquery==1.0.4
 
-    - name: Authenticate to Google Cloud
+    - name: authenticate to google cloud
       uses: google-github-actions/auth@v1
       with:
         credentials_json: ${{ secrets.GCP_SA_JSON }}
 
-    - name: Upload to Google Cloud Storage
+    - name: upload to google cloud storage
       uses: google-github-actions/upload-cloud-storage@v1
       with:
         path: 'sample_data'
         destination: ${{ secrets.GCS_LOCATION }}
 
-    - name: Install Poetry Dependencies
+    - name: install poetry dependencies
       run: |
         poetry install
 
-    - name: Run Poetry Variables and Installing dbt Dependencies
+    - name: run poetry variables and installing dbt dependencies
       working-directory: ./dbt_soda_project
       run: |
-        echo "Switched to $(pwd)"
         poetry run dbt deps
 
-    - name: Run dbt
+    - name: run dbt
       working-directory: ./
       run: |
         poetry run dbt run --project-dir dbt_soda_project/ --profiles-dir dbt_soda_project/
 
-    - name: Perform Soda Scan
+    - name: perform soda scan
       uses: sodadata/soda-github-action@main
       env:
          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
