@@ -15,7 +15,14 @@ on:
       - 'sample_data/**'
       - 'dbt_soda_project/**'
       - 'soda/**'
-      
+env:
+    DATASET: ${{ secrets.DATASET }}
+    PROJECT_ID: ${{ secrets.PROJECT_ID }}
+    GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+    PROJECT_ID_WITH_QUOTES: ${{ secrets.PROJECT_ID_WITH_QUOTES }}
+    SODA_API_KEY_ID: ${{ secrets.SODA_API_KEY_ID }}
+    SODA_API_KEY_SECRET: ${{ secrets.SODA_API_KEY_SECRET }}
+
 jobs:
   run-dbt-with-soda-check:
     runs-on: ubuntu-latest
@@ -55,20 +62,11 @@ jobs:
 
     - name: run dbt
       working-directory: ./
-      env:
-         DATASET: ${{ secrets.DATASET }}
-         PROJECT_ID: ${{ secrets.PROJECT_ID }}
       run: |
         poetry run dbt run --project-dir dbt_soda_project/ --profiles-dir dbt_soda_project/
 
     - name: perform soda scan
       uses: sodadata/soda-github-action@main
-      env:
-         GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
-         PROJECT_ID_WITH_QUOTES: ${{ secrets.PROJECT_ID_WITH_QUOTES }}
-         DATASET: ${{ secrets.DATASET }}
-         SODA_API_KEY_ID: ${{ secrets.SODA_API_KEY_ID }}
-         SODA_API_KEY_SECRET: ${{ secrets.SODA_API_KEY_SECRET }}
       with:
         soda_library_version: v1.0.4
         data_source: soda_ci_cd
