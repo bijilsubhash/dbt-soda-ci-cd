@@ -51,6 +51,10 @@ jobs:
         poetry run dbt run --project-dir dbt_soda_project/ --profiles-dir dbt_soda_project/
 
     - name: Soda test
+      env:
+         GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+         SODA_API_KEY_ID: ${{ secrets.SODA_API_KEY_ID }}
+         SODA_API_KEY_SECRET: ${{ secrets.SODA_API_KEY_SECRET }}
       run: |
         poetry run soda test-connection -d soda_ci_cd -c configuration.yml
 
