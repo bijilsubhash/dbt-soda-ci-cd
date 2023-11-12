@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'sample_data/**'
-      - 'dbt_soda_project/models/**'
+      - 'dbt_soda_project/**'
       
 jobs:
   upload-to-gcs:
