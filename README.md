@@ -10,5 +10,5 @@ This project focuses on the integration of SODA within a dbt continuous integrat
 - **SODA:** For conducting data quality checks and monitoring.
 - **GitHub Actions:** For automating CI/CD pipeline.
 - **Google Cloud Storage (GCS):** For sample data file storage and management.
-- - **BigQuery:** For data warehousing.
+- **BigQuery:** For data warehousing.
 - **Poetry:** For Python dependency management.
