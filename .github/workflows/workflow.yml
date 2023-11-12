@@ -52,6 +52,6 @@ jobs:
 
     - name: Soda test
       run: |
-        poerty run soda test-connection -d soda_ci_cd -c configuration.yml
+        poetry run soda test-connection -d soda_ci_cd -c configuration.yml
 
 
