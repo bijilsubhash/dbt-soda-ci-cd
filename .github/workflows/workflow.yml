@@ -39,10 +39,15 @@ jobs:
       run: |
         poetry install
 
-    - name: Run Poetry Commands
+    - name: Run Poetry Variables and Installing dbt Dependencies
+      working-directory: ./dbt_soda_project
       run: |
+        echo "Switched to $(pwd)"
         export DBT_PROFILES_DIR=/home/runner/work/dbt-soda-ci-cd/dbt-soda-ci-cd/dbt_soda_project
-        cd dbt_soda_project   
         poetry run dbt deps
-        cd ../
-        poetry run dbt run
+
+    - name: Run dbt
+      run: |
+        poetry run dbt deps
+
+
