@@ -43,11 +43,10 @@ jobs:
       working-directory: ./dbt_soda_project
       run: |
         echo "Switched to $(pwd)"
-        export DBT_PROFILES_DIR=/home/runner/work/dbt-soda-ci-cd/dbt_soda_project/
         poetry run dbt deps
 
     - name: Run dbt
       run: |
-        poetry run dbt run
+        poetry run dbt run --profiles-dir=/home/runner/work/dbt-soda-ci-cd/dbt_soda_project/
 
 
