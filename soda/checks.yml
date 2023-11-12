@@ -1,4 +1,4 @@
 checks for employees:
   - row_count > 0:
-      name: checking the row count
+      name: checking the row count.
       
