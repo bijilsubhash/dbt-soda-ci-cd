@@ -1,4 +1,6 @@
 checks for employees:
   - row_count > 0:
-      name: checking the row count.
+      name: checking the row count
+  - duplicate_count(employee_id) = 0:
+      name: checking for duplicates in the employee records
       

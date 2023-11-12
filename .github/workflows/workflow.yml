@@ -1,4 +1,4 @@
-name: Upload CSV to Google Cloud Storage and Run dbt
+name: Upload CSV to Google Cloud Storage, run dbt and checks in Soda
 
 on:
   push:
@@ -10,7 +10,7 @@ on:
       - 'soda/**'
       
 jobs:
-  upload-to-gcs-and-run-dbt:
+  upload-to-gcs-run-dbt-soda-check:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout Repository
