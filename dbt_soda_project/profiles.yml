@@ -1,13 +1,13 @@
 dbt_soda_project:
   outputs:
     dev:
-      dataset: ${ DATASET }
+      dataset: "{{ env_var('DATASET') }}"
       job_execution_timeout_seconds: 300
       job_retries: 1
       location: EU
       method: oauth
       priority: interactive
-      project: ${ PROJECT_ID }
+      project: "{{ env_var('PROJECT_ID') }}"
       threads: 2
       type: bigquery
   target: dev
