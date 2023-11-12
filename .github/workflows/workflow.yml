@@ -45,4 +45,4 @@ jobs:
         cd dbt_soda_project   
         poetry run dbt deps
         cd ../
-        poetry run dbt run --profile-dir dbt_soda_project
+        poetry run dbt run --profiles-dir dbt_soda_project
