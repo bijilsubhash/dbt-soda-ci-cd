@@ -2,14 +2,13 @@
 # See Authentication methods below for more config options
 data_source soda_ci_cd:
   type: bigquery
+  account_info_json: ${{ secrets.GCP_SA_KEY }}
   auth_scopes:
   - https://www.googleapis.com/auth/bigquery
   - https://www.googleapis.com/auth/cloud-platform
   - https://www.googleapis.com/auth/drive
   project_id: "dbt-ci-cd"
   dataset: dbt_soda_dataset
-  use_context_auth: True
-  impersonation_account: ${{ secrets.GCP_SA_EMAIL }}
 
 soda_cloud:
   host: cloud.soda.io
