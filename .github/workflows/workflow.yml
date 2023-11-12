@@ -8,6 +8,13 @@ on:
       - 'sample_data/**'
       - 'dbt_soda_project/**'
       - 'soda/**'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'sample_data/**'
+      - 'dbt_soda_project/**'
+      - 'soda/**'
       
 jobs:
   upload-to-gcs-run-dbt-soda-check:
