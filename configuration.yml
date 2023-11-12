@@ -8,7 +8,7 @@ data_source soda_ci_cd:
   - https://www.googleapis.com/auth/drive
   project_id: ${{ secrets.PROJECT_ID }}
   dataset: dbt_soda_dataset
-  impersonation_account: ${{ secrets.GCP_SA_KEY }}
+  impersonation_account: ${{ secrets.GCP_SA_EMAIL }}
 
 soda_cloud:
   host: cloud.soda.io
