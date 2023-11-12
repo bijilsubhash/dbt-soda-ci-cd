@@ -48,6 +48,6 @@ jobs:
 
     - name: Run dbt
       run: |
-        poetry run dbt deps
+        poetry run dbt run
 
 
