@@ -1,0 +1,16 @@
+# Service Account Key authentication method
+# See Authentication methods below for more config options
+data_source soda_ci_cd:
+  type: bigquery
+  auth_scopes:
+  - https://www.googleapis.com/auth/bigquery
+  - https://www.googleapis.com/auth/cloud-platform
+  - https://www.googleapis.com/auth/drive
+  project_id: ${{ secrets.PROJECT_ID }}
+  dataset: dbt_soda_dataset
+  impersonation_account: ${{ secrets.GCP_SA_KEY }}
+
+soda_cloud:
+  host: cloud.soda.io
+  api_key_id: ${{ secrets.SODA_API_KEY_ID }}
+  api_key_secret: ${{ secrets.SODA_API_KEY_SECRET }}
