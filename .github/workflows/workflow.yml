@@ -9,7 +9,7 @@ on:
       - 'dbt_soda_project/**'
       
 jobs:
-  upload-to-gcs:
+  upload-to-gcs-and-run-dbt:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout Repository
