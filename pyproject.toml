@@ -1,6 +1,4 @@
 [tool.poetry]
-name = "dbt_soda_project"
-version = "0.1.0"
 description = "My first dbt-soda project"
 authors = ["Bijil Subhash"]
 [tool.poetry.dependencies]
