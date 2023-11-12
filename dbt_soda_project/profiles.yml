@@ -1,13 +1,13 @@
 dbt_soda_project:
   outputs:
     dev:
-      dataset: ${{ secrets.DATASET }}
+      dataset: ${ DATASET }
       job_execution_timeout_seconds: 300
       job_retries: 1
       location: EU
       method: oauth
       priority: interactive
-      project: ${{ secrets.PROJECT_ID }}
+      project: dbt-ci-cd
       threads: 2
       type: bigquery
   target: dev
