@@ -8,7 +8,7 @@ data_source soda_ci_cd:
   - https://www.googleapis.com/auth/cloud-platform
   - https://www.googleapis.com/auth/drive
   project_id: ${ PROJECT_ID_WITH_QUOTES }
-  dataset: ${ DATASET } dbt_soda_dataset
+  dataset: ${ DATASET }
 
 soda_cloud:
   host: cloud.soda.io
