@@ -62,6 +62,8 @@ jobs:
       uses: sodadata/soda-github-action@main
       env:
          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+         PROJECT_ID_WITH_QUOTES: ${{ secrets.PROJECT_ID_WITH_QUOTES }}
+         DATASET: ${{ secrets.DATASET }}
          SODA_API_KEY_ID: ${{ secrets.SODA_API_KEY_ID }}
          SODA_API_KEY_SECRET: ${{ secrets.SODA_API_KEY_SECRET }}
       with:
