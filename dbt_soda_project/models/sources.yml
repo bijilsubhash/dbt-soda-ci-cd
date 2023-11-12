@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: external_tables
+    database: dbt-ci-cd  
+    schema: external_tables  
+    tables:
+      - name: employees
