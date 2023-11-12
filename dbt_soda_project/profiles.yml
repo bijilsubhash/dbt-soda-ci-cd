@@ -7,7 +7,7 @@ dbt_soda_project:
       location: EU
       method: oauth
       priority: interactive
-      project: "${ PROJECT_ID }"
+      project: ${ PROJECT_ID_WITH_QUOTES }
       threads: 2
       type: bigquery
   target: dev
