@@ -60,7 +60,7 @@ jobs:
          SODA_API_KEY_SECRET: ${{ secrets.SODA_API_KEY_SECRET }}
       with:
         soda_library_version: v1.0.4
-        data_source: bigquery
+        data_source: soda_ci_cd
         configuration: ./soda/configuration.yml
         checks: ./soda/checks.yml
 
