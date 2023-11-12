@@ -41,8 +41,8 @@ jobs:
 
     - name: Run Poetry Commands
       run: |
-        export DBT_PROFILES_DIR=./dbt_soda_project
+        export DBT_PROFILES_DIR=/home/runner/work/dbt-soda-ci-cd/dbt-soda-ci-cd/dbt_soda_project
         cd dbt_soda_project   
         poetry run dbt deps
         cd ../
-        poetry run dbt run --profiles-dir dbt_soda_project
+        poetry run dbt run
