@@ -55,6 +55,9 @@ jobs:
 
     - name: run dbt
       working-directory: ./
+      env:
+         DATASET: ${{ secrets.DATASET }}
+         PROJECT_ID: ${{ secrets.PROJECT_ID }}
       run: |
         poetry run dbt run --project-dir dbt_soda_project/ --profiles-dir dbt_soda_project/
 
