@@ -49,6 +49,6 @@ jobs:
       working-directory: ./
       run: |
         echo "Switched to $(pwd)"
-        poetry run dbt run --project-dir dbt_soda_project/ --profiles-dir ..
+        poetry run dbt run --project-dir dbt_soda_project/ --profiles-dir dbt_soda_project/
 
 
