@@ -43,7 +43,7 @@ jobs:
     - name: authenticate to google cloud
       uses: google-github-actions/auth@v1
       with:
-        credentials_json: ${{ secrets.GCP_SA_JSON }}
+        credentials_json: ${{ secrets.GCP_SA_JSON_KEY }}
 
     - name: upload to google cloud storage
       uses: google-github-actions/upload-cloud-storage@v1
