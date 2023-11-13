@@ -2,7 +2,7 @@
 # See Authentication methods below for more config options
 data_source soda_ci_cd:
   type: bigquery
-  account_info_json: '${ GCP_SA_JSON_KEY }'
+  account_info_json: ${ GCP_SA_KEY }
   auth_scopes:
   - https://www.googleapis.com/auth/bigquery
   - https://www.googleapis.com/auth/cloud-platform
